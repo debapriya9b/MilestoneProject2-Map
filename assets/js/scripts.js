@@ -1,3 +1,10 @@
+$(document).ready(function(){
+        $("#myModal").modal('show');
+    });
+
+
+
+
 //Creating map options
 var mapOptions = {
     center: [40.4168, -3.7038],
@@ -41,7 +48,4 @@ L.geoJson(volcano, {
         },
     onEachFeature: volcanoSearch
 }).addTo(map);
-
-
-//Button On/Off
 
