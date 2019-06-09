@@ -1,3 +1,6 @@
+
+//Modal will open with page load
+
 $(document).ready(function(){
         $("#myModal").modal('show');
     });
@@ -17,7 +20,7 @@ var mapOptions = {
 var map = new L.map('map', mapOptions);
 
 // Creating a Layer object
-var layer = new L.TileLayer('http://{s}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png');
+var layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
 
 
 // Adding layer to the map
