@@ -16,9 +16,16 @@ body {
 }
 
 
+.footer-details {
+  height: 30px;
+  background-color: #000000;
+  color:#ffffff;
+  text-align: center;
+}
 
-
-
+.footer-details p {
+  padding-top: 10px;
+}
 
 
 

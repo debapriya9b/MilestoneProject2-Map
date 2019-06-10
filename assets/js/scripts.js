@@ -20,7 +20,7 @@ var mapOptions = {
 var map = new L.map('map', mapOptions);
 
 // Creating a Layer object
-var layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
+var layer = new L.TileLayer('https://api.maptiler.com/maps/streets/{z}/{x}/{y}.png?key=8vFNrApGjV6jRicu4ins',);
 
 
 // Adding layer to the map
@@ -40,7 +40,7 @@ var geojsonMarkerOptions = {
 
 function volcanoSearch(feature, layer) {
     layer.bindPopup("<h6>Name:" + feature.properties.NAME_ + "</h6><p>Type:" + feature.properties.TYPE_ + "</p>");
-    
+    //LOCATION.layer = layer;
 
 };
 
@@ -50,5 +50,15 @@ L.geoJson(volcano, {
             
         },
     onEachFeature: volcanoSearch
-}).addTo(map);
+}).addTo(map)
+
+
+//Search control
+
+var searchCtrl = L.control.fuseSearch()
+searchCtrl.addTo(map);
+
+//  Loading GeoJSON layer and index the features, choosing the properties I want to index
+searchCtrl.indexFeatures(volcano, ['properties/LOCATION', 'properties/TYPE_']);
+
 
