@@ -7,7 +7,6 @@ $(document).ready(function(){
 
 
 
-
 //Creating map options
 var mapOptions = {
     center: [40.4168, -3.7038],
@@ -40,8 +39,7 @@ var geojsonMarkerOptions = {
 };
 
 function volcanoSearch(feature, layer) {
-    layer.bindPopup("<h6>Name:" + feature.properties.NAME_ + "</h6><p>Type:" + feature.properties.TYPE_ + "</p>");
-    //LOCATION.layer = layer;
+    layer.bindPopup("<p>Name: " + feature.properties.NAME_ + "</p><p>Type: " + feature.properties.TYPE_ + "</p><p>Location: "+ feature.properties.LOCATION +"</p>");    //LOCATION.layer = layer;
 
 };
 
@@ -53,10 +51,6 @@ L.geoJson(volcano, {
         },
     onEachFeature: volcanoSearch
 }).addTo(map)
-
-
-
-
 
 
 
