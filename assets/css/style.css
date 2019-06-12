@@ -16,12 +16,22 @@ body {
 }
 
 
+.show-hide-button {
+  margin: 15px;
+  color: #ffffff;
+  font-weight: normal;
+  font-size: medium;
+  
+}
+
+
 .footer-details {
   background-color: #000000;
   height: 3em;
   font-size: smaller;
   text-align: center;
   color:#ffffff;
+  font-weight: 100;
   padding-top: 10px;
 }
 
