@@ -15,6 +15,11 @@ body {
     color: #ffffff;
 }
 
+.modal-body-details{
+  font-size: 25px;
+}
+
+
 
 .show-hide-button {
   margin: 15px;
