@@ -18,7 +18,7 @@ var volcano =[
       "LON": 6.85,
       "ELEV": 600,
       "TYPE_": "Maars",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -41,7 +41,7 @@ var volcano =[
       "LON": 2.75,
       "ELEV": 1464,
       "TYPE_": "Cinder co",
-      "STATUS": "Radiocarb",
+      "STATUS": "Active",
       "TIME_FRAME": "D7"
    }
 },
@@ -64,7 +64,7 @@ var volcano =[
       "LON": 2.53,
       "ELEV": 893,
       "TYPE_": "Pyroclast",
-      "STATUS": "Holocene?",
+      "STATUS": "Extinct",
       "TIME_FRAME": "?"
    }
 },
@@ -87,7 +87,7 @@ var volcano =[
       "LON": 10.87,
       "ELEV": 500,
       "TYPE_": "Explosion",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -110,7 +110,7 @@ var volcano =[
       "LON": 11.63,
       "ELEV": 1738,
       "TYPE_": "Lava dome",
-      "STATUS": "Pleistoce",
+      "STATUS": "Dormant",
       "TIME_FRAME": "Q"
    }
 },
@@ -133,7 +133,7 @@ var volcano =[
       "LON": 11.93,
       "ELEV": 800,
       "TYPE_": "Caldera",
-      "STATUS": "Historica",
+      "STATUS": "Extinct",
       "TIME_FRAME": "D7"
    }
 },
@@ -156,7 +156,7 @@ var volcano =[
       "LON": 12.7,
       "ELEV": 949,
       "TYPE_": "Caldera",
-      "STATUS": "Holocene?",
+      "STATUS": "Dormant",
       "TIME_FRAME": "?"
    }
 },
@@ -179,7 +179,7 @@ var volcano =[
       "LON": 14.139,
       "ELEV": 458,
       "TYPE_": "Caldera",
-      "STATUS": "Historica",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D5"
    }
 },
@@ -202,7 +202,7 @@ var volcano =[
       "LON": 14.426,
       "ELEV": 1281,
       "TYPE_": "Complex v",
-      "STATUS": "Historica",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D2"
    }
 },
@@ -225,7 +225,7 @@ var volcano =[
       "LON": 13.898,
       "ELEV": 789,
       "TYPE_": "Complex v",
-      "STATUS": "Historica",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D6"
    }
 },
@@ -248,7 +248,7 @@ var volcano =[
       "LON": 15.213,
       "ELEV": 926,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -271,7 +271,7 @@ var volcano =[
       "LON": 14.95,
       "ELEV": 602,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Active",
       "TIME_FRAME": "D6"
    }
 },
@@ -294,7 +294,7 @@ var volcano =[
       "LON": 14.962,
       "ELEV": 500,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -317,7 +317,7 @@ var volcano =[
       "LON": 15.004,
       "ELEV": 3350,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -340,7 +340,7 @@ var volcano =[
       "LON": 12.7,
       "ELEV": -8,
       "TYPE_": "Submarine",
-      "STATUS": "Historica",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D2"
    }
 },
@@ -363,7 +363,7 @@ var volcano =[
       "LON": 12.02,
       "ELEV": 836,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -386,7 +386,7 @@ var volcano =[
       "LON": 23.336,
       "ELEV": 760,
       "TYPE_": "Lava dome",
-      "STATUS": "Historica",
+      "STATUS": "Active",
       "TIME_FRAME": "D7"
    }
 },
@@ -409,7 +409,7 @@ var volcano =[
       "LON": 24.439,
       "ELEV": 751,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -432,7 +432,7 @@ var volcano =[
       "LON": 25.396,
       "ELEV": 564,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Active",
       "TIME_FRAME": "D2"
    }
 },
@@ -455,7 +455,7 @@ var volcano =[
       "LON": 27.18,
       "ELEV": 698,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Active",
       "TIME_FRAME": "D3"
    }
 },
@@ -478,7 +478,7 @@ var volcano =[
       "LON": 27.1,
       "ELEV": 176,
       "TYPE_": "Lava dome",
-      "STATUS": "Holocene",
+      "STATUS": "Active",
       "TIME_FRAME": "U"
    }
 },
@@ -501,7 +501,7 @@ var volcano =[
       "LON": 27.257,
       "ELEV": 430,
       "TYPE_": "Fumarole",
-      "STATUS": "Pleistoce",
+      "STATUS": "Active",
       "TIME_FRAME": "Q"
    }
 },
@@ -524,7 +524,7 @@ var volcano =[
       "LON": 28.52,
       "ELEV": 750,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -547,7 +547,7 @@ var volcano =[
       "LON": 33.65,
       "ELEV": 1302,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D7"
    }
 },
@@ -570,7 +570,7 @@ var volcano =[
       "LON": 34.17,
       "ELEV": 3253,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -593,7 +593,7 @@ var volcano =[
       "LON": 34.57,
       "ELEV": 2143,
       "TYPE_": "Lava dome",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -616,7 +616,7 @@ var volcano =[
       "LON": 34.52,
       "ELEV": 1689,
       "TYPE_": "Maars",
-      "STATUS": "Holocene",
+      "STATUS": "Active",
       "TIME_FRAME": "U"
    }
 },
@@ -639,7 +639,7 @@ var volcano =[
       "LON": 35.48,
       "ELEV": 3916,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -662,7 +662,7 @@ var volcano =[
       "LON": 39.83,
       "ELEV": 1957,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -685,7 +685,7 @@ var volcano =[
       "LON": 42.02,
       "ELEV": 3050,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D6"
    }
 },
@@ -708,7 +708,7 @@ var volcano =[
       "LON": 42.82,
       "ELEV": 4434,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -731,7 +731,7 @@ var volcano =[
       "LON": 43.33,
       "ELEV": 0,
       "TYPE_": "Unknown",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -754,7 +754,7 @@ var volcano =[
       "LON": 43.83,
       "ELEV": 3584,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -777,7 +777,7 @@ var volcano =[
       "LON": 44.28,
       "ELEV": 5165,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -800,7 +800,7 @@ var volcano =[
       "LON": 42.9,
       "ELEV": 3000,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene?",
+      "STATUS": "Active",
       "TIME_FRAME": "?"
    }
 },
@@ -823,7 +823,7 @@ var volcano =[
       "LON": 42.45,
       "ELEV": 5633,
       "TYPE_": "Stratovol",
-      "STATUS": "Tephrochr",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D6"
    }
 },
@@ -846,7 +846,7 @@ var volcano =[
       "LON": 44.5,
       "ELEV": 5050,
       "TYPE_": "Stratovol",
-      "STATUS": "Tephrochr",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D7"
    }
 },
@@ -869,7 +869,7 @@ var volcano =[
       "LON": 44,
       "ELEV": 3650,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -892,7 +892,7 @@ var volcano =[
       "LON": 44.12,
       "ELEV": 4090,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -915,7 +915,7 @@ var volcano =[
       "LON": 44.75,
       "ELEV": 3560,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Active",
       "TIME_FRAME": "U"
    }
 },
@@ -938,7 +938,7 @@ var volcano =[
       "LON": 45.542,
       "ELEV": 3329,
       "TYPE_": "Unknown",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -961,7 +961,7 @@ var volcano =[
       "LON": 41.742,
       "ELEV": 244,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -984,7 +984,7 @@ var volcano =[
       "LON": 42.17,
       "ELEV": 191,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D3"
    }
 },
@@ -1007,7 +1007,7 @@ var volcano =[
       "LON": 39.82,
       "ELEV": 713,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -1030,7 +1030,7 @@ var volcano =[
       "LON": 39.92,
       "ELEV": 904,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -1053,7 +1053,7 @@ var volcano =[
       "LON": 40.3,
       "ELEV": -48,
       "TYPE_": "Explosion",
-      "STATUS": "Historica",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D2"
    }
 },
@@ -1076,7 +1076,7 @@ var volcano =[
       "LON": 40.408,
       "ELEV": 287,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -1099,7 +1099,7 @@ var volcano =[
       "LON": 40.42,
       "ELEV": 100,
       "TYPE_": "Tuff ring",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -1122,7 +1122,7 @@ var volcano =[
       "LON": 40.55,
       "ELEV": 429,
       "TYPE_": "Fissure v",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -1145,7 +1145,7 @@ var volcano =[
       "LON": 40.55,
       "ELEV": 613,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -1168,7 +1168,7 @@ var volcano =[
       "LON": 40.6,
       "ELEV": 668,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -1191,7 +1191,7 @@ var volcano =[
       "LON": 40.67,
       "ELEV": 613,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -1214,7 +1214,7 @@ var volcano =[
       "LON": 40.63,
       "ELEV": 1031,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -1237,7 +1237,7 @@ var volcano =[
       "LON": 40.72,
       "ELEV": 521,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -1260,7 +1260,7 @@ var volcano =[
       "LON": 41.808,
       "ELEV": 1625,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D3"
    }
 },
@@ -1283,7 +1283,7 @@ var volcano =[
       "LON": 41.7,
       "ELEV": 2218,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene?",
+      "STATUS": "Dormant",
       "TIME_FRAME": "?"
    }
 },
@@ -1306,7 +1306,7 @@ var volcano =[
       "LON": 41.65,
       "ELEV": 1875,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene?",
+      "STATUS": "Dormant",
       "TIME_FRAME": "?"
    }
 },
@@ -1329,7 +1329,7 @@ var volcano =[
       "LON": 41.725,
       "ELEV": 1611,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene?",
+      "STATUS": "Extinct",
       "TIME_FRAME": "?"
    }
 },
@@ -1352,7 +1352,7 @@ var volcano =[
       "LON": 41.6,
       "ELEV": 1200,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -1375,7 +1375,7 @@ var volcano =[
       "LON": 41.15,
       "ELEV": 523,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -1398,7 +1398,7 @@ var volcano =[
       "LON": 41.07,
       "ELEV": 700,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -1421,7 +1421,7 @@ var volcano =[
       "LON": 40.98,
       "ELEV": 812,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -1444,7 +1444,7 @@ var volcano =[
       "LON": 40.85,
       "ELEV": 1295,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene?",
+      "STATUS": "Dormant",
       "TIME_FRAME": "?"
    }
 },
@@ -1467,7 +1467,7 @@ var volcano =[
       "LON": 40.2,
       "ELEV": 1815,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -1490,7 +1490,7 @@ var volcano =[
       "LON": 40.57,
       "ELEV": 1501,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -1513,7 +1513,7 @@ var volcano =[
       "LON": 40.48,
       "ELEV": 1442,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -1536,7 +1536,7 @@ var volcano =[
       "LON": 40.07,
       "ELEV": 1302,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -1559,7 +1559,7 @@ var volcano =[
       "LON": 40.82,
       "ELEV": 600,
       "TYPE_": "Fissure v",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -1582,7 +1582,7 @@ var volcano =[
       "LON": 40.25,
       "ELEV": 930,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -1605,7 +1605,7 @@ var volcano =[
       "LON": 41.208,
       "ELEV": 625,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -1628,7 +1628,7 @@ var volcano =[
       "LON": 41.45,
       "ELEV": 875,
       "TYPE_": "Lava dome",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -1651,7 +1651,7 @@ var volcano =[
       "LON": 42.2,
       "ELEV": 600,
       "TYPE_": "Fissure v",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -1674,7 +1674,7 @@ var volcano =[
       "LON": 42.4,
       "ELEV": 2028,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -1697,7 +1697,7 @@ var volcano =[
       "LON": 42.53,
       "ELEV": 600,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -1720,7 +1720,7 @@ var volcano =[
       "LON": 42.43,
       "ELEV": 987,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -1743,7 +1743,7 @@ var volcano =[
       "LON": 42.47,
       "ELEV": 298,
       "TYPE_": "Fissure v",
-      "STATUS": "Historica",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -1766,7 +1766,7 @@ var volcano =[
       "LON": 42.05,
       "ELEV": 500,
       "TYPE_": "Fumarole",
-      "STATUS": "Pleistoce",
+      "STATUS": "Unknown",
       "TIME_FRAME": "Q"
    }
 },
@@ -1789,7 +1789,7 @@ var volcano =[
       "LON": 42.2,
       "ELEV": 1000,
       "TYPE_": "Fumarole",
-      "STATUS": "Pleistoce",
+      "STATUS": "Unknown",
       "TIME_FRAME": "Q"
    }
 },
@@ -1812,7 +1812,7 @@ var volcano =[
       "LON": 41.83,
       "ELEV": 300,
       "TYPE_": "Fumarole",
-      "STATUS": "Pleistoce",
+      "STATUS": "Extinct",
       "TIME_FRAME": "Q"
    }
 },
@@ -1835,7 +1835,7 @@ var volcano =[
       "LON": 41.63,
       "ELEV": 1068,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D5"
    }
 },
@@ -1858,7 +1858,7 @@ var volcano =[
       "LON": 41.52,
       "ELEV": 500,
       "TYPE_": "Pyroclast",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -1881,7 +1881,7 @@ var volcano =[
       "LON": 41.27,
       "ELEV": 1459,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -1904,7 +1904,7 @@ var volcano =[
       "LON": 41.042,
       "ELEV": 1383,
       "TYPE_": "Complex v",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -1927,7 +1927,7 @@ var volcano =[
       "LON": 40.702,
       "ELEV": 2145,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -1950,7 +1950,7 @@ var volcano =[
       "LON": 40.84,
       "ELEV": 1733,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -1973,7 +1973,7 @@ var volcano =[
       "LON": 40.33,
       "ELEV": 900,
       "TYPE_": "Fissure v",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -1996,7 +1996,7 @@ var volcano =[
       "LON": 40.28,
       "ELEV": 878,
       "TYPE_": "Maars",
-      "STATUS": "Holocene?",
+      "STATUS": "Active",
       "TIME_FRAME": "?"
    }
 },
@@ -2019,7 +2019,7 @@ var volcano =[
       "LON": 40.13,
       "ELEV": 1151,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -2042,7 +2042,7 @@ var volcano =[
       "LON": 39.93,
       "ELEV": 2007,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D3"
    }
 },
@@ -2065,7 +2065,7 @@ var volcano =[
       "LON": 39.75,
       "ELEV": 1100,
       "TYPE_": "Unknown",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -2088,7 +2088,7 @@ var volcano =[
       "LON": 39.692,
       "ELEV": 1619,
       "TYPE_": "Caldera",
-      "STATUS": "Historica",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D3"
    }
 },
@@ -2111,7 +2111,7 @@ var volcano =[
       "LON": 39.475,
       "ELEV": 2447,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -2134,7 +2134,7 @@ var volcano =[
       "LON": 38.98,
       "ELEV": 1850,
       "TYPE_": "Fissure v",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -2157,7 +2157,7 @@ var volcano =[
       "LON": 39.35,
       "ELEV": 1765,
       "TYPE_": "Pyroclast",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -2180,7 +2180,7 @@ var volcano =[
       "LON": 39.18,
       "ELEV": 1984,
       "TYPE_": "Caldera",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -2203,7 +2203,7 @@ var volcano =[
       "LON": 39.03,
       "ELEV": 2285,
       "TYPE_": "Pumice co",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -2226,7 +2226,7 @@ var volcano =[
       "LON": 39.13,
       "ELEV": 2349,
       "TYPE_": "Pumice co",
-      "STATUS": "Anthropol",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -2243,13 +2243,13 @@ var volcano =[
    "geometry_name": "the_geom",
    "properties": {
       "NUMBER_": "0201-26-",
-      "NAME_": "BUTAJIRI-",
+      "NAME_": "BUTAJIRI",
       "LOCATION": "Ethiopia",
       "LAT": 8.05,
       "LON": 38.35,
       "ELEV": 2281,
       "TYPE_": "Fissure v",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -2272,7 +2272,7 @@ var volcano =[
       "LON": 38.78,
       "ELEV": 2335,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -2295,7 +2295,7 @@ var volcano =[
       "LON": 38.55,
       "ELEV": 2075,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -2318,7 +2318,7 @@ var volcano =[
       "LON": 38.43,
       "ELEV": 2320,
       "TYPE_": "Caldera",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -2341,7 +2341,7 @@ var volcano =[
       "LON": 38.1,
       "ELEV": 1700,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -2364,7 +2364,7 @@ var volcano =[
       "LON": 35.43,
       "ELEV": 2728,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -2387,7 +2387,7 @@ var volcano =[
       "LON": 37.83,
       "ELEV": 1800,
       "TYPE_": "Caldera",
-      "STATUS": "Holocene?",
+      "STATUS": "Dormant",
       "TIME_FRAME": "?"
    }
 },
@@ -2410,7 +2410,7 @@ var volcano =[
       "LON": 38.12,
       "ELEV": 1650,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Extinct",
       "TIME_FRAME": "U"
    }
 },
@@ -2433,7 +2433,7 @@ var volcano =[
       "LON": 37.57,
       "ELEV": 1650,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -2456,7 +2456,7 @@ var volcano =[
       "LON": 35.88,
       "ELEV": 912,
       "TYPE_": "Tuff cone",
-      "STATUS": "Holocene?",
+      "STATUS": "Extinct",
       "TIME_FRAME": "?"
    }
 },
@@ -2479,7 +2479,7 @@ var volcano =[
       "LON": 37.42,
       "ELEV": 1067,
       "TYPE_": "Pyroclast",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -2502,7 +2502,7 @@ var volcano =[
       "LON": 36.05,
       "ELEV": 520,
       "TYPE_": "Tuff cone",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -2525,7 +2525,7 @@ var volcano =[
       "LON": 36.042,
       "ELEV": 550,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -2548,7 +2548,7 @@ var volcano =[
       "LON": 36.6,
       "ELEV": 700,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D3"
    }
 },
@@ -2571,7 +2571,7 @@ var volcano =[
       "LON": 37.97,
       "ELEV": 1707,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene?",
+      "STATUS": "Extinct",
       "TIME_FRAME": "?"
    }
 },
@@ -2588,13 +2588,13 @@ var volcano =[
    "geometry_name": "the_geom",
    "properties": {
       "NUMBER_": "0202-03=",
-      "NAME_": "BARRIER,",
+      "NAME_": "BARRIER",
       "LOCATION": "Africa-E",
       "LAT": 2.32,
       "LON": 36.57,
       "ELEV": 1032,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Active",
       "TIME_FRAME": "D2"
    }
 },
@@ -2617,7 +2617,7 @@ var volcano =[
       "LON": 36.27,
       "ELEV": 817,
       "TYPE_": "Shield vo",
-      "STATUS": "Tephrochr",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D7"
    }
 },
@@ -2640,7 +2640,7 @@ var volcano =[
       "LON": 37.9,
       "ELEV": 699,
       "TYPE_": "Pyroclast",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -2663,7 +2663,7 @@ var volcano =[
       "LON": 36.33,
       "ELEV": 1328,
       "TYPE_": "Shield vo",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -2686,7 +2686,7 @@ var volcano =[
       "LON": 36.23,
       "ELEV": 1528,
       "TYPE_": "Shield vo",
-      "STATUS": "Ar/Ar",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D7"
    }
 },
@@ -2709,7 +2709,7 @@ var volcano =[
       "LON": 36.18,
       "ELEV": 1697,
       "TYPE_": "Shield vo",
-      "STATUS": "Ar/Ar",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D7"
    }
 },
@@ -2732,7 +2732,7 @@ var volcano =[
       "LON": 36.12,
       "ELEV": 1446,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -2755,7 +2755,7 @@ var volcano =[
       "LON": 36.08,
       "ELEV": 1130,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -2778,7 +2778,7 @@ var volcano =[
       "LON": 37.87,
       "ELEV": 750,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -2801,7 +2801,7 @@ var volcano =[
       "LON": 36.07,
       "ELEV": 2278,
       "TYPE_": "Shield vo",
-      "STATUS": "Tephrochr",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D7"
    }
 },
@@ -2824,7 +2824,7 @@ var volcano =[
       "LON": 34.5,
       "ELEV": 1751,
       "TYPE_": "Complex v",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -2847,7 +2847,7 @@ var volcano =[
       "LON": 36.27,
       "ELEV": 2126,
       "TYPE_": "Pyroclast",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -2870,7 +2870,7 @@ var volcano =[
       "LON": 36.23,
       "ELEV": 2856,
       "TYPE_": "Complex v",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -2893,7 +2893,7 @@ var volcano =[
       "LON": 36.292,
       "ELEV": 2434,
       "TYPE_": "Pumice co",
-      "STATUS": "Radiocarb",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D4"
    }
 },
@@ -2916,7 +2916,7 @@ var volcano =[
       "LON": 36.45,
       "ELEV": 2776,
       "TYPE_": "Shield vo",
-      "STATUS": "Anthropol",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D3"
    }
 },
@@ -2939,7 +2939,7 @@ var volcano =[
       "LON": 36.35,
       "ELEV": 2356,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -2962,7 +2962,7 @@ var volcano =[
       "LON": 35.902,
       "ELEV": 2890,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -2985,7 +2985,7 @@ var volcano =[
       "LON": 37.88,
       "ELEV": 2188,
       "TYPE_": "Volcanic",
-      "STATUS": "Anthropol",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D3"
    }
 },
@@ -3008,7 +3008,7 @@ var volcano =[
       "LON": 37.35,
       "ELEV": 5895,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -3031,7 +3031,7 @@ var volcano =[
       "LON": 36.75,
       "ELEV": 4565,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D2"
    }
 },
@@ -3054,7 +3054,7 @@ var volcano =[
       "LON": 31.92,
       "ELEV": 0,
       "TYPE_": "Tuff cone",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -3077,7 +3077,7 @@ var volcano =[
       "LON": 33.8,
       "ELEV": 2179,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -3100,7 +3100,7 @@ var volcano =[
       "LON": 33.57,
       "ELEV": 2622,
       "TYPE_": "Caldera",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -3123,7 +3123,7 @@ var volcano =[
       "LON": 33.4,
       "ELEV": 1568,
       "TYPE_": "Pyroclast",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -3146,7 +3146,7 @@ var volcano =[
       "LON": 33.67,
       "ELEV": 2961,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -3169,7 +3169,7 @@ var volcano =[
       "LON": 33.78,
       "ELEV": 2175,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Active",
       "TIME_FRAME": "D3"
    }
 },
@@ -3192,7 +3192,7 @@ var volcano =[
       "LON": 30.38,
       "ELEV": 1615,
       "TYPE_": "Tuff cone",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -3215,7 +3215,7 @@ var volcano =[
       "LON": 30.25,
       "ELEV": 1524,
       "TYPE_": "Tuff cone",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -3238,7 +3238,7 @@ var volcano =[
       "LON": 30.25,
       "ELEV": 1430,
       "TYPE_": "Tuff cone",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -3261,7 +3261,7 @@ var volcano =[
       "LON": 29.92,
       "ELEV": 1067,
       "TYPE_": "Tuff cone",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -3284,7 +3284,7 @@ var volcano =[
       "LON": 30.08,
       "ELEV": 1554,
       "TYPE_": "Explosion",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -3307,7 +3307,7 @@ var volcano =[
       "LON": 30.18,
       "ELEV": 1707,
       "TYPE_": "Tuff cone",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -3330,7 +3330,7 @@ var volcano =[
       "LON": 29.33,
       "ELEV": 950,
       "TYPE_": "Fumarole",
-      "STATUS": "Fumarolic",
+      "STATUS": "Dormant",
       "TIME_FRAME": "?"
    }
 },
@@ -3353,7 +3353,7 @@ var volcano =[
       "LON": 29.2,
       "ELEV": 3058,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -3376,7 +3376,7 @@ var volcano =[
       "LON": 29.25,
       "ELEV": 3469,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -3399,7 +3399,7 @@ var volcano =[
       "LON": 29.45,
       "ELEV": 4507,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -3422,7 +3422,7 @@ var volcano =[
       "LON": 29.492,
       "ELEV": 3711,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D2"
    }
 },
@@ -3445,7 +3445,7 @@ var volcano =[
       "LON": 29.67,
       "ELEV": 4127,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -3468,7 +3468,7 @@ var volcano =[
       "LON": 29.72,
       "ELEV": 2440,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Extinct",
       "TIME_FRAME": "U"
    }
 },
@@ -3491,7 +3491,7 @@ var volcano =[
       "LON": 28.75,
       "ELEV": 1460,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -3514,7 +3514,7 @@ var volcano =[
       "LON": 12,
       "ELEV": 0,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene?",
+      "STATUS": "Extinct",
       "TIME_FRAME": "?"
    }
 },
@@ -3537,7 +3537,7 @@ var volcano =[
       "LON": 13.67,
       "ELEV": 0,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene?",
+      "STATUS": "Dormant",
       "TIME_FRAME": "?"
    }
 },
@@ -3560,7 +3560,7 @@ var volcano =[
       "LON": 10.5,
       "ELEV": 3011,
       "TYPE_": "Maars",
-      "STATUS": "Radiocarb",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D5"
    }
 },
@@ -3583,7 +3583,7 @@ var volcano =[
       "LON": 9.83,
       "ELEV": 2411,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Extinct",
       "TIME_FRAME": "U"
    }
 },
@@ -3600,13 +3600,13 @@ var volcano =[
    "geometry_name": "the_geom",
    "properties": {
       "NUMBER_": "0204-01=",
-      "NAME_": "CAMEROON,",
+      "NAME_": "CAMEROON",
       "LOCATION": "Africa-W",
       "LAT": 4.203,
       "LON": 9.17,
       "ELEV": 4095,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -3629,7 +3629,7 @@ var volcano =[
       "LON": 8.75,
       "ELEV": 3007,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D2"
    }
 },
@@ -3652,7 +3652,7 @@ var volcano =[
       "LON": 8.63,
       "ELEV": 2009,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -3675,7 +3675,7 @@ var volcano =[
       "LON": 8.52,
       "ELEV": 2260,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -3698,7 +3698,7 @@ var volcano =[
       "LON": 6.72,
       "ELEV": 2024,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene?",
+      "STATUS": "Extinct",
       "TIME_FRAME": "?"
    }
 },
@@ -3721,7 +3721,7 @@ var volcano =[
       "LON": 17.5,
       "ELEV": 1200,
       "TYPE_": "Scoria co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -3744,7 +3744,7 @@ var volcano =[
       "LON": 16.33,
       "ELEV": 2000,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -3761,13 +3761,13 @@ var volcano =[
    "geometry_name": "the_geom",
    "properties": {
       "NUMBER_": "0205-01=",
-      "NAME_": "TOUSSIDE,",
+      "NAME_": "TOUSSIDE",
       "LOCATION": "Africa-N",
       "LAT": 21.03,
       "LON": 16.45,
       "ELEV": 3265,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -3790,7 +3790,7 @@ var volcano =[
       "LON": 17.28,
       "ELEV": 3100,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -3813,7 +3813,7 @@ var volcano =[
       "LON": 18.53,
       "ELEV": 3415,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -3836,7 +3836,7 @@ var volcano =[
       "LON": 24.27,
       "ELEV": 3042,
       "TYPE_": "Volcanic",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -3859,7 +3859,7 @@ var volcano =[
       "LON": 25.8,
       "ELEV": 0,
       "TYPE_": "Scoria co",
-      "STATUS": "Holocene?",
+      "STATUS": "Extinct",
       "TIME_FRAME": "?"
    }
 },
@@ -3882,7 +3882,7 @@ var volcano =[
       "LON": 26.17,
       "ELEV": 1000,
       "TYPE_": "Scoria co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -3905,7 +3905,7 @@ var volcano =[
       "LON": 32.75,
       "ELEV": 0,
       "TYPE_": "Cinder co",
-      "STATUS": "Radiocarb",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D6"
    }
 },
@@ -3928,7 +3928,7 @@ var volcano =[
       "LON": 33.8,
       "ELEV": 0,
       "TYPE_": "Scoria co",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -3951,7 +3951,7 @@ var volcano =[
       "LON": 40.85,
       "ELEV": 534,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -3974,7 +3974,7 @@ var volcano =[
       "LON": 37.15,
       "ELEV": 0,
       "TYPE_": "Volcanic",
-      "STATUS": "Historica",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D3"
    }
 },
@@ -3997,7 +3997,7 @@ var volcano =[
       "LON": 36.17,
       "ELEV": 1660,
       "TYPE_": "Volcanic",
-      "STATUS": "Anthropol",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -4014,13 +4014,13 @@ var volcano =[
    "geometry_name": "the_geom",
    "properties": {
       "NUMBER_": "0301-02=",
-      "NAME_": "'UWAYRID,",
+      "NAME_": "UWAYRID",
       "LOCATION": "Arabia-W",
       "LAT": 27.08,
       "LON": 37.25,
       "ELEV": 1900,
       "TYPE_": "Volcanic",
-      "STATUS": "Anthropol",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D6"
    }
 },
@@ -4037,13 +4037,13 @@ var volcano =[
    "geometry_name": "the_geom",
    "properties": {
       "NUMBER_": "0301-04-",
-      "NAME_": "LUNAYYIR,",
+      "NAME_": "LUNAYYIR",
       "LOCATION": "Arabia-W",
       "LAT": 25.17,
       "LON": 37.75,
       "ELEV": 1370,
       "TYPE_": "Volcanic",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -4060,13 +4060,13 @@ var volcano =[
    "geometry_name": "the_geom",
    "properties": {
       "NUMBER_": "0301-05=",
-      "NAME_": "ITHNAYN,",
+      "NAME_": "ITHNAYN",
       "LOCATION": "Arabia-W",
       "LAT": 26.58,
       "LON": 40.2,
       "ELEV": 1625,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -4083,13 +4083,13 @@ var volcano =[
    "geometry_name": "the_geom",
    "properties": {
       "NUMBER_": "0301-06=",
-      "NAME_": "KHAYBAR,",
+      "NAME_": "KHAYBAR",
       "LOCATION": "Arabia-W",
       "LAT": 25,
       "LON": 39.92,
       "ELEV": 2093,
       "TYPE_": "Volcanic",
-      "STATUS": "Historica",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D6"
    }
 },
@@ -4112,7 +4112,7 @@ var volcano =[
       "LON": 39.78,
       "ELEV": 1744,
       "TYPE_": "Volcanic",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -4135,7 +4135,7 @@ var volcano =[
       "LON": 41.38,
       "ELEV": 1475,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -4158,7 +4158,7 @@ var volcano =[
       "LON": 42.83,
       "ELEV": 305,
       "TYPE_": "Volcanic",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -4181,7 +4181,7 @@ var volcano =[
       "LON": 44.08,
       "ELEV": 3100,
       "TYPE_": "Volcanic",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -4204,7 +4204,7 @@ var volcano =[
       "LON": 44.22,
       "ELEV": 2650,
       "TYPE_": "Tuff cone",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -4227,7 +4227,7 @@ var volcano =[
       "LON": 44.78,
       "ELEV": 1550,
       "TYPE_": "Volcanic",
-      "STATUS": "Anthropol",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -4250,7 +4250,7 @@ var volcano =[
       "LON": 44.67,
       "ELEV": 3500,
       "TYPE_": "Volcanic",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -4273,7 +4273,7 @@ var volcano =[
       "LON": 44.75,
       "ELEV": 0,
       "TYPE_": "Cone",
-      "STATUS": "Anthropol",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -4296,7 +4296,7 @@ var volcano =[
       "LON": 46.12,
       "ELEV": 1737,
       "TYPE_": "Volcanic",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -4313,13 +4313,13 @@ var volcano =[
    "geometry_name": "the_geom",
    "properties": {
       "NUMBER_": "0301-17-",
-      "NAME_": "BAL HAF,",
+      "NAME_": "BAL HAF",
       "LOCATION": "Arabia-S",
       "LAT": 14.05,
       "LON": 48.33,
       "ELEV": 233,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -4342,7 +4342,7 @@ var volcano =[
       "LON": 50.63,
       "ELEV": 0,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -4365,7 +4365,7 @@ var volcano =[
       "LON": 52.109,
       "ELEV": 5670,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -4388,7 +4388,7 @@ var volcano =[
       "LON": 57.57,
       "ELEV": 0,
       "TYPE_": "Maars",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -4411,7 +4411,7 @@ var volcano =[
       "LON": 60,
       "ELEV": 3490,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -4434,7 +4434,7 @@ var volcano =[
       "LON": 67.92,
       "ELEV": 3800,
       "TYPE_": "Lava dome",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -4457,7 +4457,7 @@ var volcano =[
       "LON": 67.97,
       "ELEV": 3190,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -4480,7 +4480,7 @@ var volcano =[
       "LON": 43.33,
       "ELEV": 1087,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -4503,7 +4503,7 @@ var volcano =[
       "LON": 43.38,
       "ELEV": 2361,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -4526,7 +4526,7 @@ var volcano =[
       "LON": 55.713,
       "ELEV": 2631,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -4549,7 +4549,7 @@ var volcano =[
       "LON": 49.1,
       "ELEV": 1475,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -4572,7 +4572,7 @@ var volcano =[
       "LON": 48.48,
       "ELEV": 214,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -4595,7 +4595,7 @@ var volcano =[
       "LON": 48.67,
       "ELEV": 2878,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -4618,7 +4618,7 @@ var volcano =[
       "LON": 46.77,
       "ELEV": 1800,
       "TYPE_": "Scoria co",
-      "STATUS": "Radiocarb",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D7"
    }
 },
@@ -4641,7 +4641,7 @@ var volcano =[
       "LON": 47.2,
       "ELEV": 2644,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -4664,7 +4664,7 @@ var volcano =[
       "LON": 73.513,
       "ELEV": 2745,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -4687,7 +4687,7 @@ var volcano =[
       "LON": 69.5,
       "ELEV": 1840,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Extinct",
       "TIME_FRAME": "U"
    }
 },
@@ -4710,7 +4710,7 @@ var volcano =[
       "LON": 77.53,
       "ELEV": 268,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D4"
    }
 },
@@ -4733,7 +4733,7 @@ var volcano =[
       "LON": 77.52,
       "ELEV": 881,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -4756,7 +4756,7 @@ var volcano =[
       "LON": 51.63,
       "ELEV": 934,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -4773,13 +4773,13 @@ var volcano =[
    "geometry_name": "the_geom",
    "properties": {
       "NUMBER_": "0304-06-",
-      "NAME_": "COCHONS,",
+      "NAME_": "COCHONS",
       "LOCATION": "Indian O.",
       "LAT": -46.1,
       "LON": 50.23,
       "ELEV": 775,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -4802,7 +4802,7 @@ var volcano =[
       "LON": 37.95,
       "ELEV": 672,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -4825,7 +4825,7 @@ var volcano =[
       "LON": 37.75,
       "ELEV": 1230,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -4848,7 +4848,7 @@ var volcano =[
       "LON": 173.9,
       "ELEV": 388,
       "TYPE_": "Volcanic",
-      "STATUS": "Radiocarb",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D6"
    }
 },
@@ -4871,7 +4871,7 @@ var volcano =[
       "LON": 174.27,
       "ELEV": 397,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene?",
+      "STATUS": "Dormant",
       "TIME_FRAME": "?"
    }
 },
@@ -4894,7 +4894,7 @@ var volcano =[
       "LON": 174.87,
       "ELEV": 260,
       "TYPE_": "Volcanic",
-      "STATUS": "Radiocarb",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D6"
    }
 },
@@ -4917,7 +4917,7 @@ var volcano =[
       "LON": 176.25,
       "ELEV": 355,
       "TYPE_": "Shield vo",
-      "STATUS": "Radiocarb",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D7"
    }
 },
@@ -4940,7 +4940,7 @@ var volcano =[
       "LON": 174.07,
       "ELEV": 2518,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D4"
    }
 },
@@ -4963,7 +4963,7 @@ var volcano =[
       "LON": 177.18,
       "ELEV": 321,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -4986,7 +4986,7 @@ var volcano =[
       "LON": 176.98,
       "ELEV": 348,
       "TYPE_": "Complex v",
-      "STATUS": "Pleistoce",
+      "STATUS": "Extinct",
       "TIME_FRAME": "Q"
    }
 },
@@ -5009,7 +5009,7 @@ var volcano =[
       "LON": 176.27,
       "ELEV": 757,
       "TYPE_": "Caldera",
-      "STATUS": "Pleistoce",
+      "STATUS": "Dormant",
       "TIME_FRAME": "Q"
    }
 },
@@ -5032,7 +5032,7 @@ var volcano =[
       "LON": 176.5,
       "ELEV": 1111,
       "TYPE_": "Lava dome",
-      "STATUS": "Historica",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -5055,7 +5055,7 @@ var volcano =[
       "LON": 176.33,
       "ELEV": 592,
       "TYPE_": "Caldera",
-      "STATUS": "Tephrochr",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D6"
    }
 },
@@ -5078,7 +5078,7 @@ var volcano =[
       "LON": 176.08,
       "ELEV": 1156,
       "TYPE_": "Caldera",
-      "STATUS": "Tephrochr",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D6"
    }
 },
@@ -5101,7 +5101,7 @@ var volcano =[
       "LON": 176,
       "ELEV": 760,
       "TYPE_": "Caldera",
-      "STATUS": "Radiocarb",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D6"
    }
 },
@@ -5124,7 +5124,7 @@ var volcano =[
       "LON": 175.642,
       "ELEV": 1978,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -5147,7 +5147,7 @@ var volcano =[
       "LON": 175.57,
       "ELEV": 2797,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -5170,7 +5170,7 @@ var volcano =[
       "LON": 178.875,
       "ELEV": -1100,
       "TYPE_": "Submarine",
-      "STATUS": "Uncertain",
+      "STATUS": "Dormant",
       "TIME_FRAME": "?"
    }
 },
@@ -5193,7 +5193,7 @@ var volcano =[
       "LON": 178.65,
       "ELEV": -880,
       "TYPE_": "Submarine",
-      "STATUS": "Uncertain",
+      "STATUS": "Dormant",
       "TIME_FRAME": "?"
    }
 },
@@ -5216,7 +5216,7 @@ var volcano =[
       "LON": 178.478,
       "ELEV": -140,
       "TYPE_": "Submarine",
-      "STATUS": "Hydrophon",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -5239,7 +5239,7 @@ var volcano =[
       "LON": 178.05,
       "ELEV": -450,
       "TYPE_": "Submarine",
-      "STATUS": "Fumarolic",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -5262,7 +5262,7 @@ var volcano =[
       "LON": 178.197,
       "ELEV": -700,
       "TYPE_": "Submarine",
-      "STATUS": "Fumarolic",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -5285,7 +5285,7 @@ var volcano =[
       "LON": -178.561,
       "ELEV": 137,
       "TYPE_": "Submarine",
-      "STATUS": "Uncertain",
+      "STATUS": "Dormant",
       "TIME_FRAME": "?"
    }
 },
@@ -5308,7 +5308,7 @@ var volcano =[
       "LON": -178.92,
       "ELEV": -2000,
       "TYPE_": "Submarine",
-      "STATUS": "Uncertain",
+      "STATUS": "Dormant",
       "TIME_FRAME": "?"
    }
 },
@@ -5331,7 +5331,7 @@ var volcano =[
       "LON": -178.47,
       "ELEV": 238,
       "TYPE_": "Caldera",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -5354,7 +5354,7 @@ var volcano =[
       "LON": -177.92,
       "ELEV": 516,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -5377,7 +5377,7 @@ var volcano =[
       "LON": -177.188,
       "ELEV": -100,
       "TYPE_": "Submarine",
-      "STATUS": "Historica",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -5400,7 +5400,7 @@ var volcano =[
       "LON": -175.42,
       "ELEV": 145,
       "TYPE_": "Submarine",
-      "STATUS": "Historica",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -5423,7 +5423,7 @@ var volcano =[
       "LON": -175.07,
       "ELEV": 512,
       "TYPE_": "Caldera",
-      "STATUS": "Historica",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D2"
    }
 },
@@ -5446,7 +5446,7 @@ var volcano =[
       "LON": -174.87,
       "ELEV": -4,
       "TYPE_": "Submarine",
-      "STATUS": "Historica",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -5469,7 +5469,7 @@ var volcano =[
       "LON": -174.775,
       "ELEV": -2,
       "TYPE_": "Submarine",
-      "STATUS": "Historica",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -5492,7 +5492,7 @@ var volcano =[
       "LON": -174.65,
       "ELEV": 518,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D3"
    }
 },
@@ -5515,7 +5515,7 @@ var volcano =[
       "LON": -174.325,
       "ELEV": 200,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D2"
    }
 },
@@ -5538,7 +5538,7 @@ var volcano =[
       "LON": -173.67,
       "ELEV": -33,
       "TYPE_": "Submarine",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -5561,7 +5561,7 @@ var volcano =[
       "LON": -175.63,
       "ELEV": 260,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -5584,7 +5584,7 @@ var volcano =[
       "LON": -169.454,
       "ELEV": 931,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -5607,7 +5607,7 @@ var volcano =[
       "LON": -169.618,
       "ELEV": 639,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -5630,7 +5630,7 @@ var volcano =[
       "LON": -170.7,
       "ELEV": 653,
       "TYPE_": "Tuff cone",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -5653,7 +5653,7 @@ var volcano =[
       "LON": -171.72,
       "ELEV": 1100,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -5676,7 +5676,7 @@ var volcano =[
       "LON": -172.525,
       "ELEV": 1858,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D2"
    }
 },
@@ -5699,7 +5699,7 @@ var volcano =[
       "LON": -176.17,
       "ELEV": 143,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -5722,7 +5722,7 @@ var volcano =[
       "LON": -179.97,
       "ELEV": 1241,
       "TYPE_": "Shield vo",
-      "STATUS": "Radiocarb",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D7"
    }
 },
@@ -5745,7 +5745,7 @@ var volcano =[
       "LON": 179.4,
       "ELEV": 522,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene?",
+      "STATUS": "Dormant",
       "TIME_FRAME": "?"
    }
 },
@@ -5768,7 +5768,7 @@ var volcano =[
       "LON": 147.35,
       "ELEV": 270,
       "TYPE_": "Complex v",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -5791,7 +5791,7 @@ var volcano =[
       "LON": 147.28,
       "ELEV": 254,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene?",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -5814,7 +5814,7 @@ var volcano =[
       "LON": 144.62,
       "ELEV": 402,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -5837,7 +5837,7 @@ var volcano =[
       "LON": 144.62,
       "ELEV": 365,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -5860,7 +5860,7 @@ var volcano =[
       "LON": 144.85,
       "ELEV": 685,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -5883,7 +5883,7 @@ var volcano =[
       "LON": 144.963,
       "ELEV": 240,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene?",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -5906,7 +5906,7 @@ var volcano =[
       "LON": 145.061,
       "ELEV": 1807,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -5929,7 +5929,7 @@ var volcano =[
       "LON": 145.964,
       "ELEV": 1839,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -5952,7 +5952,7 @@ var volcano =[
       "LON": 146.75,
       "ELEV": 0,
       "TYPE_": "Unknown",
-      "STATUS": "Uncertain",
+      "STATUS": "Dormant",
       "TIME_FRAME": "?"
    }
 },
@@ -5975,7 +5975,7 @@ var volcano =[
       "LON": 147.12,
       "ELEV": 1280,
       "TYPE_": "Complex v",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -5998,7 +5998,7 @@ var volcano =[
       "LON": 147.875,
       "ELEV": 1548,
       "TYPE_": "Complex v",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -6021,7 +6021,7 @@ var volcano =[
       "LON": 148.121,
       "ELEV": 140,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -6044,7 +6044,7 @@ var volcano =[
       "LON": 148.094,
       "ELEV": 992,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -6067,7 +6067,7 @@ var volcano =[
       "LON": 148.42,
       "ELEV": 1330,
       "TYPE_": "Complex v",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -6090,7 +6090,7 @@ var volcano =[
       "LON": 149.125,
       "ELEV": 307,
       "TYPE_": "Stratovol",
-      "STATUS": "Pleistoce",
+      "STATUS": "Unknown",
       "TIME_FRAME": "Q"
    }
 },
@@ -6113,7 +6113,7 @@ var volcano =[
       "LON": 149.35,
       "ELEV": 179,
       "TYPE_": "Complex v",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -6136,7 +6136,7 @@ var volcano =[
       "LON": 149.5,
       "ELEV": 368,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -6159,7 +6159,7 @@ var volcano =[
       "LON": 150.108,
       "ELEV": 400,
       "TYPE_": "Caldera",
-      "STATUS": "Anthropol",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -6182,7 +6182,7 @@ var volcano =[
       "LON": 150.03,
       "ELEV": 1155,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -6205,7 +6205,7 @@ var volcano =[
       "LON": 150.088,
       "ELEV": 565,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -6228,7 +6228,7 @@ var volcano =[
       "LON": 150.03,
       "ELEV": 564,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -6251,7 +6251,7 @@ var volcano =[
       "LON": 150.5,
       "ELEV": 805,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -6274,7 +6274,7 @@ var volcano =[
       "LON": 150.52,
       "ELEV": 742,
       "TYPE_": "Caldera",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -6297,7 +6297,7 @@ var volcano =[
       "LON": 150.9,
       "ELEV": 15,
       "TYPE_": "Hydrother",
-      "STATUS": "Hot Sprin",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -6320,7 +6320,7 @@ var volcano =[
       "LON": 151.1,
       "ELEV": 1148,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -6343,7 +6343,7 @@ var volcano =[
       "LON": 151.23,
       "ELEV": 2248,
       "TYPE_": "Stratovol",
-      "STATUS": "Anthropol",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -6366,7 +6366,7 @@ var volcano =[
       "LON": 151.33,
       "ELEV": 2334,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -6389,7 +6389,7 @@ var volcano =[
       "LON": 151.158,
       "ELEV": 858,
       "TYPE_": "Caldera",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -6412,7 +6412,7 @@ var volcano =[
       "LON": 152.203,
       "ELEV": 688,
       "TYPE_": "Pyroclast",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -6435,7 +6435,7 @@ var volcano =[
       "LON": 143.15,
       "ELEV": 3568,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -6458,7 +6458,7 @@ var volcano =[
       "LON": 145.08,
       "ELEV": 3233,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -6481,7 +6481,7 @@ var volcano =[
       "LON": 145.858,
       "ELEV": 3384,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -6504,7 +6504,7 @@ var volcano =[
       "LON": 146.708,
       "ELEV": 0,
       "TYPE_": "Explosion",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -6527,7 +6527,7 @@ var volcano =[
       "LON": 147.57,
       "ELEV": 850,
       "TYPE_": "Pyroclast",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -6550,7 +6550,7 @@ var volcano =[
       "LON": 148.15,
       "ELEV": 1680,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -6573,7 +6573,7 @@ var volcano =[
       "LON": 148.37,
       "ELEV": 1915,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -6596,7 +6596,7 @@ var volcano =[
       "LON": 148.13,
       "ELEV": 808,
       "TYPE_": "Hydrother",
-      "STATUS": "Hot Sprin",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -6619,7 +6619,7 @@ var volcano =[
       "LON": 148.33,
       "ELEV": 1342,
       "TYPE_": "Volcanic",
-      "STATUS": "Anthropol",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -6642,7 +6642,7 @@ var volcano =[
       "LON": 149.07,
       "ELEV": 1925,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -6665,7 +6665,7 @@ var volcano =[
       "LON": 149.13,
       "ELEV": 370,
       "TYPE_": "Unknown",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -6688,7 +6688,7 @@ var volcano =[
       "LON": 149.075,
       "ELEV": 640,
       "TYPE_": "Pyroclast",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -6711,7 +6711,7 @@ var volcano =[
       "LON": 150.35,
       "ELEV": 220,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -6734,7 +6734,7 @@ var volcano =[
       "LON": 150.53,
       "ELEV": 200,
       "TYPE_": "Lava dome",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -6757,7 +6757,7 @@ var volcano =[
       "LON": 150.88,
       "ELEV": 500,
       "TYPE_": "Volcanic",
-      "STATUS": "Hydration",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -6780,7 +6780,7 @@ var volcano =[
       "LON": 152.642,
       "ELEV": 700,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -6803,7 +6803,7 @@ var volcano =[
       "LON": 153.65,
       "ELEV": 450,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -6826,7 +6826,7 @@ var volcano =[
       "LON": 154.93,
       "ELEV": 2200,
       "TYPE_": "Lava cone",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -6849,7 +6849,7 @@ var volcano =[
       "LON": 154.98,
       "ELEV": 2715,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -6872,7 +6872,7 @@ var volcano =[
       "LON": 155.225,
       "ELEV": 1544,
       "TYPE_": "Pyroclast",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D5"
    }
 },
@@ -6895,7 +6895,7 @@ var volcano =[
       "LON": 155.195,
       "ELEV": 1750,
       "TYPE_": "Lava cone",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -6918,7 +6918,7 @@ var volcano =[
       "LON": 155.608,
       "ELEV": 2210,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -6941,7 +6941,7 @@ var volcano =[
       "LON": 155.62,
       "ELEV": 1887,
       "TYPE_": "Pyroclast",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -6964,7 +6964,7 @@ var volcano =[
       "LON": 156.6,
       "ELEV": 760,
       "TYPE_": "Stratovol",
-      "STATUS": "Pleistoce",
+      "STATUS": "Unknown",
       "TIME_FRAME": "Q"
    }
 },
@@ -6987,7 +6987,7 @@ var volcano =[
       "LON": 156.52,
       "ELEV": 335,
       "TYPE_": "Stratovol",
-      "STATUS": "Uncertain",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -7010,7 +7010,7 @@ var volcano =[
       "LON": 157.03,
       "ELEV": -700,
       "TYPE_": "Submarine",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -7033,7 +7033,7 @@ var volcano =[
       "LON": 157.17,
       "ELEV": 0,
       "TYPE_": "Submarine",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -7056,7 +7056,7 @@ var volcano =[
       "LON": 157.95,
       "ELEV": -20,
       "TYPE_": "Submarine",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -7079,7 +7079,7 @@ var volcano =[
       "LON": 159.73,
       "ELEV": 1000,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -7102,7 +7102,7 @@ var volcano =[
       "LON": 159.82,
       "ELEV": 510,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -7125,7 +7125,7 @@ var volcano =[
       "LON": 165.8,
       "ELEV": 851,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -7148,7 +7148,7 @@ var volcano =[
       "LON": 167.67,
       "ELEV": 411,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -7171,7 +7171,7 @@ var volcano =[
       "LON": 167.47,
       "ELEV": 921,
       "TYPE_": "Complex v",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -7194,7 +7194,7 @@ var volcano =[
       "LON": 167.5,
       "ELEV": 797,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -7217,7 +7217,7 @@ var volcano =[
       "LON": 168.05,
       "ELEV": 1028,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -7240,7 +7240,7 @@ var volcano =[
       "LON": 167.83,
       "ELEV": 1496,
       "TYPE_": "Shield vo",
-      "STATUS": "Anthropol",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -7263,7 +7263,7 @@ var volcano =[
       "LON": 168.12,
       "ELEV": 1334,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -7286,7 +7286,7 @@ var volcano =[
       "LON": 168.346,
       "ELEV": 1413,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -7309,7 +7309,7 @@ var volcano =[
       "LON": 168.37,
       "ELEV": -34,
       "TYPE_": "Caldera",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -7332,7 +7332,7 @@ var volcano =[
       "LON": 168.28,
       "ELEV": 833,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -7355,7 +7355,7 @@ var volcano =[
       "LON": 168.43,
       "ELEV": 554,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -7378,7 +7378,7 @@ var volcano =[
       "LON": 168.536,
       "ELEV": -2,
       "TYPE_": "Caldera",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -7401,7 +7401,7 @@ var volcano =[
       "LON": 168.33,
       "ELEV": 594,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -7424,7 +7424,7 @@ var volcano =[
       "LON": 169.23,
       "ELEV": 837,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -7447,7 +7447,7 @@ var volcano =[
       "LON": 169.425,
       "ELEV": 361,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -7470,7 +7470,7 @@ var volcano =[
       "LON": 169.83,
       "ELEV": 852,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -7493,7 +7493,7 @@ var volcano =[
       "LON": 171.32,
       "ELEV": 177,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -7516,7 +7516,7 @@ var volcano =[
       "LON": 172.05,
       "ELEV": 297,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -7539,7 +7539,7 @@ var volcano =[
       "LON": 142.5,
       "ELEV": 1011,
       "TYPE_": "Shield vo",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -7562,7 +7562,7 @@ var volcano =[
       "LON": 94.25,
       "ELEV": 710,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -7585,7 +7585,7 @@ var volcano =[
       "LON": 93.875,
       "ELEV": 305,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -7608,7 +7608,7 @@ var volcano =[
       "LON": 95.33,
       "ELEV": 584,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -7631,7 +7631,7 @@ var volcano =[
       "LON": 95.6,
       "ELEV": 1726,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -7654,7 +7654,7 @@ var volcano =[
       "LON": 96.33,
       "ELEV": 2780,
       "TYPE_": "Complex v",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -7677,7 +7677,7 @@ var volcano =[
       "LON": 96.8,
       "ELEV": 2590,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -7700,7 +7700,7 @@ var volcano =[
       "LON": 96.808,
       "ELEV": 2624,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -7723,7 +7723,7 @@ var volcano =[
       "LON": 97.6,
       "ELEV": 1500,
       "TYPE_": "Fumarole",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -7746,7 +7746,7 @@ var volcano =[
       "LON": 98.47,
       "ELEV": 2212,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -7769,7 +7769,7 @@ var volcano =[
       "LON": 98.392,
       "ELEV": 2460,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -7792,7 +7792,7 @@ var volcano =[
       "LON": 98.83,
       "ELEV": 2157,
       "TYPE_": "Caldera",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -7815,7 +7815,7 @@ var volcano =[
       "LON": 98.93,
       "ELEV": 1100,
       "TYPE_": "Fumarole",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -7838,7 +7838,7 @@ var volcano =[
       "LON": 99.25,
       "ELEV": 1819,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -7861,7 +7861,7 @@ var volcano =[
       "LON": 99.537,
       "ELEV": 2145,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -7884,7 +7884,7 @@ var volcano =[
       "LON": 99.982,
       "ELEV": 2912,
       "TYPE_": "Complex v",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -7907,7 +7907,7 @@ var volcano =[
       "LON": 100.471,
       "ELEV": 2891,
       "TYPE_": "Complex v",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -7930,7 +7930,7 @@ var volcano =[
       "LON": 100.317,
       "ELEV": 2438,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -7953,7 +7953,7 @@ var volcano =[
       "LON": 100.679,
       "ELEV": 2896,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -7976,7 +7976,7 @@ var volcano =[
       "LON": 101.27,
       "ELEV": 3805,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -7999,7 +7999,7 @@ var volcano =[
       "LON": 101.6,
       "ELEV": 0,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -8022,7 +8022,7 @@ var volcano =[
       "LON": 101.73,
       "ELEV": 2508,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -8045,7 +8045,7 @@ var volcano =[
       "LON": 101.63,
       "ELEV": 2151,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -8068,7 +8068,7 @@ var volcano =[
       "LON": 102.02,
       "ELEV": 0,
       "TYPE_": "Unknown",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -8091,7 +8091,7 @@ var volcano =[
       "LON": 102.18,
       "ELEV": 1958,
       "TYPE_": "Compound",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -8114,7 +8114,7 @@ var volcano =[
       "LON": 102.37,
       "ELEV": 2467,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -8137,7 +8137,7 @@ var volcano =[
       "LON": 102.62,
       "ELEV": 1952,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -8160,7 +8160,7 @@ var volcano =[
       "LON": 103.13,
       "ELEV": 3173,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -8183,7 +8183,7 @@ var volcano =[
       "LON": 103.3,
       "ELEV": 2817,
       "TYPE_": "Unknown",
-      "STATUS": "Uncertain",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -8206,7 +8206,7 @@ var volcano =[
       "LON": 103.62,
       "ELEV": 2055,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -8229,7 +8229,7 @@ var volcano =[
       "LON": 103.67,
       "ELEV": 1899,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -8252,7 +8252,7 @@ var volcano =[
       "LON": 103.92,
       "ELEV": 1881,
       "TYPE_": "Caldera",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -8275,7 +8275,7 @@ var volcano =[
       "LON": 104.32,
       "ELEV": 1719,
       "TYPE_": "Caldera",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -8298,7 +8298,7 @@ var volcano =[
       "LON": 104.27,
       "ELEV": 1000,
       "TYPE_": "Maars",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -8321,7 +8321,7 @@ var volcano =[
       "LON": 104.6,
       "ELEV": 1040,
       "TYPE_": "Caldera",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -8344,7 +8344,7 @@ var volcano =[
       "LON": 105.625,
       "ELEV": 1281,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -8367,7 +8367,7 @@ var volcano =[
       "LON": 105.423,
       "ELEV": 813,
       "TYPE_": "Caldera",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -8390,7 +8390,7 @@ var volcano =[
       "LON": 105.97,
       "ELEV": 1778,
       "TYPE_": "Caldera",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -8413,7 +8413,7 @@ var volcano =[
       "LON": 106.042,
       "ELEV": 1778,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -8436,7 +8436,7 @@ var volcano =[
       "LON": 106.65,
       "ELEV": 1511,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -8459,7 +8459,7 @@ var volcano =[
       "LON": 106.68,
       "ELEV": 1699,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -8482,7 +8482,7 @@ var volcano =[
       "LON": 106.73,
       "ELEV": 2211,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -8505,7 +8505,7 @@ var volcano =[
       "LON": 106.98,
       "ELEV": 2958,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -8528,7 +8528,7 @@ var volcano =[
       "LON": 107.37,
       "ELEV": 2434,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -8551,7 +8551,7 @@ var volcano =[
       "LON": 107.63,
       "ELEV": 2182,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -8574,7 +8574,7 @@ var volcano =[
       "LON": 107.6,
       "ELEV": 2084,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -8597,7 +8597,7 @@ var volcano =[
       "LON": 107.73,
       "ELEV": 2665,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -8620,7 +8620,7 @@ var volcano =[
       "LON": 107.72,
       "ELEV": 2608,
       "TYPE_": "Fumarole",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -8643,7 +8643,7 @@ var volcano =[
       "LON": 107.8,
       "ELEV": 1730,
       "TYPE_": "Fumarole",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -8666,7 +8666,7 @@ var volcano =[
       "LON": 107.83,
       "ELEV": 2249,
       "TYPE_": "Complex v",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -8689,7 +8689,7 @@ var volcano =[
       "LON": 107.95,
       "ELEV": 1684,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -8712,7 +8712,7 @@ var volcano =[
       "LON": 108.05,
       "ELEV": 2168,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -8735,7 +8735,7 @@ var volcano =[
       "LON": 108.07,
       "ELEV": 1020,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -8758,7 +8758,7 @@ var volcano =[
       "LON": 108.08,
       "ELEV": 1155,
       "TYPE_": "Fumarole",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -8781,7 +8781,7 @@ var volcano =[
       "LON": 108.4,
       "ELEV": 3078,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -8804,7 +8804,7 @@ var volcano =[
       "LON": 109.208,
       "ELEV": 3432,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -8827,7 +8827,7 @@ var volcano =[
       "LON": 109.92,
       "ELEV": 2565,
       "TYPE_": "Complex v",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -8850,7 +8850,7 @@ var volcano =[
       "LON": 109.992,
       "ELEV": 3151,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -8873,7 +8873,7 @@ var volcano =[
       "LON": 110.058,
       "ELEV": 3371,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D4"
    }
 },
@@ -8896,7 +8896,7 @@ var volcano =[
       "LON": 110.33,
       "ELEV": 2050,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -8919,7 +8919,7 @@ var volcano =[
       "LON": 110.4,
       "ELEV": 1894,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -8942,7 +8942,7 @@ var volcano =[
       "LON": 110.43,
       "ELEV": 3145,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D4"
    }
 },
@@ -8965,7 +8965,7 @@ var volcano =[
       "LON": 110.442,
       "ELEV": 2911,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -8988,7 +8988,7 @@ var volcano =[
       "LON": 111.192,
       "ELEV": 3265,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -9011,7 +9011,7 @@ var volcano =[
       "LON": 111.758,
       "ELEV": 2563,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -9034,7 +9034,7 @@ var volcano =[
       "LON": 112.308,
       "ELEV": 1731,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -9057,7 +9057,7 @@ var volcano =[
       "LON": 112.45,
       "ELEV": 2651,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -9080,7 +9080,7 @@ var volcano =[
       "LON": 112.58,
       "ELEV": 3339,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -9103,7 +9103,7 @@ var volcano =[
       "LON": 112.63,
       "ELEV": 1653,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -9126,7 +9126,7 @@ var volcano =[
       "LON": 112.68,
       "ELEV": 680,
       "TYPE_": "Maars",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -9149,7 +9149,7 @@ var volcano =[
       "LON": 112.92,
       "ELEV": 3676,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -9172,7 +9172,7 @@ var volcano =[
       "LON": 112.95,
       "ELEV": 2329,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -9195,7 +9195,7 @@ var volcano =[
       "LON": 113.342,
       "ELEV": 1651,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -9218,7 +9218,7 @@ var volcano =[
       "LON": 113.58,
       "ELEV": 539,
       "TYPE_": "Complex v",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -9241,7 +9241,7 @@ var volcano =[
       "LON": 113.57,
       "ELEV": 3088,
       "TYPE_": "Complex v",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -9264,7 +9264,7 @@ var volcano =[
       "LON": 114.042,
       "ELEV": 3332,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -9287,7 +9287,7 @@ var volcano =[
       "LON": 114.242,
       "ELEV": 2386,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -9310,7 +9310,7 @@ var volcano =[
       "LON": 114.37,
       "ELEV": 1247,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -9333,7 +9333,7 @@ var volcano =[
       "LON": 115.13,
       "ELEV": 2276,
       "TYPE_": "Caldera",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -9356,7 +9356,7 @@ var volcano =[
       "LON": 115.375,
       "ELEV": 1717,
       "TYPE_": "Caldera",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -9379,7 +9379,7 @@ var volcano =[
       "LON": 115.508,
       "ELEV": 3142,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -9402,7 +9402,7 @@ var volcano =[
       "LON": 116.47,
       "ELEV": 3726,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -9425,7 +9425,7 @@ var volcano =[
       "LON": 118,
       "ELEV": 2850,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -9448,7 +9448,7 @@ var volcano =[
       "LON": 119.058,
       "ELEV": 1949,
       "TYPE_": "Complex v",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -9471,7 +9471,7 @@ var volcano =[
       "LON": 119.35,
       "ELEV": 0,
       "TYPE_": "Submarine",
-      "STATUS": "Uncertain",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -9494,7 +9494,7 @@ var volcano =[
       "LON": 120.025,
       "ELEV": 903,
       "TYPE_": "Caldera",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -9517,7 +9517,7 @@ var volcano =[
       "LON": 120.48,
       "ELEV": 1675,
       "TYPE_": "Unknown",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -9540,7 +9540,7 @@ var volcano =[
       "LON": 120.52,
       "ELEV": 2100,
       "TYPE_": "Lava dome",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -9563,7 +9563,7 @@ var volcano =[
       "LON": 120.95,
       "ELEV": 2245,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -9586,7 +9586,7 @@ var volcano =[
       "LON": 120.98,
       "ELEV": 1559,
       "TYPE_": "Complex v",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -9609,7 +9609,7 @@ var volcano =[
       "LON": 121.18,
       "ELEV": 2124,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -9632,7 +9632,7 @@ var volcano =[
       "LON": 121.63,
       "ELEV": 637,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -9655,7 +9655,7 @@ var volcano =[
       "LON": 121.77,
       "ELEV": 1500,
       "TYPE_": "Caldera",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -9678,7 +9678,7 @@ var volcano =[
       "LON": 121.78,
       "ELEV": 750,
       "TYPE_": "Fumarole",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -9701,7 +9701,7 @@ var volcano =[
       "LON": 121.83,
       "ELEV": 1640,
       "TYPE_": "Complex v",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -9724,7 +9724,7 @@ var volcano =[
       "LON": 121.708,
       "ELEV": 875,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -9747,7 +9747,7 @@ var volcano =[
       "LON": 122.45,
       "ELEV": 1703,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -9770,7 +9770,7 @@ var volcano =[
       "LON": 122.671,
       "ELEV": 1100,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -9793,7 +9793,7 @@ var volcano =[
       "LON": 122.775,
       "ELEV": 1703,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -9816,7 +9816,7 @@ var volcano =[
       "LON": 122.842,
       "ELEV": 1117,
       "TYPE_": "Complex v",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -9839,7 +9839,7 @@ var volcano =[
       "LON": 122.892,
       "ELEV": 200,
       "TYPE_": "Fumarole",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -9862,7 +9862,7 @@ var volcano =[
       "LON": 123.258,
       "ELEV": 1659,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -9885,7 +9885,7 @@ var volcano =[
       "LON": 123.505,
       "ELEV": 1423,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -9908,7 +9908,7 @@ var volcano =[
       "LON": 123.42,
       "ELEV": 1018,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -9931,7 +9931,7 @@ var volcano =[
       "LON": 123.59,
       "ELEV": 1018,
       "TYPE_": "Complex v",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -9954,7 +9954,7 @@ var volcano =[
       "LON": 123.579,
       "ELEV": 748,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -9977,7 +9977,7 @@ var volcano =[
       "LON": 124.148,
       "ELEV": 862,
       "TYPE_": "Complex v",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -10000,7 +10000,7 @@ var volcano =[
       "LON": 123.95,
       "ELEV": -3800,
       "TYPE_": "Submarine",
-      "STATUS": "Uncertain",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -10023,7 +10023,7 @@ var volcano =[
       "LON": 124.22,
       "ELEV": -2850,
       "TYPE_": "Submarine",
-      "STATUS": "Uncertain",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -10046,7 +10046,7 @@ var volcano =[
       "LON": 124.675,
       "ELEV": -2285,
       "TYPE_": "Submarine",
-      "STATUS": "Uncertain",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -10069,7 +10069,7 @@ var volcano =[
       "LON": 126.65,
       "ELEV": 282,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D5"
    }
 },
@@ -10092,7 +10092,7 @@ var volcano =[
       "LON": 128.675,
       "ELEV": 868,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -10115,7 +10115,7 @@ var volcano =[
       "LON": 129.125,
       "ELEV": 655,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -10138,7 +10138,7 @@ var volcano =[
       "LON": 129.5,
       "ELEV": 781,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -10161,7 +10161,7 @@ var volcano =[
       "LON": 130,
       "ELEV": 641,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -10184,7 +10184,7 @@ var volcano =[
       "LON": 130.292,
       "ELEV": 282,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -10207,7 +10207,7 @@ var volcano =[
       "LON": 129.871,
       "ELEV": 640,
       "TYPE_": "Caldera",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -10230,7 +10230,7 @@ var volcano =[
       "LON": 121.608,
       "ELEV": 507,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -10253,7 +10253,7 @@ var volcano =[
       "LON": 124.42,
       "ELEV": 1795,
       "TYPE_": "Complex v",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -10276,7 +10276,7 @@ var volcano =[
       "LON": 124.725,
       "ELEV": 1784,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -10299,7 +10299,7 @@ var volcano =[
       "LON": 124.73,
       "ELEV": 1549,
       "TYPE_": "Caldera",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -10322,7 +10322,7 @@ var volcano =[
       "LON": 124.83,
       "ELEV": 1202,
       "TYPE_": "Caldera",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -10345,7 +10345,7 @@ var volcano =[
       "LON": 124.792,
       "ELEV": 1580,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -10368,7 +10368,7 @@ var volcano =[
       "LON": 124.858,
       "ELEV": 1324,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -10391,7 +10391,7 @@ var volcano =[
       "LON": 125.03,
       "ELEV": 1995,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -10414,7 +10414,7 @@ var volcano =[
       "LON": 125.2,
       "ELEV": 1149,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -10437,7 +10437,7 @@ var volcano =[
       "LON": 125.425,
       "ELEV": 725,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -10460,7 +10460,7 @@ var volcano =[
       "LON": 125.48,
       "ELEV": 1784,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -10483,7 +10483,7 @@ var volcano =[
       "LON": 125.491,
       "ELEV": -5,
       "TYPE_": "Submarine",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -10506,7 +10506,7 @@ var volcano =[
       "LON": 125.5,
       "ELEV": 1320,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -10529,7 +10529,7 @@ var volcano =[
       "LON": 127.87,
       "ELEV": 1087,
       "TYPE_": "Complex v",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -10552,7 +10552,7 @@ var volcano =[
       "LON": 127.63,
       "ELEV": 1325,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -10575,7 +10575,7 @@ var volcano =[
       "LON": 127.52,
       "ELEV": 1635,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -10598,7 +10598,7 @@ var volcano =[
       "LON": 127.43,
       "ELEV": 979,
       "TYPE_": "Caldera",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -10621,7 +10621,7 @@ var volcano =[
       "LON": 127.32,
       "ELEV": 1130,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -10644,7 +10644,7 @@ var volcano =[
       "LON": 127.325,
       "ELEV": 1715,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -10667,7 +10667,7 @@ var volcano =[
       "LON": 127.4,
       "ELEV": 690,
       "TYPE_": "Stratovol",
-      "STATUS": "Uncertain",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -10690,7 +10690,7 @@ var volcano =[
       "LON": 127.4,
       "ELEV": 1357,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -10713,7 +10713,7 @@ var volcano =[
       "LON": 117.88,
       "ELEV": 531,
       "TYPE_": "Cone",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -10736,7 +10736,7 @@ var volcano =[
       "LON": 121.07,
       "ELEV": 440,
       "TYPE_": "Pyroclast",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -10759,7 +10759,7 @@ var volcano =[
       "LON": 125.375,
       "ELEV": 852,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -10782,7 +10782,7 @@ var volcano =[
       "LON": 125.108,
       "ELEV": 2293,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -10805,7 +10805,7 @@ var volcano =[
       "LON": 125.273,
       "ELEV": 2954,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -10828,7 +10828,7 @@ var volcano =[
       "LON": 126.397,
       "ELEV": 800,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -10851,7 +10851,7 @@ var volcano =[
       "LON": 124.32,
       "ELEV": 1940,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -10874,7 +10874,7 @@ var volcano =[
       "LON": 124.47,
       "ELEV": 2158,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -10897,7 +10897,7 @@ var volcano =[
       "LON": 124.5,
       "ELEV": 2815,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -10920,7 +10920,7 @@ var volcano =[
       "LON": 124.8,
       "ELEV": 2824,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -10943,7 +10943,7 @@ var volcano =[
       "LON": 125.068,
       "ELEV": 646,
       "TYPE_": "Tuff cone",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -10966,7 +10966,7 @@ var volcano =[
       "LON": 123.63,
       "ELEV": 2435,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -10989,7 +10989,7 @@ var volcano =[
       "LON": 124.92,
       "ELEV": 2300,
       "TYPE_": "Compound",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -11012,7 +11012,7 @@ var volcano =[
       "LON": 124.673,
       "ELEV": 1332,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -11035,7 +11035,7 @@ var volcano =[
       "LON": 125.52,
       "ELEV": 524,
       "TYPE_": "Compound",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -11058,7 +11058,7 @@ var volcano =[
       "LON": 123.175,
       "ELEV": 1904,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -11081,7 +11081,7 @@ var volcano =[
       "LON": 123.132,
       "ELEV": 2435,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -11104,7 +11104,7 @@ var volcano =[
       "LON": 123.22,
       "ELEV": 1879,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -11127,7 +11127,7 @@ var volcano =[
       "LON": 123.23,
       "ELEV": 1535,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -11150,7 +11150,7 @@ var volcano =[
       "LON": 125.22,
       "ELEV": 945,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -11173,7 +11173,7 @@ var volcano =[
       "LON": 124.853,
       "ELEV": 800,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -11196,7 +11196,7 @@ var volcano =[
       "LON": 124.534,
       "ELEV": 1187,
       "TYPE_": "Compound",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -11219,7 +11219,7 @@ var volcano =[
       "LON": 124.05,
       "ELEV": 1565,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -11242,7 +11242,7 @@ var volcano =[
       "LON": 123.958,
       "ELEV": 1102,
       "TYPE_": "Compound",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -11265,7 +11265,7 @@ var volcano =[
       "LON": 123.685,
       "ELEV": 2462,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -11288,7 +11288,7 @@ var volcano =[
       "LON": 123.6,
       "ELEV": 1328,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -11311,7 +11311,7 @@ var volcano =[
       "LON": 123.597,
       "ELEV": 1548,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U1"
    }
 },
@@ -11334,7 +11334,7 @@ var volcano =[
       "LON": 123.457,
       "ELEV": 1196,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D5"
    }
 },
@@ -11357,7 +11357,7 @@ var volcano =[
       "LON": 123.37,
       "ELEV": 1966,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -11380,7 +11380,7 @@ var volcano =[
       "LON": 122.792,
       "ELEV": 1544,
       "TYPE_": "Compound",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -11403,7 +11403,7 @@ var volcano =[
       "LON": 122.018,
       "ELEV": 1157,
       "TYPE_": "Stratovol",
-      "STATUS": "Hot Sprin",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -11426,7 +11426,7 @@ var volcano =[
       "LON": 121.078,
       "ELEV": 364,
       "TYPE_": "Stratovol",
-      "STATUS": "Pleistoce",
+      "STATUS": "Unknown",
       "TIME_FRAME": "Q"
    }
 },
@@ -11449,7 +11449,7 @@ var volcano =[
       "LON": 120.893,
       "ELEV": 501,
       "TYPE_": "Stratovol",
-      "STATUS": "Pleistoce",
+      "STATUS": "Unknown",
       "TIME_FRAME": "Q"
    }
 },
@@ -11472,7 +11472,7 @@ var volcano =[
       "LON": 121.48,
       "ELEV": 2177,
       "TYPE_": "Complex v",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -11495,7 +11495,7 @@ var volcano =[
       "LON": 121.3,
       "ELEV": 654,
       "TYPE_": "Scoria co",
-      "STATUS": "Anthropol",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -11518,7 +11518,7 @@ var volcano =[
       "LON": 121.2,
       "ELEV": 1090,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -11541,7 +11541,7 @@ var volcano =[
       "LON": 120.993,
       "ELEV": 400,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -11564,7 +11564,7 @@ var volcano =[
       "LON": 121.33,
       "ELEV": 743,
       "TYPE_": "Fumarole",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -11587,7 +11587,7 @@ var volcano =[
       "LON": 120.5,
       "ELEV": 1420,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -11610,7 +11610,7 @@ var volcano =[
       "LON": 120.4,
       "ELEV": 1287,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -11633,7 +11633,7 @@ var volcano =[
       "LON": 120.35,
       "ELEV": 1600,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -11656,7 +11656,7 @@ var volcano =[
       "LON": 120.742,
       "ELEV": 1026,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -11679,7 +11679,7 @@ var volcano =[
       "LON": 120.805,
       "ELEV": 376,
       "TYPE_": "Unknown",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -11702,7 +11702,7 @@ var volcano =[
       "LON": 120.55,
       "ELEV": 2260,
       "TYPE_": "Stratovol",
-      "STATUS": "Uncertain",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -11725,7 +11725,7 @@ var volcano =[
       "LON": 120.98,
       "ELEV": 1865,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -11748,7 +11748,7 @@ var volcano =[
       "LON": 121.093,
       "ELEV": 2329,
       "TYPE_": "Compound",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -11771,7 +11771,7 @@ var volcano =[
       "LON": 121.1,
       "ELEV": 0,
       "TYPE_": "Compound",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -11794,7 +11794,7 @@ var volcano =[
       "LON": 122.123,
       "ELEV": 1133,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -11817,7 +11817,7 @@ var volcano =[
       "LON": 121.86,
       "ELEV": 712,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -11840,7 +11840,7 @@ var volcano =[
       "LON": 122.202,
       "ELEV": 244,
       "TYPE_": "Compound",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -11863,7 +11863,7 @@ var volcano =[
       "LON": 121.94,
       "ELEV": 1180,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -11886,7 +11886,7 @@ var volcano =[
       "LON": 122.01,
       "ELEV": 1009,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -11909,7 +11909,7 @@ var volcano =[
       "LON": 109.78,
       "ELEV": 259,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -11932,7 +11932,7 @@ var volcano =[
       "LON": 109.12,
       "ELEV": 181,
       "TYPE_": "Cones",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -11955,7 +11955,7 @@ var volcano =[
       "LON": 108,
       "ELEV": 800,
       "TYPE_": "Unknown",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -11978,7 +11978,7 @@ var volcano =[
       "LON": 108.2,
       "ELEV": 1000,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -12001,7 +12001,7 @@ var volcano =[
       "LON": 107.2,
       "ELEV": 392,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -12024,7 +12024,7 @@ var volcano =[
       "LON": 109.014,
       "ELEV": -20,
       "TYPE_": "Submarine",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -12047,7 +12047,7 @@ var volcano =[
       "LON": 109.05,
       "ELEV": 0,
       "TYPE_": "Submarine",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -12070,7 +12070,7 @@ var volcano =[
       "LON": 95.23,
       "ELEV": 1518,
       "TYPE_": "Stratovol",
-      "STATUS": "Anthropol",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -12093,7 +12093,7 @@ var volcano =[
       "LON": 95.1,
       "ELEV": 385,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -12116,7 +12116,7 @@ var volcano =[
       "LON": 95.98,
       "ELEV": 507,
       "TYPE_": "Fissure v",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -12139,7 +12139,7 @@ var volcano =[
       "LON": 98.47,
       "ELEV": 2865,
       "TYPE_": "Pyroclast",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D5"
    }
 },
@@ -12162,7 +12162,7 @@ var volcano =[
       "LON": 121.92,
       "ELEV": 401,
       "TYPE_": "Stratovol",
-      "STATUS": "Pleistoce",
+      "STATUS": "Unknown",
       "TIME_FRAME": "Q"
    }
 },
@@ -12185,7 +12185,7 @@ var volcano =[
       "LON": 121.52,
       "ELEV": 1130,
       "TYPE_": "Stratovol",
-      "STATUS": "Pleistoce",
+      "STATUS": "Unknown",
       "TIME_FRAME": "Q"
    }
 },
@@ -12208,7 +12208,7 @@ var volcano =[
       "LON": 122.07,
       "ELEV": 129,
       "TYPE_": "Stratovol",
-      "STATUS": "Pleistoce",
+      "STATUS": "Unknown",
       "TIME_FRAME": "Q"
    }
 },
@@ -12231,7 +12231,7 @@ var volcano =[
       "LON": 122.458,
       "ELEV": -418,
       "TYPE_": "Submarine",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -12254,7 +12254,7 @@ var volcano =[
       "LON": 124,
       "ELEV": -200,
       "TYPE_": "Submarine",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -12277,7 +12277,7 @@ var volcano =[
       "LON": 128.25,
       "ELEV": 217,
       "TYPE_": "Complex v",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -12300,7 +12300,7 @@ var volcano =[
       "LON": 129.6,
       "ELEV": 586,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -12323,7 +12323,7 @@ var volcano =[
       "LON": 129.72,
       "ELEV": 799,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -12346,7 +12346,7 @@ var volcano =[
       "LON": 129.87,
       "ELEV": 979,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -12369,7 +12369,7 @@ var volcano =[
       "LON": 129.93,
       "ELEV": 627,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -12392,7 +12392,7 @@ var volcano =[
       "LON": 130.22,
       "ELEV": 649,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -12415,7 +12415,7 @@ var volcano =[
       "LON": 130.28,
       "ELEV": 717,
       "TYPE_": "Caldera",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -12438,7 +12438,7 @@ var volcano =[
       "LON": 130.57,
       "ELEV": 922,
       "TYPE_": "Caldera",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -12461,7 +12461,7 @@ var volcano =[
       "LON": 130.67,
       "ELEV": 1117,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -12484,7 +12484,7 @@ var volcano =[
       "LON": 130.594,
       "ELEV": 100,
       "TYPE_": "Maars",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -12507,7 +12507,7 @@ var volcano =[
       "LON": 130.87,
       "ELEV": 1700,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -12530,7 +12530,7 @@ var volcano =[
       "LON": 130.3,
       "ELEV": 1359,
       "TYPE_": "Complex v",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -12553,7 +12553,7 @@ var volcano =[
       "LON": 131.1,
       "ELEV": 1592,
       "TYPE_": "Caldera",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -12576,7 +12576,7 @@ var volcano =[
       "LON": 131.25,
       "ELEV": 1788,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D5"
    }
 },
@@ -12599,7 +12599,7 @@ var volcano =[
       "LON": 131.43,
       "ELEV": 1374,
       "TYPE_": "Lava dome",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -12622,7 +12622,7 @@ var volcano =[
       "LON": 131.6,
       "ELEV": 571,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -12645,7 +12645,7 @@ var volcano =[
       "LON": 132.62,
       "ELEV": 1126,
       "TYPE_": "Caldera",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -12668,7 +12668,7 @@ var volcano =[
       "LON": 133.33,
       "ELEV": 151,
       "TYPE_": "Shield vo",
-      "STATUS": "Anthropol",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -12691,7 +12691,7 @@ var volcano =[
       "LON": 133.55,
       "ELEV": 1731,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -12714,7 +12714,7 @@ var volcano =[
       "LON": 134.68,
       "ELEV": 460,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -12737,7 +12737,7 @@ var volcano =[
       "LON": 139.12,
       "ELEV": 1406,
       "TYPE_": "Pyroclast",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -12760,7 +12760,7 @@ var volcano =[
       "LON": 139.02,
       "ELEV": 1438,
       "TYPE_": "Complex v",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -12783,7 +12783,7 @@ var volcano =[
       "LON": 138.73,
       "ELEV": 3776,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D4"
    }
 },
@@ -12806,7 +12806,7 @@ var volcano =[
       "LON": 138.3,
       "ELEV": 2530,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -12829,7 +12829,7 @@ var volcano =[
       "LON": 137.48,
       "ELEV": 3063,
       "TYPE_": "Complex v",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -12852,7 +12852,7 @@ var volcano =[
       "LON": 136.78,
       "ELEV": 2702,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D5"
    }
 },
@@ -12875,7 +12875,7 @@ var volcano =[
       "LON": 137.55,
       "ELEV": 3026,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -12898,7 +12898,7 @@ var volcano =[
       "LON": 137.58,
       "ELEV": 2455,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -12921,7 +12921,7 @@ var volcano =[
       "LON": 137.6,
       "ELEV": 2621,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -12944,7 +12944,7 @@ var volcano =[
       "LON": 138.03,
       "ELEV": 2400,
       "TYPE_": "Lava dome",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -12967,7 +12967,7 @@ var volcano =[
       "LON": 138.12,
       "ELEV": 2446,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -12990,7 +12990,7 @@ var volcano =[
       "LON": 138.13,
       "ELEV": 2053,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -13013,7 +13013,7 @@ var volcano =[
       "LON": 138.13,
       "ELEV": 1917,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -13036,7 +13036,7 @@ var volcano =[
       "LON": 138.53,
       "ELEV": 2560,
       "TYPE_": "Complex v",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -13059,7 +13059,7 @@ var volcano =[
       "LON": 138.55,
       "ELEV": 2176,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -13082,7 +13082,7 @@ var volcano =[
       "LON": 138.52,
       "ELEV": 2036,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -13105,7 +13105,7 @@ var volcano =[
       "LON": 138.88,
       "ELEV": 1449,
       "TYPE_": "Stratovol",
-      "STATUS": "Anthropol",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -13128,7 +13128,7 @@ var volcano =[
       "LON": 139.18,
       "ELEV": 1828,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -13151,7 +13151,7 @@ var volcano =[
       "LON": 139.28,
       "ELEV": 2346,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -13174,7 +13174,7 @@ var volcano =[
       "LON": 139.38,
       "ELEV": 2578,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -13197,7 +13197,7 @@ var volcano =[
       "LON": 139.5,
       "ELEV": 2484,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -13220,7 +13220,7 @@ var volcano =[
       "LON": 139.5,
       "ELEV": 2375,
       "TYPE_": "Lava dome",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -13243,7 +13243,7 @@ var volcano =[
       "LON": 139.78,
       "ELEV": 1795,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -13266,7 +13266,7 @@ var volcano =[
       "LON": 139.97,
       "ELEV": 1917,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -13289,7 +13289,7 @@ var volcano =[
       "LON": 139.58,
       "ELEV": 1100,
       "TYPE_": "Shield vo",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -13312,7 +13312,7 @@ var volcano =[
       "LON": 140.08,
       "ELEV": 1819,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -13335,7 +13335,7 @@ var volcano =[
       "LON": 140.28,
       "ELEV": 1718,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -13358,7 +13358,7 @@ var volcano =[
       "LON": 140.25,
       "ELEV": 2024,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -13381,7 +13381,7 @@ var volcano =[
       "LON": 140.45,
       "ELEV": 1841,
       "TYPE_": "Complex v",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -13404,7 +13404,7 @@ var volcano =[
       "LON": 140.18,
       "ELEV": 516,
       "TYPE_": "Caldera",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -13427,7 +13427,7 @@ var volcano =[
       "LON": 140.73,
       "ELEV": 462,
       "TYPE_": "Lava dome",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -13450,7 +13450,7 @@ var volcano =[
       "LON": 140.78,
       "ELEV": 1628,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -13473,7 +13473,7 @@ var volcano =[
       "LON": 140.03,
       "ELEV": 2230,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -13496,7 +13496,7 @@ var volcano =[
       "LON": 140.8,
       "ELEV": 1637,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -13519,7 +13519,7 @@ var volcano =[
       "LON": 141,
       "ELEV": 2041,
       "TYPE_": "Complex v",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -13542,7 +13542,7 @@ var volcano =[
       "LON": 140.85,
       "ELEV": 1614,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -13565,7 +13565,7 @@ var volcano =[
       "LON": 140.77,
       "ELEV": 1366,
       "TYPE_": "Complex v",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -13588,7 +13588,7 @@ var volcano =[
       "LON": 139.88,
       "ELEV": 355,
       "TYPE_": "Lava dome",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -13611,7 +13611,7 @@ var volcano =[
       "LON": 139.73,
       "ELEV": 291,
       "TYPE_": "Maars",
-      "STATUS": "Tephrochr",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -13634,7 +13634,7 @@ var volcano =[
       "LON": 140.3,
       "ELEV": 1625,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -13657,7 +13657,7 @@ var volcano =[
       "LON": 140.92,
       "ELEV": 1159,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -13680,7 +13680,7 @@ var volcano =[
       "LON": 140.88,
       "ELEV": 1585,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -13703,7 +13703,7 @@ var volcano =[
       "LON": 141.08,
       "ELEV": 879,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D4"
    }
 },
@@ -13726,7 +13726,7 @@ var volcano =[
       "LON": 141.07,
       "ELEV": 781,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -13749,7 +13749,7 @@ var volcano =[
       "LON": 139.38,
       "ELEV": 758,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -13772,7 +13772,7 @@ var volcano =[
       "LON": 139.28,
       "ELEV": 508,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -13795,7 +13795,7 @@ var volcano =[
       "LON": 139.27,
       "ELEV": 432,
       "TYPE_": "Lava dome",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -13818,7 +13818,7 @@ var volcano =[
       "LON": 139.15,
       "ELEV": 574,
       "TYPE_": "Lava dome",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -13841,7 +13841,7 @@ var volcano =[
       "LON": 139.53,
       "ELEV": 815,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -13864,7 +13864,7 @@ var volcano =[
       "LON": 139.68,
       "ELEV": -107,
       "TYPE_": "Submarine",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -13887,7 +13887,7 @@ var volcano =[
       "LON": 139.77,
       "ELEV": 854,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D5"
    }
 },
@@ -13910,7 +13910,7 @@ var volcano =[
       "LON": 139.77,
       "ELEV": 423,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D4"
    }
 },
@@ -13933,7 +13933,7 @@ var volcano =[
       "LON": 139.92,
       "ELEV": 10,
       "TYPE_": "Submarine",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -13956,7 +13956,7 @@ var volcano =[
       "LON": 140.05,
       "ELEV": 136,
       "TYPE_": "Submarine",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -13979,7 +13979,7 @@ var volcano =[
       "LON": 140.32,
       "ELEV": 403,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -14002,7 +14002,7 @@ var volcano =[
       "LON": 140.8,
       "ELEV": -1700,
       "TYPE_": "Submarine",
-      "STATUS": "Uncertain",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -14025,7 +14025,7 @@ var volcano =[
       "LON": 140.877,
       "ELEV": 52,
       "TYPE_": "Caldera",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -14048,7 +14048,7 @@ var volcano =[
       "LON": 141.102,
       "ELEV": -10,
       "TYPE_": "Submarine",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -14071,7 +14071,7 @@ var volcano =[
       "LON": 141.23,
       "ELEV": 792,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -14094,7 +14094,7 @@ var volcano =[
       "LON": 141.33,
       "ELEV": 161,
       "TYPE_": "Caldera",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -14117,7 +14117,7 @@ var volcano =[
       "LON": 141.52,
       "ELEV": -14,
       "TYPE_": "Submarine",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -14140,7 +14140,7 @@ var volcano =[
       "LON": 141.905,
       "ELEV": -30,
       "TYPE_": "Submarine",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -14163,7 +14163,7 @@ var volcano =[
       "LON": 142.308,
       "ELEV": -391,
       "TYPE_": "Submarine",
-      "STATUS": "Uncertain",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -14186,7 +14186,7 @@ var volcano =[
       "LON": 143.442,
       "ELEV": -217,
       "TYPE_": "Submarine",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -14209,7 +14209,7 @@ var volcano =[
       "LON": 143.72,
       "ELEV": -558,
       "TYPE_": "Submarine",
-      "STATUS": "Uncertain",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -14232,7 +14232,7 @@ var volcano =[
       "LON": 144.9,
       "ELEV": 360,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -14255,7 +14255,7 @@ var volcano =[
       "LON": 145.03,
       "ELEV": -70,
       "TYPE_": "Submarine",
-      "STATUS": "Uncertain",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -14278,7 +14278,7 @@ var volcano =[
       "LON": 145.1,
       "ELEV": -8,
       "TYPE_": "Submarine",
-      "STATUS": "Hydrophon",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -14301,7 +14301,7 @@ var volcano =[
       "LON": 145.4,
       "ELEV": 857,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -14324,7 +14324,7 @@ var volcano =[
       "LON": 145.67,
       "ELEV": 965,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -14347,7 +14347,7 @@ var volcano =[
       "LON": 145.8,
       "ELEV": 570,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -14370,7 +14370,7 @@ var volcano =[
       "LON": 145.83,
       "ELEV": 744,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -14393,7 +14393,7 @@ var volcano =[
       "LON": 145.85,
       "ELEV": 287,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -14416,7 +14416,7 @@ var volcano =[
       "LON": 145.78,
       "ELEV": 538,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -14439,7 +14439,7 @@ var volcano =[
       "LON": 145.67,
       "ELEV": 788,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -14462,7 +14462,7 @@ var volcano =[
       "LON": 145.57,
       "ELEV": -230,
       "TYPE_": "Submarine",
-      "STATUS": "Hydrophon",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -14485,7 +14485,7 @@ var volcano =[
       "LON": 145.25,
       "ELEV": -43,
       "TYPE_": "Submarine",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -14508,7 +14508,7 @@ var volcano =[
       "LON": 139.37,
       "ELEV": 737,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D4"
    }
 },
@@ -14531,7 +14531,7 @@ var volcano =[
       "LON": 141.17,
       "ELEV": 618,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -14554,7 +14554,7 @@ var volcano =[
       "LON": 140.68,
       "ELEV": 1140,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -14577,7 +14577,7 @@ var volcano =[
       "LON": 140.45,
       "ELEV": 356,
       "TYPE_": "Hydrother",
-      "STATUS": "Pleistoce",
+      "STATUS": "Unknown",
       "TIME_FRAME": "Q"
    }
 },
@@ -14600,7 +14600,7 @@ var volcano =[
       "LON": 140.83,
       "ELEV": 731,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -14623,7 +14623,7 @@ var volcano =[
       "LON": 140.63,
       "ELEV": 1154,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -14646,7 +14646,7 @@ var volcano =[
       "LON": 140.82,
       "ELEV": 1893,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -14669,7 +14669,7 @@ var volcano =[
       "LON": 140.916,
       "ELEV": 1107,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -14692,7 +14692,7 @@ var volcano =[
       "LON": 141.18,
       "ELEV": 581,
       "TYPE_": "Stratovol",
-      "STATUS": "Tephrochr",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -14715,7 +14715,7 @@ var volcano =[
       "LON": 141.333,
       "ELEV": 1320,
       "TYPE_": "Caldera",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -14738,7 +14738,7 @@ var volcano =[
       "LON": 141.25,
       "ELEV": 1719,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -14761,7 +14761,7 @@ var volcano =[
       "LON": 142.68,
       "ELEV": 2077,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -14784,7 +14784,7 @@ var volcano =[
       "LON": 142.88,
       "ELEV": 2290,
       "TYPE_": "Stratovol",
-      "STATUS": "Tephrochr",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -14807,7 +14807,7 @@ var volcano =[
       "LON": 143.03,
       "ELEV": 2013,
       "TYPE_": "Lava dome",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -14830,7 +14830,7 @@ var volcano =[
       "LON": 143.08,
       "ELEV": 1430,
       "TYPE_": "Lava dome",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -14853,7 +14853,7 @@ var volcano =[
       "LON": 144.02,
       "ELEV": 1499,
       "TYPE_": "Caldera",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -14876,7 +14876,7 @@ var volcano =[
       "LON": 144.43,
       "ELEV": 1000,
       "TYPE_": "Caldera",
-      "STATUS": "Tephrochr",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -14899,7 +14899,7 @@ var volcano =[
       "LON": 144.57,
       "ELEV": 855,
       "TYPE_": "Caldera",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -14922,7 +14922,7 @@ var volcano =[
       "LON": 145.125,
       "ELEV": 1660,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -14945,7 +14945,7 @@ var volcano =[
       "LON": 145.17,
       "ELEV": 1563,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -14968,7 +14968,7 @@ var volcano =[
       "LON": 145.53,
       "ELEV": 541,
       "TYPE_": "Caldera",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -14991,7 +14991,7 @@ var volcano =[
       "LON": 145.7,
       "ELEV": 887,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -15014,7 +15014,7 @@ var volcano =[
       "LON": 146.13,
       "ELEV": 1189,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -15037,7 +15037,7 @@ var volcano =[
       "LON": 146.27,
       "ELEV": 1819,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -15060,7 +15060,7 @@ var volcano =[
       "LON": 146.93,
       "ELEV": 1220,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -15083,7 +15083,7 @@ var volcano =[
       "LON": 147,
       "ELEV": 528,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -15106,7 +15106,7 @@ var volcano =[
       "LON": 147.13,
       "ELEV": 1205,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -15129,7 +15129,7 @@ var volcano =[
       "LON": 147.37,
       "ELEV": 1634,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -15152,7 +15152,7 @@ var volcano =[
       "LON": 147.87,
       "ELEV": 1211,
       "TYPE_": "Complex v",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -15175,7 +15175,7 @@ var volcano =[
       "LON": 148.02,
       "ELEV": 1132,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -15198,7 +15198,7 @@ var volcano =[
       "LON": 147.92,
       "ELEV": 1589,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -15221,7 +15221,7 @@ var volcano =[
       "LON": 148.35,
       "ELEV": 442,
       "TYPE_": "Pyroclast",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -15244,7 +15244,7 @@ var volcano =[
       "LON": 148.83,
       "ELEV": 1124,
       "TYPE_": "Somma vol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -15267,7 +15267,7 @@ var volcano =[
       "LON": 148.85,
       "ELEV": 1205,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -15290,7 +15290,7 @@ var volcano =[
       "LON": 149.68,
       "ELEV": 1426,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -15313,7 +15313,7 @@ var volcano =[
       "LON": 149.83,
       "ELEV": 542,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -15336,7 +15336,7 @@ var volcano =[
       "LON": 149.92,
       "ELEV": 998,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -15359,7 +15359,7 @@ var volcano =[
       "LON": 150.05,
       "ELEV": 1328,
       "TYPE_": "Somma vol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -15382,7 +15382,7 @@ var volcano =[
       "LON": 150.875,
       "ELEV": 742,
       "TYPE_": "Caldera",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -15405,7 +15405,7 @@ var volcano =[
       "LON": 151.78,
       "ELEV": 1540,
       "TYPE_": "Somma vol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -15428,7 +15428,7 @@ var volcano =[
       "LON": 151.75,
       "ELEV": 891,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -15451,7 +15451,7 @@ var volcano =[
       "LON": 151.95,
       "ELEV": 624,
       "TYPE_": "Caldera",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -15474,7 +15474,7 @@ var volcano =[
       "LON": 152.12,
       "ELEV": 1360,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -15497,7 +15497,7 @@ var volcano =[
       "LON": 152.23,
       "ELEV": 678,
       "TYPE_": "Somma vol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -15520,7 +15520,7 @@ var volcano =[
       "LON": 152.475,
       "ELEV": 1172,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -15543,7 +15543,7 @@ var volcano =[
       "LON": 152.8,
       "ELEV": 401,
       "TYPE_": "Caldera",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -15566,7 +15566,7 @@ var volcano =[
       "LON": 152.92,
       "ELEV": 36,
       "TYPE_": "Submarine",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -15589,7 +15589,7 @@ var volcano =[
       "LON": 153.02,
       "ELEV": 956,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -15612,7 +15612,7 @@ var volcano =[
       "LON": 153.2,
       "ELEV": 1496,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -15635,7 +15635,7 @@ var volcano =[
       "LON": 153.25,
       "ELEV": 551,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -15658,7 +15658,7 @@ var volcano =[
       "LON": 153.48,
       "ELEV": 724,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -15681,7 +15681,7 @@ var volcano =[
       "LON": 153.93,
       "ELEV": 1170,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -15704,7 +15704,7 @@ var volcano =[
       "LON": 154.02,
       "ELEV": 828,
       "TYPE_": "Hydrother",
-      "STATUS": "Pleistoce",
+      "STATUS": "Unknown",
       "TIME_FRAME": "Q"
    }
 },
@@ -15727,7 +15727,7 @@ var volcano =[
       "LON": 154.175,
       "ELEV": 934,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -15750,7 +15750,7 @@ var volcano =[
       "LON": 154.508,
       "ELEV": 1145,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -15773,7 +15773,7 @@ var volcano =[
       "LON": 154.7,
       "ELEV": 1325,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -15796,7 +15796,7 @@ var volcano =[
       "LON": 154.808,
       "ELEV": 1018,
       "TYPE_": "Caldera",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -15819,7 +15819,7 @@ var volcano =[
       "LON": 154.98,
       "ELEV": 761,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -15842,7 +15842,7 @@ var volcano =[
       "LON": 155.25,
       "ELEV": 1772,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -15865,7 +15865,7 @@ var volcano =[
       "LON": 155.37,
       "ELEV": 1345,
       "TYPE_": "Cones",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -15888,7 +15888,7 @@ var volcano =[
       "LON": 155.43,
       "ELEV": 1681,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -15911,7 +15911,7 @@ var volcano =[
       "LON": 155.458,
       "ELEV": 1816,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -15934,7 +15934,7 @@ var volcano =[
       "LON": 155.97,
       "ELEV": 1183,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -15957,7 +15957,7 @@ var volcano =[
       "LON": 156.02,
       "ELEV": 1156,
       "TYPE_": "Somma vol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -15980,7 +15980,7 @@ var volcano =[
       "LON": 155.55,
       "ELEV": 2339,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -16003,7 +16003,7 @@ var volcano =[
       "LON": 156.72,
       "ELEV": 503,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -16026,7 +16026,7 @@ var volcano =[
       "LON": 156.87,
       "ELEV": 2156,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -16049,7 +16049,7 @@ var volcano =[
       "LON": 156.75,
       "ELEV": 1812,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D5"
    }
 },
@@ -16072,7 +16072,7 @@ var volcano =[
       "LON": 156.93,
       "ELEV": 1331,
       "TYPE_": "Caldera",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -16095,7 +16095,7 @@ var volcano =[
       "LON": 157.2,
       "ELEV": 1578,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -16118,7 +16118,7 @@ var volcano =[
       "LON": 157.323,
       "ELEV": 1953,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -16141,7 +16141,7 @@ var volcano =[
       "LON": 157.35,
       "ELEV": 900,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -16164,7 +16164,7 @@ var volcano =[
       "LON": 157.27,
       "ELEV": 892,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -16187,7 +16187,7 @@ var volcano =[
       "LON": 157.53,
       "ELEV": 1079,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -16210,7 +16210,7 @@ var volcano =[
       "LON": 157.38,
       "ELEV": 562,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -16233,7 +16233,7 @@ var volcano =[
       "LON": 157.53,
       "ELEV": 681,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -16256,7 +16256,7 @@ var volcano =[
       "LON": 157.703,
       "ELEV": 2090,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -16279,7 +16279,7 @@ var volcano =[
       "LON": 157.849,
       "ELEV": 1322,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -16302,7 +16302,7 @@ var volcano =[
       "LON": 157.477,
       "ELEV": 636,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -16325,7 +16325,7 @@ var volcano =[
       "LON": 157.322,
       "ELEV": 719,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -16348,7 +16348,7 @@ var volcano =[
       "LON": 157.428,
       "ELEV": 791,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -16371,7 +16371,7 @@ var volcano =[
       "LON": 157.6,
       "ELEV": 739,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -16394,7 +16394,7 @@ var volcano =[
       "LON": 158.195,
       "ELEV": 2322,
       "TYPE_": "Complex v",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -16417,7 +16417,7 @@ var volcano =[
       "LON": 157.787,
       "ELEV": 858,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -16440,7 +16440,7 @@ var volcano =[
       "LON": 157.827,
       "ELEV": 1910,
       "TYPE_": "Complex v",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -16463,7 +16463,7 @@ var volcano =[
       "LON": 157.93,
       "ELEV": 1234,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -16486,7 +16486,7 @@ var volcano =[
       "LON": 158.03,
       "ELEV": 1829,
       "TYPE_": "Caldera",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -16509,7 +16509,7 @@ var volcano =[
       "LON": 157.335,
       "ELEV": 2475,
       "TYPE_": "Caldera",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -16532,7 +16532,7 @@ var volcano =[
       "LON": 157.58,
       "ELEV": 1021,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -16555,7 +16555,7 @@ var volcano =[
       "LON": 158.3,
       "ELEV": 2173,
       "TYPE_": "Stratovol",
-      "STATUS": "Tephrochr",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -16578,7 +16578,7 @@ var volcano =[
       "LON": 158.27,
       "ELEV": 870,
       "TYPE_": "Lava dome",
-      "STATUS": "Tephrochr",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -16601,7 +16601,7 @@ var volcano =[
       "LON": 157.78,
       "ELEV": 1200,
       "TYPE_": "Lava dome",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -16624,7 +16624,7 @@ var volcano =[
       "LON": 158.688,
       "ELEV": 3456,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -16647,7 +16647,7 @@ var volcano =[
       "LON": 158.83,
       "ELEV": 2741,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -16670,7 +16670,7 @@ var volcano =[
       "LON": 158.42,
       "ELEV": 350,
       "TYPE_": "Cinder co",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -16693,7 +16693,7 @@ var volcano =[
       "LON": 158.922,
       "ELEV": 2155,
       "TYPE_": "Compound",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -16716,7 +16716,7 @@ var volcano =[
       "LON": 159.147,
       "ELEV": 2958,
       "TYPE_": "Compound",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -16739,7 +16739,7 @@ var volcano =[
       "LON": 158.385,
       "ELEV": 1567,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -16762,7 +16762,7 @@ var volcano =[
       "LON": 158.07,
       "ELEV": 2277,
       "TYPE_": "Caldera",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -16785,7 +16785,7 @@ var volcano =[
       "LON": 159.45,
       "ELEV": 1180,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -16808,7 +16808,7 @@ var volcano =[
       "LON": 159.43,
       "ELEV": 1486,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -16831,7 +16831,7 @@ var volcano =[
       "LON": 159.67,
       "ELEV": 1560,
       "TYPE_": "Caldera",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -16854,7 +16854,7 @@ var volcano =[
       "LON": 160.02,
       "ELEV": 1720,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -16877,7 +16877,7 @@ var volcano =[
       "LON": 159.8,
       "ELEV": 2353,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -16900,7 +16900,7 @@ var volcano =[
       "LON": 159.97,
       "ELEV": 1617,
       "TYPE_": "Caldera",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -16923,7 +16923,7 @@ var volcano =[
       "LON": 160.253,
       "ELEV": 1552,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D5"
    }
 },
@@ -16946,7 +16946,7 @@ var volcano =[
       "LON": 160.273,
       "ELEV": 1856,
       "TYPE_": "Caldera",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D5"
    }
 },
@@ -16969,7 +16969,7 @@ var volcano =[
       "LON": 160.527,
       "ELEV": 3528,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -16992,7 +16992,7 @@ var volcano =[
       "LON": 160.702,
       "ELEV": 2576,
       "TYPE_": "Complex v",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -17015,7 +17015,7 @@ var volcano =[
       "LON": 160.72,
       "ELEV": 2070,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -17038,7 +17038,7 @@ var volcano =[
       "LON": 160.77,
       "ELEV": 2161,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -17061,7 +17061,7 @@ var volcano =[
       "LON": 160.32,
       "ELEV": 2485,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -17084,7 +17084,7 @@ var volcano =[
       "LON": 160.587,
       "ELEV": 1857,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -17107,7 +17107,7 @@ var volcano =[
       "LON": 160.33,
       "ELEV": 3682,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -17130,7 +17130,7 @@ var volcano =[
       "LON": 160.527,
       "ELEV": 2923,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -17153,7 +17153,7 @@ var volcano =[
       "LON": 160.603,
       "ELEV": 3081,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -17176,7 +17176,7 @@ var volcano =[
       "LON": 160.587,
       "ELEV": 2882,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -17199,7 +17199,7 @@ var volcano =[
       "LON": 160.593,
       "ELEV": 4585,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -17222,7 +17222,7 @@ var volcano =[
       "LON": 160.638,
       "ELEV": 4835,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -17245,7 +17245,7 @@ var volcano =[
       "LON": 160.47,
       "ELEV": 3943,
       "TYPE_": "Compound",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -17268,7 +17268,7 @@ var volcano =[
       "LON": 160.83,
       "ELEV": 760,
       "TYPE_": "Somma vol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -17291,7 +17291,7 @@ var volcano =[
       "LON": 161.36,
       "ELEV": 3283,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -17314,7 +17314,7 @@ var volcano =[
       "LON": 167.33,
       "ELEV": -300,
       "TYPE_": "Submarine",
-      "STATUS": "Tephrochr",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -17337,7 +17337,7 @@ var volcano =[
       "LON": 157.38,
       "ELEV": 2000,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -17360,7 +17360,7 @@ var volcano =[
       "LON": 157.73,
       "ELEV": 3621,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -17383,7 +17383,7 @@ var volcano =[
       "LON": 157.98,
       "ELEV": 1802,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -17406,7 +17406,7 @@ var volcano =[
       "LON": 157.78,
       "ELEV": 1906,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -17429,7 +17429,7 @@ var volcano =[
       "LON": 158.47,
       "ELEV": 1236,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -17452,7 +17452,7 @@ var volcano =[
       "LON": 158.65,
       "ELEV": 1956,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -17475,7 +17475,7 @@ var volcano =[
       "LON": 158.38,
       "ELEV": 2016,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -17498,7 +17498,7 @@ var volcano =[
       "LON": 158.8,
       "ELEV": 1442,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -17521,7 +17521,7 @@ var volcano =[
       "LON": 158.38,
       "ELEV": 1692,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -17544,7 +17544,7 @@ var volcano =[
       "LON": 157.8,
       "ELEV": 1401,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -17567,7 +17567,7 @@ var volcano =[
       "LON": 158.37,
       "ELEV": 915,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -17590,7 +17590,7 @@ var volcano =[
       "LON": 158.67,
       "ELEV": 1170,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -17613,7 +17613,7 @@ var volcano =[
       "LON": 158.83,
       "ELEV": 1828,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -17636,7 +17636,7 @@ var volcano =[
       "LON": 159.03,
       "ELEV": 1554,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -17659,7 +17659,7 @@ var volcano =[
       "LON": 158.85,
       "ELEV": 1377,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -17682,7 +17682,7 @@ var volcano =[
       "LON": 158.52,
       "ELEV": 1046,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -17705,7 +17705,7 @@ var volcano =[
       "LON": 159.53,
       "ELEV": 1400,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -17728,7 +17728,7 @@ var volcano =[
       "LON": 159.65,
       "ELEV": 2598,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -17751,7 +17751,7 @@ var volcano =[
       "LON": 159.67,
       "ELEV": 1778,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -17774,7 +17774,7 @@ var volcano =[
       "LON": 159.8,
       "ELEV": 1427,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -17797,7 +17797,7 @@ var volcano =[
       "LON": 159.95,
       "ELEV": 1349,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -17820,7 +17820,7 @@ var volcano =[
       "LON": 159.78,
       "ELEV": 1244,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -17843,7 +17843,7 @@ var volcano =[
       "LON": 159.93,
       "ELEV": 1527,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -17866,7 +17866,7 @@ var volcano =[
       "LON": 160.4,
       "ELEV": 965,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -17889,7 +17889,7 @@ var volcano =[
       "LON": 160.08,
       "ELEV": 1241,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -17912,7 +17912,7 @@ var volcano =[
       "LON": 160.2,
       "ELEV": 2125,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -17935,7 +17935,7 @@ var volcano =[
       "LON": 159.83,
       "ELEV": 1333,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -17958,7 +17958,7 @@ var volcano =[
       "LON": 159.97,
       "ELEV": 1533,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -17981,7 +17981,7 @@ var volcano =[
       "LON": 160.1,
       "ELEV": 1559,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -18004,7 +18004,7 @@ var volcano =[
       "LON": 160.2,
       "ELEV": 1641,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -18027,7 +18027,7 @@ var volcano =[
       "LON": 160.37,
       "ELEV": 2525,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -18050,7 +18050,7 @@ var volcano =[
       "LON": 160.53,
       "ELEV": 1381,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -18073,7 +18073,7 @@ var volcano =[
       "LON": 160.4,
       "ELEV": 1853,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -18096,7 +18096,7 @@ var volcano =[
       "LON": 160.58,
       "ELEV": 1643,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -18119,7 +18119,7 @@ var volcano =[
       "LON": 160.67,
       "ELEV": 1582,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -18142,7 +18142,7 @@ var volcano =[
       "LON": 160.25,
       "ELEV": 1255,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -18165,7 +18165,7 @@ var volcano =[
       "LON": 160.53,
       "ELEV": 2080,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -18188,7 +18188,7 @@ var volcano =[
       "LON": 160.65,
       "ELEV": 1764,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -18211,7 +18211,7 @@ var volcano =[
       "LON": 160.75,
       "ELEV": 2169,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -18234,7 +18234,7 @@ var volcano =[
       "LON": 160.77,
       "ELEV": 2300,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -18257,7 +18257,7 @@ var volcano =[
       "LON": 160.82,
       "ELEV": 2552,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -18280,7 +18280,7 @@ var volcano =[
       "LON": 160.97,
       "ELEV": 2169,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -18303,7 +18303,7 @@ var volcano =[
       "LON": 160.87,
       "ELEV": 1936,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -18326,7 +18326,7 @@ var volcano =[
       "LON": 161.08,
       "ELEV": 1340,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -18349,7 +18349,7 @@ var volcano =[
       "LON": 160.62,
       "ELEV": 1225,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -18372,7 +18372,7 @@ var volcano =[
       "LON": 165.63,
       "ELEV": 1000,
       "TYPE_": "Cones",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -18395,7 +18395,7 @@ var volcano =[
       "LON": 165.2,
       "ELEV": 1050,
       "TYPE_": "Complex v",
-      "STATUS": "Tephrochr",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D5"
    }
 },
@@ -18418,7 +18418,7 @@ var volcano =[
       "LON": 143.73,
       "ELEV": 993,
       "TYPE_": "Cinder co",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D4"
    }
 },
@@ -18441,7 +18441,7 @@ var volcano =[
       "LON": 135.5,
       "ELEV": 0,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -18464,7 +18464,7 @@ var volcano =[
       "LON": 118.07,
       "ELEV": 2180,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -18487,7 +18487,7 @@ var volcano =[
       "LON": 117.47,
       "ELEV": 1980,
       "TYPE_": "Shield vo",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -18510,7 +18510,7 @@ var volcano =[
       "LON": 103.25,
       "ELEV": 1500,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -18533,7 +18533,7 @@ var volcano =[
       "LON": 102.5,
       "ELEV": 1200,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -18556,7 +18556,7 @@ var volcano =[
       "LON": 98.98,
       "ELEV": 2077,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -18579,7 +18579,7 @@ var volcano =[
       "LON": 98,
       "ELEV": 1800,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -18602,7 +18602,7 @@ var volcano =[
       "LON": 99.7,
       "ELEV": 2400,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -18625,7 +18625,7 @@ var volcano =[
       "LON": 102.75,
       "ELEV": 1886,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -18648,7 +18648,7 @@ var volcano =[
       "LON": 109.08,
       "ELEV": 1162,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -18671,7 +18671,7 @@ var volcano =[
       "LON": 114,
       "ELEV": 1778,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -18694,7 +18694,7 @@ var volcano =[
       "LON": 106.7,
       "ELEV": 1120,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -18717,7 +18717,7 @@ var volcano =[
       "LON": 89.25,
       "ELEV": 0,
       "TYPE_": "Cone",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -18740,7 +18740,7 @@ var volcano =[
       "LON": 86.5,
       "ELEV": 0,
       "TYPE_": "Volcanic",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -18763,7 +18763,7 @@ var volcano =[
       "LON": 80.2,
       "ELEV": 5808,
       "TYPE_": "Pyroclast",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -18786,7 +18786,7 @@ var volcano =[
       "LON": 113.28,
       "ELEV": 1882,
       "TYPE_": "Cinder co",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -18809,7 +18809,7 @@ var volcano =[
       "LON": 113,
       "ELEV": 1700,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -18832,7 +18832,7 @@ var volcano =[
       "LON": 125.92,
       "ELEV": 670,
       "TYPE_": "Pyroclast",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -18855,7 +18855,7 @@ var volcano =[
       "LON": 126.12,
       "ELEV": 597,
       "TYPE_": "Volcanic",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D4"
    }
 },
@@ -18878,7 +18878,7 @@ var volcano =[
       "LON": 128.83,
       "ELEV": 500,
       "TYPE_": "Volcanic",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -18901,7 +18901,7 @@ var volcano =[
       "LON": 126.5,
       "ELEV": 1000,
       "TYPE_": "Cinder co",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D4"
    }
 },
@@ -18924,7 +18924,7 @@ var volcano =[
       "LON": 128.08,
       "ELEV": 2744,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D4"
    }
 },
@@ -18947,7 +18947,7 @@ var volcano =[
       "LON": 128,
       "ELEV": 0,
       "TYPE_": "Unknown",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D5"
    }
 },
@@ -18970,7 +18970,7 @@ var volcano =[
       "LON": 127.33,
       "ELEV": 452,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -18993,7 +18993,7 @@ var volcano =[
       "LON": 130.87,
       "ELEV": 984,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -19016,7 +19016,7 @@ var volcano =[
       "LON": 126.53,
       "ELEV": 1950,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -19039,7 +19039,7 @@ var volcano =[
       "LON": 175.98,
       "ELEV": 656,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -19062,7 +19062,7 @@ var volcano =[
       "LON": 177.6,
       "ELEV": 1220,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -19085,7 +19085,7 @@ var volcano =[
       "LON": 178.13,
       "ELEV": 1153,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -19108,7 +19108,7 @@ var volcano =[
       "LON": 178.33,
       "ELEV": 328,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -19131,7 +19131,7 @@ var volcano =[
       "LON": 178.53,
       "ELEV": 1188,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -19154,7 +19154,7 @@ var volcano =[
       "LON": 179.62,
       "ELEV": 1221,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -19177,7 +19177,7 @@ var volcano =[
       "LON": -178.8,
       "ELEV": 1573,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -19200,7 +19200,7 @@ var volcano =[
       "LON": -178.13,
       "ELEV": 1806,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -19223,7 +19223,7 @@ var volcano =[
       "LON": -178.02,
       "ELEV": 1449,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -19246,7 +19246,7 @@ var volcano =[
       "LON": -177.43,
       "ELEV": 738,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -19269,7 +19269,7 @@ var volcano =[
       "LON": -177.17,
       "ELEV": 1307,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -19292,7 +19292,7 @@ var volcano =[
       "LON": -176.75,
       "ELEV": 1196,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -19315,7 +19315,7 @@ var volcano =[
       "LON": -176.6,
       "ELEV": 645,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -19338,7 +19338,7 @@ var volcano =[
       "LON": -176.13,
       "ELEV": 1740,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -19361,7 +19361,7 @@ var volcano =[
       "LON": -175.5,
       "ELEV": 314,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D4"
    }
 },
@@ -19384,7 +19384,7 @@ var volcano =[
       "LON": -175.13,
       "ELEV": 272,
       "TYPE_": "Stratovol",
-      "STATUS": "Uncertain",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -19407,7 +19407,7 @@ var volcano =[
       "LON": -174.93,
       "ELEV": 560,
       "TYPE_": "Stratovol",
-      "STATUS": "Uncertain",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -19430,7 +19430,7 @@ var volcano =[
       "LON": -174.15,
       "ELEV": 1533,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -19453,7 +19453,7 @@ var volcano =[
       "LON": -172.52,
       "ELEV": 1054,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -19476,7 +19476,7 @@ var volcano =[
       "LON": -171.25,
       "ELEV": 1066,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -19499,7 +19499,7 @@ var volcano =[
       "LON": -171.13,
       "ELEV": 1142,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -19522,7 +19522,7 @@ var volcano =[
       "LON": -170.63,
       "ELEV": 550,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -19545,7 +19545,7 @@ var volcano =[
       "LON": -170.12,
       "ELEV": 1290,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -19568,7 +19568,7 @@ var volcano =[
       "LON": -170.05,
       "ELEV": 1620,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -19591,7 +19591,7 @@ var volcano =[
       "LON": -169.95,
       "ELEV": 1730,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -19614,7 +19614,7 @@ var volcano =[
       "LON": -169.77,
       "ELEV": 888,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -19637,7 +19637,7 @@ var volcano =[
       "LON": -169.72,
       "ELEV": 893,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -19660,7 +19660,7 @@ var volcano =[
       "LON": -168.68,
       "ELEV": 2149,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -19683,7 +19683,7 @@ var volcano =[
       "LON": -168.55,
       "ELEV": 1984,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -19706,7 +19706,7 @@ var volcano =[
       "LON": -168.13,
       "ELEV": 1073,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -19729,7 +19729,7 @@ var volcano =[
       "LON": -168.03,
       "ELEV": 101,
       "TYPE_": "Submarine",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -19752,7 +19752,7 @@ var volcano =[
       "LON": -166.93,
       "ELEV": 2036,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -19775,7 +19775,7 @@ var volcano =[
       "LON": -166.67,
       "ELEV": 800,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -19798,7 +19798,7 @@ var volcano =[
       "LON": -165.97,
       "ELEV": 1303,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -19821,7 +19821,7 @@ var volcano =[
       "LON": -164.65,
       "ELEV": 1654,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -19844,7 +19844,7 @@ var volcano =[
       "LON": -164.35,
       "ELEV": 1094,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -19867,7 +19867,7 @@ var volcano =[
       "LON": -163.97,
       "ELEV": 2857,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -19890,7 +19890,7 @@ var volcano =[
       "LON": -163.73,
       "ELEV": 2446,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -19913,7 +19913,7 @@ var volcano =[
       "LON": -163.6,
       "ELEV": 1871,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -19936,7 +19936,7 @@ var volcano =[
       "LON": -163.15,
       "ELEV": 513,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D4"
    }
 },
@@ -19959,7 +19959,7 @@ var volcano =[
       "LON": -162.82,
       "ELEV": 1920,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -19982,7 +19982,7 @@ var volcano =[
       "LON": -162.27,
       "ELEV": 1473,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -20005,7 +20005,7 @@ var volcano =[
       "LON": -162.07,
       "ELEV": 1465,
       "TYPE_": "Caldera",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -20028,7 +20028,7 @@ var volcano =[
       "LON": -161.9,
       "ELEV": 2519,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -20051,7 +20051,7 @@ var volcano =[
       "LON": -161.87,
       "ELEV": 2142,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D4"
    }
 },
@@ -20074,7 +20074,7 @@ var volcano =[
       "LON": -161.22,
       "ELEV": 1354,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -20097,7 +20097,7 @@ var volcano =[
       "LON": -159.8,
       "ELEV": 1895,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -20120,7 +20120,7 @@ var volcano =[
       "LON": -159.38,
       "ELEV": 2507,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -20143,7 +20143,7 @@ var volcano =[
       "LON": -158.8,
       "ELEV": 1032,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -20166,7 +20166,7 @@ var volcano =[
       "LON": -158.17,
       "ELEV": 1341,
       "TYPE_": "Caldera",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -20189,7 +20189,7 @@ var volcano =[
       "LON": -157.18,
       "ELEV": 1336,
       "TYPE_": "Stratovol",
-      "STATUS": "Tephrochr",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -20212,7 +20212,7 @@ var volcano =[
       "LON": -157,
       "ELEV": 2075,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -20235,7 +20235,7 @@ var volcano =[
       "LON": -156.75,
       "ELEV": 1575,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -20258,7 +20258,7 @@ var volcano =[
       "LON": -156.37,
       "ELEV": 1474,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -20281,7 +20281,7 @@ var volcano =[
       "LON": -156.52,
       "ELEV": 91,
       "TYPE_": "Maars",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -20304,7 +20304,7 @@ var volcano =[
       "LON": -155.35,
       "ELEV": 1860,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -20327,7 +20327,7 @@ var volcano =[
       "LON": -155.25,
       "ELEV": 2165,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -20350,7 +20350,7 @@ var volcano =[
       "LON": -155.08,
       "ELEV": 1864,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -20373,7 +20373,7 @@ var volcano =[
       "LON": -154.98,
       "ELEV": 2047,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -20396,7 +20396,7 @@ var volcano =[
       "LON": -155.16,
       "ELEV": 841,
       "TYPE_": "Caldera",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -20419,7 +20419,7 @@ var volcano =[
       "LON": -155.1,
       "ELEV": 2317,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -20442,7 +20442,7 @@ var volcano =[
       "LON": -154.68,
       "ELEV": 2161,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -20465,7 +20465,7 @@ var volcano =[
       "LON": -154.45,
       "ELEV": 2318,
       "TYPE_": "Stratovol",
-      "STATUS": "Uncertain",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -20488,7 +20488,7 @@ var volcano =[
       "LON": -154.4,
       "ELEV": 2272,
       "TYPE_": "Unknown",
-      "STATUS": "Uncertain",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -20511,7 +20511,7 @@ var volcano =[
       "LON": -154.35,
       "ELEV": 2040,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -20534,7 +20534,7 @@ var volcano =[
       "LON": -154.3,
       "ELEV": 1954,
       "TYPE_": "Stratovol",
-      "STATUS": "Uncertain",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -20557,7 +20557,7 @@ var volcano =[
       "LON": -154.05,
       "ELEV": 901,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -20580,7 +20580,7 @@ var volcano =[
       "LON": -153.68,
       "ELEV": 2104,
       "TYPE_": "Stratovol",
-      "STATUS": "Uncertain",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -20603,7 +20603,7 @@ var volcano =[
       "LON": -153.55,
       "ELEV": 2140,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -20626,7 +20626,7 @@ var volcano =[
       "LON": -153.42,
       "ELEV": 1252,
       "TYPE_": "Lava dome",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -20649,7 +20649,7 @@ var volcano =[
       "LON": -153.08,
       "ELEV": 3053,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -20672,7 +20672,7 @@ var volcano =[
       "LON": -152.75,
       "ELEV": 3108,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -20695,7 +20695,7 @@ var volcano =[
       "LON": -152.25,
       "ELEV": 3374,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -20718,7 +20718,7 @@ var volcano =[
       "LON": -152.48,
       "ELEV": 2788,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -20741,7 +20741,7 @@ var volcano =[
       "LON": -164.33,
       "ELEV": 243,
       "TYPE_": "Volcanic",
-      "STATUS": "Tephrochr",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -20764,7 +20764,7 @@ var volcano =[
       "LON": -163.92,
       "ELEV": 610,
       "TYPE_": "Shield vo",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -20787,7 +20787,7 @@ var volcano =[
       "LON": -170.43,
       "ELEV": 673,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -20810,7 +20810,7 @@ var volcano =[
       "LON": -162.12,
       "ELEV": 715,
       "TYPE_": "Cinder co",
-      "STATUS": "Anthropol",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -20833,7 +20833,7 @@ var volcano =[
       "LON": -164.47,
       "ELEV": 190,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -20856,7 +20856,7 @@ var volcano =[
       "LON": -166.33,
       "ELEV": 511,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -20879,7 +20879,7 @@ var volcano =[
       "LON": -170.3,
       "ELEV": 203,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -20902,7 +20902,7 @@ var volcano =[
       "LON": -148.42,
       "ELEV": 830,
       "TYPE_": "Tuff ring",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -20925,7 +20925,7 @@ var volcano =[
       "LON": -144.13,
       "ELEV": 4949,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -20948,7 +20948,7 @@ var volcano =[
       "LON": -144.02,
       "ELEV": 4317,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -20971,7 +20971,7 @@ var volcano =[
       "LON": -143.08,
       "ELEV": 2755,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -20994,7 +20994,7 @@ var volcano =[
       "LON": -141.75,
       "ELEV": 5005,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -21017,7 +21017,7 @@ var volcano =[
       "LON": -135.75,
       "ELEV": 976,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -21040,7 +21040,7 @@ var volcano =[
       "LON": -133.1,
       "ELEV": 15,
       "TYPE_": "Unknown",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -21063,7 +21063,7 @@ var volcano =[
       "LON": -133.3,
       "ELEV": 50,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -21086,7 +21086,7 @@ var volcano =[
       "LON": -131.05,
       "ELEV": 500,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -21109,7 +21109,7 @@ var volcano =[
       "LON": -137.38,
       "ELEV": 1239,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -21132,7 +21132,7 @@ var volcano =[
       "LON": -135.42,
       "ELEV": 2217,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -21155,7 +21155,7 @@ var volcano =[
       "LON": -133.32,
       "ELEV": 1523,
       "TYPE_": "Cinder co",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -21178,7 +21178,7 @@ var volcano =[
       "LON": -131.97,
       "ELEV": 2012,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -21201,7 +21201,7 @@ var volcano =[
       "LON": -131.35,
       "ELEV": 2190,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -21224,7 +21224,7 @@ var volcano =[
       "LON": -130.63,
       "ELEV": 2786,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -21247,7 +21247,7 @@ var volcano =[
       "LON": -130.68,
       "ELEV": 2430,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -21270,7 +21270,7 @@ var volcano =[
       "LON": -131.28,
       "ELEV": 1820,
       "TYPE_": "Subglacia",
-      "STATUS": "Holocene",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -21293,7 +21293,7 @@ var volcano =[
       "LON": -130.55,
       "ELEV": 1880,
       "TYPE_": "Cinder co",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -21316,7 +21316,7 @@ var volcano =[
       "LON": -128.9,
       "ELEV": 609,
       "TYPE_": "Pyroclast",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D4"
    }
 },
@@ -21339,7 +21339,7 @@ var volcano =[
       "LON": -130.23,
       "ELEV": 335,
       "TYPE_": "Pyroclast",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -21362,7 +21362,7 @@ var volcano =[
       "LON": -128.73,
       "ELEV": 335,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -21385,7 +21385,7 @@ var volcano =[
       "LON": -124.7,
       "ELEV": 1921,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -21408,7 +21408,7 @@ var volcano =[
       "LON": -123.73,
       "ELEV": 1230,
       "TYPE_": "Cinder co",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -21431,7 +21431,7 @@ var volcano =[
       "LON": -120.57,
       "ELEV": 2015,
       "TYPE_": "Cinder co",
-      "STATUS": "Dendrochr",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D5"
    }
 },
@@ -21454,7 +21454,7 @@ var volcano =[
       "LON": -126.3,
       "ELEV": 3160,
       "TYPE_": "Caldera",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -21477,7 +21477,7 @@ var volcano =[
       "LON": -123.4,
       "ELEV": 2500,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -21500,7 +21500,7 @@ var volcano =[
       "LON": -123.5,
       "ELEV": 2680,
       "TYPE_": "Complex v",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -21523,7 +21523,7 @@ var volcano =[
       "LON": -123.03,
       "ELEV": 2316,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -21546,7 +21546,7 @@ var volcano =[
       "LON": -123,
       "ELEV": 2678,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -21569,7 +21569,7 @@ var volcano =[
       "LON": -121.82,
       "ELEV": 3285,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -21592,7 +21592,7 @@ var volcano =[
       "LON": -121.113,
       "ELEV": 3213,
       "TYPE_": "Stratovol",
-      "STATUS": "Tephrochr",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D4"
    }
 },
@@ -21615,7 +21615,7 @@ var volcano =[
       "LON": -121.758,
       "ELEV": 4392,
       "TYPE_": "Stratovol",
-      "STATUS": "Dendrochr",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -21638,7 +21638,7 @@ var volcano =[
       "LON": -121.49,
       "ELEV": 3742,
       "TYPE_": "Stratovol",
-      "STATUS": "Tephrochr",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -21661,7 +21661,7 @@ var volcano =[
       "LON": -122.18,
       "ELEV": 2549,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -21684,7 +21684,7 @@ var volcano =[
       "LON": -122.08,
       "ELEV": 914,
       "TYPE_": "Volcanic",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -21707,7 +21707,7 @@ var volcano =[
       "LON": -121.82,
       "ELEV": 1513,
       "TYPE_": "Shield vo",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -21730,7 +21730,7 @@ var volcano =[
       "LON": -121.694,
       "ELEV": 3426,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -21753,7 +21753,7 @@ var volcano =[
       "LON": -121.8,
       "ELEV": 3199,
       "TYPE_": "Stratovol",
-      "STATUS": "Varve Cou",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -21775,8 +21775,8 @@ var volcano =[
       "LAT": 44.42,
       "LON": -121.77,
       "ELEV": 1230,
-      "TYPE_": "Maar",
-      "STATUS": "Radiocarb",
+      "TYPE_": "Maars",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -21799,7 +21799,7 @@ var volcano =[
       "LON": -121.93,
       "ELEV": 1664,
       "TYPE_": "Cinder co",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -21822,7 +21822,7 @@ var volcano =[
       "LON": -121.837,
       "ELEV": 2376,
       "TYPE_": "Shield vo",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -21845,7 +21845,7 @@ var volcano =[
       "LON": -121.841,
       "ELEV": 2095,
       "TYPE_": "Shield vo",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -21868,7 +21868,7 @@ var volcano =[
       "LON": -121.77,
       "ELEV": 3074,
       "TYPE_": "Complex v",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -21891,7 +21891,7 @@ var volcano =[
       "LON": -121.77,
       "ELEV": 3157,
       "TYPE_": "Complex v",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -21914,7 +21914,7 @@ var volcano =[
       "LON": -121.688,
       "ELEV": 2763,
       "TYPE_": "Stratovol",
-      "STATUS": "Tephrochr",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -21937,7 +21937,7 @@ var volcano =[
       "LON": -121.82,
       "ELEV": 2163,
       "TYPE_": "Volcanic",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -21960,7 +21960,7 @@ var volcano =[
       "LON": -121.229,
       "ELEV": 2434,
       "TYPE_": "Shield vo",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -21983,7 +21983,7 @@ var volcano =[
       "LON": -120.861,
       "ELEV": 1698,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -22006,7 +22006,7 @@ var volcano =[
       "LON": -120.754,
       "ELEV": 1711,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -22029,7 +22029,7 @@ var volcano =[
       "LON": -120.669,
       "ELEV": 1501,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -22052,7 +22052,7 @@ var volcano =[
       "LON": -122.108,
       "ELEV": 1956,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -22075,7 +22075,7 @@ var volcano =[
       "LON": -122.12,
       "ELEV": 2487,
       "TYPE_": "Caldera",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -22098,7 +22098,7 @@ var volcano =[
       "LON": -122.201,
       "ELEV": 1986,
       "TYPE_": "Pyroclast",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -22121,7 +22121,7 @@ var volcano =[
       "LON": -118.75,
       "ELEV": 1435,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -22144,7 +22144,7 @@ var volcano =[
       "LON": -117.8,
       "ELEV": 1700,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -22167,7 +22167,7 @@ var volcano =[
       "LON": -117.42,
       "ELEV": 1473,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -22190,7 +22190,7 @@ var volcano =[
       "LON": -117.589,
       "ELEV": 1420,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -22213,7 +22213,7 @@ var volcano =[
       "LON": -122.2,
       "ELEV": 4317,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D4"
    }
 },
@@ -22236,7 +22236,7 @@ var volcano =[
       "LON": -121.57,
       "ELEV": 2412,
       "TYPE_": "Shield vo",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -22259,7 +22259,7 @@ var volcano =[
       "LON": -121.443,
       "ELEV": 1174,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -22282,7 +22282,7 @@ var volcano =[
       "LON": -121.365,
       "ELEV": 1259,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -22305,7 +22305,7 @@ var volcano =[
       "LON": -121.6,
       "ELEV": 1631,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -22328,7 +22328,7 @@ var volcano =[
       "LON": -121.55,
       "ELEV": 2191,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -22351,7 +22351,7 @@ var volcano =[
       "LON": -121.43,
       "ELEV": 1532,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -22374,7 +22374,7 @@ var volcano =[
       "LON": -121.508,
       "ELEV": 3187,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -22397,7 +22397,7 @@ var volcano =[
       "LON": -120.83,
       "ELEV": 1652,
       "TYPE_": "Fissure v",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -22420,7 +22420,7 @@ var volcano =[
       "LON": -122.77,
       "ELEV": 1439,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -22443,7 +22443,7 @@ var volcano =[
       "LON": -119.03,
       "ELEV": 2121,
       "TYPE_": "Cinder co",
-      "STATUS": "Tephrochr",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D4"
    }
 },
@@ -22466,7 +22466,7 @@ var volcano =[
       "LON": -119,
       "ELEV": 2796,
       "TYPE_": "Lava dome",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -22489,7 +22489,7 @@ var volcano =[
       "LON": -119.02,
       "ELEV": 2629,
       "TYPE_": "Lava dome",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -22512,7 +22512,7 @@ var volcano =[
       "LON": -118.87,
       "ELEV": 3390,
       "TYPE_": "Caldera",
-      "STATUS": "Pleistoce",
+      "STATUS": "Unknown",
       "TIME_FRAME": "Q"
    }
 },
@@ -22535,7 +22535,7 @@ var volcano =[
       "LON": -119.05,
       "ELEV": 2748,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -22558,7 +22558,7 @@ var volcano =[
       "LON": -117.45,
       "ELEV": 752,
       "TYPE_": "Maars",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -22581,7 +22581,7 @@ var volcano =[
       "LON": -118.32,
       "ELEV": 2886,
       "TYPE_": "Volcanic",
-      "STATUS": "Tephrochr",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -22604,7 +22604,7 @@ var volcano =[
       "LON": -117.82,
       "ELEV": 2400,
       "TYPE_": "Lava dome",
-      "STATUS": "Pleistoce",
+      "STATUS": "Unknown",
       "TIME_FRAME": "Q"
    }
 },
@@ -22627,7 +22627,7 @@ var volcano =[
       "LON": -116.625,
       "ELEV": 1495,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -22650,7 +22650,7 @@ var volcano =[
       "LON": -115.78,
       "ELEV": 288,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -22673,7 +22673,7 @@ var volcano =[
       "LON": -114.43,
       "ELEV": 1525,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -22696,7 +22696,7 @@ var volcano =[
       "LON": -113.5,
       "ELEV": 2005,
       "TYPE_": "Cinder co",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -22719,7 +22719,7 @@ var volcano =[
       "LON": -113.22,
       "ELEV": 1604,
       "TYPE_": "Shield vo",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -22742,7 +22742,7 @@ var volcano =[
       "LON": -112.45,
       "ELEV": 1631,
       "TYPE_": "Shield vo",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -22765,7 +22765,7 @@ var volcano =[
       "LON": -110.67,
       "ELEV": 2805,
       "TYPE_": "Caldera",
-      "STATUS": "Tephrochr",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -22788,7 +22788,7 @@ var volcano =[
       "LON": -119.72,
       "ELEV": 1415,
       "TYPE_": "Lava dome",
-      "STATUS": "Pleistoce",
+      "STATUS": "Unknown",
       "TIME_FRAME": "Q"
    }
 },
@@ -22811,7 +22811,7 @@ var volcano =[
       "LON": -115.97,
       "ELEV": 2255,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -22834,7 +22834,7 @@ var volcano =[
       "LON": -116.55,
       "ELEV": 1128,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -22857,7 +22857,7 @@ var volcano =[
       "LON": -113.625,
       "ELEV": 1465,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -22880,7 +22880,7 @@ var volcano =[
       "LON": -113.12,
       "ELEV": 2727,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -22903,7 +22903,7 @@ var volcano =[
       "LON": -112.408,
       "ELEV": 2135,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -22926,7 +22926,7 @@ var volcano =[
       "LON": -112.67,
       "ELEV": 2840,
       "TYPE_": "Volcanic",
-      "STATUS": "Dendrochr",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -22949,7 +22949,7 @@ var volcano =[
       "LON": -112.5,
       "ELEV": 1800,
       "TYPE_": "Volcanic",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -22972,7 +22972,7 @@ var volcano =[
       "LON": -107.03,
       "ELEV": 2250,
       "TYPE_": "Explosion",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -22995,7 +22995,7 @@ var volcano =[
       "LON": -113.13,
       "ELEV": 1555,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -23018,7 +23018,7 @@ var volcano =[
       "LON": -111.5,
       "ELEV": 2447,
       "TYPE_": "Cinder co",
-      "STATUS": "Dendrochr",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -23041,7 +23041,7 @@ var volcano =[
       "LON": -105.93,
       "ELEV": 1731,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -23064,7 +23064,7 @@ var volcano =[
       "LON": -108,
       "ELEV": 2550,
       "TYPE_": "Volcanic",
-      "STATUS": "Anthropol",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -23087,7 +23087,7 @@ var volcano =[
       "LON": -106.57,
       "ELEV": 3430,
       "TYPE_": "Caldera",
-      "STATUS": "Pleistoce",
+      "STATUS": "Unknown",
       "TIME_FRAME": "Q"
    }
 },
@@ -23110,7 +23110,7 @@ var volcano =[
       "LON": -104.08,
       "ELEV": 3350,
       "TYPE_": "Volcanic",
-      "STATUS": "Tephrochr",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -23133,7 +23133,7 @@ var volcano =[
       "LON": -155.27,
       "ELEV": -980,
       "TYPE_": "Submarine",
-      "STATUS": "Seismicit",
+      "STATUS": "Active",
       "TIME_FRAME": "U"
    }
 },
@@ -23156,7 +23156,7 @@ var volcano =[
       "LON": -155.292,
       "ELEV": 1222,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -23179,7 +23179,7 @@ var volcano =[
       "LON": -155.608,
       "ELEV": 4170,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -23202,7 +23202,7 @@ var volcano =[
       "LON": -155.47,
       "ELEV": 4206,
       "TYPE_": "Shield vo",
-      "STATUS": "Radiocarb",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D7"
    }
 },
@@ -23225,7 +23225,7 @@ var volcano =[
       "LON": -155.87,
       "ELEV": 2523,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -23248,7 +23248,7 @@ var volcano =[
       "LON": -156.57,
       "ELEV": 450,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -23271,7 +23271,7 @@ var volcano =[
       "LON": -156.25,
       "ELEV": 3055,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D4"
    }
 },
@@ -23294,7 +23294,7 @@ var volcano =[
       "LON": -157.8,
       "ELEV": 941,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -23317,7 +23317,7 @@ var volcano =[
       "LON": -86.15,
       "ELEV": -2500,
       "TYPE_": "Submarine",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -23340,7 +23340,7 @@ var volcano =[
       "LON": -148.85,
       "ELEV": -1600,
       "TYPE_": "Submarine",
-      "STATUS": "Seismicit",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -23363,7 +23363,7 @@ var volcano =[
       "LON": -148.6,
       "ELEV": -2100,
       "TYPE_": "Submarine",
-      "STATUS": "Seismicit",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -23386,7 +23386,7 @@ var volcano =[
       "LON": -148.67,
       "ELEV": -180,
       "TYPE_": "Submarine",
-      "STATUS": "Seismicit",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -23409,7 +23409,7 @@ var volcano =[
       "LON": -148.07,
       "ELEV": 435,
       "TYPE_": "Stratovol",
-      "STATUS": "Anthropol",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -23432,7 +23432,7 @@ var volcano =[
       "LON": -140.25,
       "ELEV": -50,
       "TYPE_": "Submarine",
-      "STATUS": "Hydrophon",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -23455,7 +23455,7 @@ var volcano =[
       "LON": -109.45,
       "ELEV": 530,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -23478,7 +23478,7 @@ var volcano =[
       "LON": 178.77,
       "ELEV": 402,
       "TYPE_": "Pyroclast",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -23501,7 +23501,7 @@ var volcano =[
       "LON": -115.305,
       "ELEV": 410,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -23524,7 +23524,7 @@ var volcano =[
       "LON": -113.498,
       "ELEV": 1200,
       "TYPE_": "Cinder co",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -23547,7 +23547,7 @@ var volcano =[
       "LON": -115.996,
       "ELEV": 267,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -23570,7 +23570,7 @@ var volcano =[
       "LON": -114.384,
       "ELEV": 160,
       "TYPE_": "Explosion",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -23593,7 +23593,7 @@ var volcano =[
       "LON": -114.5,
       "ELEV": 960,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -23616,7 +23616,7 @@ var volcano =[
       "LON": -113.513,
       "ELEV": 460,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -23639,7 +23639,7 @@ var volcano =[
       "LON": -118.28,
       "ELEV": 1100,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -23662,7 +23662,7 @@ var volcano =[
       "LON": -113.75,
       "ELEV": 0,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -23685,7 +23685,7 @@ var volcano =[
       "LON": -112.591,
       "ELEV": 1940,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D4"
    }
 },
@@ -23708,7 +23708,7 @@ var volcano =[
       "LON": -111.858,
       "ELEV": 310,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -23731,7 +23731,7 @@ var volcano =[
       "LON": -110.82,
       "ELEV": 332,
       "TYPE_": "Cinder co",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -23754,7 +23754,7 @@ var volcano =[
       "LON": -110.95,
       "ELEV": 1050,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -23777,7 +23777,7 @@ var volcano =[
       "LON": -104.45,
       "ELEV": 2075,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -23800,7 +23800,7 @@ var volcano =[
       "LON": -104.73,
       "ELEV": 2353,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -23823,7 +23823,7 @@ var volcano =[
       "LON": -104.7,
       "ELEV": 2020,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -23846,7 +23846,7 @@ var volcano =[
       "LON": -104.5,
       "ELEV": 2164,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -23869,7 +23869,7 @@ var volcano =[
       "LON": -104.83,
       "ELEV": 2540,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -23892,7 +23892,7 @@ var volcano =[
       "LON": -103.62,
       "ELEV": 4100,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -23915,7 +23915,7 @@ var volcano =[
       "LON": -102.25,
       "ELEV": 3170,
       "TYPE_": "Cinder co",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -23938,7 +23938,7 @@ var volcano =[
       "LON": -99.757,
       "ELEV": 3950,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -23961,7 +23961,7 @@ var volcano =[
       "LON": -99.48,
       "ELEV": 3000,
       "TYPE_": "Volcanic",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -23984,7 +23984,7 @@ var volcano =[
       "LON": -99.13,
       "ELEV": 3930,
       "TYPE_": "Volcanic",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -24007,7 +24007,7 @@ var volcano =[
       "LON": -98.82,
       "ELEV": 3080,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -24030,7 +24030,7 @@ var volcano =[
       "LON": -99,
       "ELEV": 2734,
       "TYPE_": "Volcanic",
-      "STATUS": "Anthropol",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -24053,7 +24053,7 @@ var volcano =[
       "LON": -98.808,
       "ELEV": 3046,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -24076,7 +24076,7 @@ var volcano =[
       "LON": -98.747,
       "ELEV": 3000,
       "TYPE_": "Unknown",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -24099,7 +24099,7 @@ var volcano =[
       "LON": -98.7,
       "ELEV": 3600,
       "TYPE_": "Lava dome",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -24122,7 +24122,7 @@ var volcano =[
       "LON": -98.642,
       "ELEV": 5230,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -24145,7 +24145,7 @@ var volcano =[
       "LON": -98.622,
       "ELEV": 5465,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -24168,7 +24168,7 @@ var volcano =[
       "LON": -98.03,
       "ELEV": 4420,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -24191,7 +24191,7 @@ var volcano =[
       "LON": -97.268,
       "ELEV": 5610,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D5"
    }
 },
@@ -24214,7 +24214,7 @@ var volcano =[
       "LON": -95.169,
       "ELEV": 1650,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D4"
    }
 },
@@ -24237,7 +24237,7 @@ var volcano =[
       "LON": -93.228,
       "ELEV": 1060,
       "TYPE_": "Lava dome",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -24260,7 +24260,7 @@ var volcano =[
       "LON": -92.113,
       "ELEV": 4110,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -24283,7 +24283,7 @@ var volcano =[
       "LON": -91.903,
       "ELEV": 4220,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -24306,7 +24306,7 @@ var volcano =[
       "LON": -91.552,
       "ELEV": 3772,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -24329,7 +24329,7 @@ var volcano =[
       "LON": -91.48,
       "ELEV": 3197,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -24352,7 +24352,7 @@ var volcano =[
       "LON": -91.43,
       "ELEV": 3542,
       "TYPE_": "Stratovol",
-      "STATUS": "Pleistoce",
+      "STATUS": "Unknown",
       "TIME_FRAME": "Q"
    }
 },
@@ -24375,7 +24375,7 @@ var volcano =[
       "LON": -91.186,
       "ELEV": 3535,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -24398,7 +24398,7 @@ var volcano =[
       "LON": -91.189,
       "ELEV": 3158,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -24421,7 +24421,7 @@ var volcano =[
       "LON": -90.876,
       "ELEV": 3976,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -24444,7 +24444,7 @@ var volcano =[
       "LON": -90.88,
       "ELEV": 3763,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -24467,7 +24467,7 @@ var volcano =[
       "LON": -90.743,
       "ELEV": 3760,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -24490,7 +24490,7 @@ var volcano =[
       "LON": -90.601,
       "ELEV": 2552,
       "TYPE_": "Complex v",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -24513,7 +24513,7 @@ var volcano =[
       "LON": -90.4,
       "ELEV": 1454,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -24536,7 +24536,7 @@ var volcano =[
       "LON": -90.407,
       "ELEV": 1845,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -24559,7 +24559,7 @@ var volcano =[
       "LON": -90.1,
       "ELEV": 1662,
       "TYPE_": "Stratovol",
-      "STATUS": "Hot Sprin",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -24582,7 +24582,7 @@ var volcano =[
       "LON": -90,
       "ELEV": 1600,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -24605,7 +24605,7 @@ var volcano =[
       "LON": -89.73,
       "ELEV": 1775,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -24628,7 +24628,7 @@ var volcano =[
       "LON": -89.87,
       "ELEV": 1192,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -24651,7 +24651,7 @@ var volcano =[
       "LON": -89.78,
       "ELEV": 2042,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -24674,7 +24674,7 @@ var volcano =[
       "LON": -89.68,
       "ELEV": 1292,
       "TYPE_": "Lava dome",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -24697,7 +24697,7 @@ var volcano =[
       "LON": -89.63,
       "ELEV": 1650,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -24720,7 +24720,7 @@ var volcano =[
       "LON": -89.55,
       "ELEV": 1192,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -24743,7 +24743,7 @@ var volcano =[
       "LON": -89.35,
       "ELEV": 1200,
       "TYPE_": "Unknown",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -24766,7 +24766,7 @@ var volcano =[
       "LON": -89.786,
       "ELEV": 1829,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -24789,7 +24789,7 @@ var volcano =[
       "LON": -89.63,
       "ELEV": 958,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -24812,7 +24812,7 @@ var volcano =[
       "LON": -89.47,
       "ELEV": 860,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -24835,7 +24835,7 @@ var volcano =[
       "LON": -89.63,
       "ELEV": 2365,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -24858,7 +24858,7 @@ var volcano =[
       "LON": -89.633,
       "ELEV": 1950,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -24881,7 +24881,7 @@ var volcano =[
       "LON": -89.55,
       "ELEV": 746,
       "TYPE_": "Caldera",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -24904,7 +24904,7 @@ var volcano =[
       "LON": -89.286,
       "ELEV": 1893,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -24927,7 +24927,7 @@ var volcano =[
       "LON": -89.12,
       "ELEV": 1438,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -24950,7 +24950,7 @@ var volcano =[
       "LON": -89.053,
       "ELEV": 450,
       "TYPE_": "Caldera",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -24973,7 +24973,7 @@ var volcano =[
       "LON": -88.852,
       "ELEV": 2000,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -24996,7 +24996,7 @@ var volcano =[
       "LON": -88.77,
       "ELEV": 700,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -25019,7 +25019,7 @@ var volcano =[
       "LON": -88.53,
       "ELEV": 1172,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -25042,7 +25042,7 @@ var volcano =[
       "LON": -88.503,
       "ELEV": 1592,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -25065,7 +25065,7 @@ var volcano =[
       "LON": -88.47,
       "ELEV": 1450,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -25088,7 +25088,7 @@ var volcano =[
       "LON": -88.32,
       "ELEV": 1228,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -25111,7 +25111,7 @@ var volcano =[
       "LON": -88.272,
       "ELEV": 2130,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -25134,7 +25134,7 @@ var volcano =[
       "LON": -87.853,
       "ELEV": 1250,
       "TYPE_": "Stratovol",
-      "STATUS": "Uncertain",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -25157,7 +25157,7 @@ var volcano =[
       "LON": -87.765,
       "ELEV": 550,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -25180,7 +25180,7 @@ var volcano =[
       "LON": -87.63,
       "ELEV": 760,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -25203,7 +25203,7 @@ var volcano =[
       "LON": -87.63,
       "ELEV": 600,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -25226,7 +25226,7 @@ var volcano =[
       "LON": -87.98,
       "ELEV": 1090,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -25249,7 +25249,7 @@ var volcano =[
       "LON": -86.9,
       "ELEV": 90,
       "TYPE_": "Pyroclast",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -25272,7 +25272,7 @@ var volcano =[
       "LON": -87.57,
       "ELEV": 859,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -25295,7 +25295,7 @@ var volcano =[
       "LON": -87.004,
       "ELEV": 1745,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -25318,7 +25318,7 @@ var volcano =[
       "LON": -86.845,
       "ELEV": 1010,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -25341,7 +25341,7 @@ var volcano =[
       "LON": -86.75,
       "ELEV": 836,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -25364,7 +25364,7 @@ var volcano =[
       "LON": -86.702,
       "ELEV": 675,
       "TYPE_": "Cinder co",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -25387,7 +25387,7 @@ var volcano =[
       "LON": -86.688,
       "ELEV": 1050,
       "TYPE_": "Complex v",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -25410,7 +25410,7 @@ var volcano =[
       "LON": -86.54,
       "ELEV": 1258,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -25433,7 +25433,7 @@ var volcano =[
       "LON": -86.342,
       "ELEV": 420,
       "TYPE_": "Stratovol",
-      "STATUS": "Anthropol",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -25456,7 +25456,7 @@ var volcano =[
       "LON": -86.32,
       "ELEV": 220,
       "TYPE_": "Fissure v",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -25479,7 +25479,7 @@ var volcano =[
       "LON": -86.161,
       "ELEV": 635,
       "TYPE_": "Caldera",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -25502,7 +25502,7 @@ var volcano =[
       "LON": -86.03,
       "ELEV": 468,
       "TYPE_": "Caldera",
-      "STATUS": "Uncertain",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -25525,7 +25525,7 @@ var volcano =[
       "LON": -85.968,
       "ELEV": 1345,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -25548,7 +25548,7 @@ var volcano =[
       "LON": -85.82,
       "ELEV": 625,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -25571,7 +25571,7 @@ var volcano =[
       "LON": -85.623,
       "ELEV": 1610,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -25594,7 +25594,7 @@ var volcano =[
       "LON": -85.515,
       "ELEV": 1394,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -25617,7 +25617,7 @@ var volcano =[
       "LON": -83.92,
       "ELEV": 150,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -25640,7 +25640,7 @@ var volcano =[
       "LON": -85.473,
       "ELEV": 1659,
       "TYPE_": "Stratovol",
-      "STATUS": "Uncertain",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -25663,7 +25663,7 @@ var volcano =[
       "LON": -85.324,
       "ELEV": 1916,
       "TYPE_": "Complex v",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -25686,7 +25686,7 @@ var volcano =[
       "LON": -85.153,
       "ELEV": 2028,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -25709,7 +25709,7 @@ var volcano =[
       "LON": -85.015,
       "ELEV": 1916,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -25732,7 +25732,7 @@ var volcano =[
       "LON": -85.07,
       "ELEV": 402,
       "TYPE_": "Pyroclast",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -25755,7 +25755,7 @@ var volcano =[
       "LON": -84.703,
       "ELEV": 1657,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -25778,7 +25778,7 @@ var volcano =[
       "LON": -84.66,
       "ELEV": 789,
       "TYPE_": "Explosion",
-      "STATUS": "Uncertain",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -25801,7 +25801,7 @@ var volcano =[
       "LON": -84.31,
       "ELEV": 621,
       "TYPE_": "Pyroclast",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -25824,7 +25824,7 @@ var volcano =[
       "LON": -84.366,
       "ELEV": 2183,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -25847,7 +25847,7 @@ var volcano =[
       "LON": -84.233,
       "ELEV": 2708,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -25870,7 +25870,7 @@ var volcano =[
       "LON": -84.1,
       "ELEV": 2906,
       "TYPE_": "Complex v",
-      "STATUS": "Tephrochr",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -25893,7 +25893,7 @@ var volcano =[
       "LON": -83.853,
       "ELEV": 3432,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -25916,7 +25916,7 @@ var volcano =[
       "LON": -83.77,
       "ELEV": 3340,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -25939,7 +25939,7 @@ var volcano =[
       "LON": -82.558,
       "ELEV": 3477,
       "TYPE_": "Complex v",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D5"
    }
 },
@@ -25962,7 +25962,7 @@ var volcano =[
       "LON": -80.91,
       "ELEV": 1297,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D5"
    }
 },
@@ -25985,7 +25985,7 @@ var volcano =[
       "LON": -75.3,
       "ELEV": 4000,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D4"
    }
 },
@@ -26008,7 +26008,7 @@ var volcano =[
       "LON": -75.323,
       "ELEV": 5321,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -26031,7 +26031,7 @@ var volcano =[
       "LON": -75.37,
       "ELEV": 4950,
       "TYPE_": "Shield vo",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -26054,7 +26054,7 @@ var volcano =[
       "LON": -75.33,
       "ELEV": 5200,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -26077,7 +26077,7 @@ var volcano =[
       "LON": -75.4,
       "ELEV": 2650,
       "TYPE_": "Stratovol",
-      "STATUS": "Tephrochr",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -26100,7 +26100,7 @@ var volcano =[
       "LON": -76.05,
       "ELEV": 5365,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D5"
    }
 },
@@ -26123,7 +26123,7 @@ var volcano =[
       "LON": -76.4,
       "ELEV": 4650,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -26146,7 +26146,7 @@ var volcano =[
       "LON": -76.58,
       "ELEV": 4400,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -26169,7 +26169,7 @@ var volcano =[
       "LON": -76.78,
       "ELEV": 4054,
       "TYPE_": "Lava dome",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -26192,7 +26192,7 @@ var volcano =[
       "LON": -76.92,
       "ELEV": 4150,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -26215,7 +26215,7 @@ var volcano =[
       "LON": -77.37,
       "ELEV": 4276,
       "TYPE_": "Complex v",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -26238,7 +26238,7 @@ var volcano =[
       "LON": -77.68,
       "ELEV": 4070,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -26261,7 +26261,7 @@ var volcano =[
       "LON": -77.88,
       "ELEV": 4764,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -26284,7 +26284,7 @@ var volcano =[
       "LON": -77.964,
       "ELEV": 4445,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -26307,7 +26307,7 @@ var volcano =[
       "LON": -77.58,
       "ELEV": 3955,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -26330,7 +26330,7 @@ var volcano =[
       "LON": -78.364,
       "ELEV": 3246,
       "TYPE_": "Caldera",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -26353,7 +26353,7 @@ var volcano =[
       "LON": -78.27,
       "ELEV": 4294,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -26376,7 +26376,7 @@ var volcano =[
       "LON": -77.986,
       "ELEV": 5790,
       "TYPE_": "Compound",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -26399,7 +26399,7 @@ var volcano =[
       "LON": -77.656,
       "ELEV": 3562,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -26422,7 +26422,7 @@ var volcano =[
       "LON": -78.463,
       "ELEV": 3356,
       "TYPE_": "Caldera",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -26445,7 +26445,7 @@ var volcano =[
       "LON": -78.598,
       "ELEV": 4784,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -26468,7 +26468,7 @@ var volcano =[
       "LON": -78.617,
       "ELEV": 4463,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -26491,7 +26491,7 @@ var volcano =[
       "LON": -78.25,
       "ELEV": 4643,
       "TYPE_": "Caldera",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D4"
    }
 },
@@ -26514,7 +26514,7 @@ var volcano =[
       "LON": -78.141,
       "ELEV": 5753,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -26537,7 +26537,7 @@ var volcano =[
       "LON": -77.72,
       "ELEV": 3482,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -26560,7 +26560,7 @@ var volcano =[
       "LON": -77.626,
       "ELEV": 3990,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -26583,7 +26583,7 @@ var volcano =[
       "LON": -78.714,
       "ELEV": 5248,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -26606,7 +26606,7 @@ var volcano =[
       "LON": -78.436,
       "ELEV": 5911,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -26629,7 +26629,7 @@ var volcano =[
       "LON": -78.9,
       "ELEV": 3914,
       "TYPE_": "Caldera",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -26652,7 +26652,7 @@ var volcano =[
       "LON": -78.442,
       "ELEV": 5023,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -26675,7 +26675,7 @@ var volcano =[
       "LON": -78.613,
       "ELEV": 3336,
       "TYPE_": "Scoria co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -26698,7 +26698,7 @@ var volcano =[
       "LON": -78.33,
       "ELEV": 5230,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -26721,7 +26721,7 @@ var volcano =[
       "LON": -91.55,
       "ELEV": 1495,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -26744,7 +26744,7 @@ var volcano =[
       "LON": -91.546,
       "ELEV": 790,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -26767,7 +26767,7 @@ var volcano =[
       "LON": -91.35,
       "ELEV": 1710,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -26790,7 +26790,7 @@ var volcano =[
       "LON": -91.28,
       "ELEV": 1330,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -26813,7 +26813,7 @@ var volcano =[
       "LON": -91.12,
       "ELEV": 1130,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -26836,7 +26836,7 @@ var volcano =[
       "LON": -91.17,
       "ELEV": 1490,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -26859,7 +26859,7 @@ var volcano =[
       "LON": -91.42,
       "ELEV": 1690,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -26882,7 +26882,7 @@ var volcano =[
       "LON": -90.75,
       "ELEV": 780,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -26905,7 +26905,7 @@ var volcano =[
       "LON": -90.47,
       "ELEV": 343,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -26928,7 +26928,7 @@ var volcano =[
       "LON": -89.958,
       "ELEV": 64,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -26951,7 +26951,7 @@ var volcano =[
       "LON": -90.77,
       "ELEV": 920,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -26974,7 +26974,7 @@ var volcano =[
       "LON": -90.33,
       "ELEV": 864,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -26997,7 +26997,7 @@ var volcano =[
       "LON": -90.45,
       "ELEV": 640,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -27020,7 +27020,7 @@ var volcano =[
       "LON": -89.5,
       "ELEV": 759,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -27043,7 +27043,7 @@ var volcano =[
       "LON": -72.63,
       "ELEV": 5498,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -27066,7 +27066,7 @@ var volcano =[
       "LON": -72.65,
       "ELEV": 6377,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -27089,7 +27089,7 @@ var volcano =[
       "LON": -72.33,
       "ELEV": 4713,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -27112,7 +27112,7 @@ var volcano =[
       "LON": -71.85,
       "ELEV": 5967,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -27135,7 +27135,7 @@ var volcano =[
       "LON": -71.17,
       "ELEV": 3923,
       "TYPE_": "Lava dome",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -27158,7 +27158,7 @@ var volcano =[
       "LON": -71.53,
       "ELEV": 6057,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -27181,7 +27181,7 @@ var volcano =[
       "LON": -71.409,
       "ELEV": 5822,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D4"
    }
 },
@@ -27204,7 +27204,7 @@ var volcano =[
       "LON": -70.903,
       "ELEV": 5672,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -27227,7 +27227,7 @@ var volcano =[
       "LON": -70.85,
       "ELEV": 4850,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D5"
    }
 },
@@ -27250,7 +27250,7 @@ var volcano =[
       "LON": -70.595,
       "ELEV": 5408,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -27273,7 +27273,7 @@ var volcano =[
       "LON": -70.358,
       "ELEV": 5815,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -27296,7 +27296,7 @@ var volcano =[
       "LON": -70.2,
       "ELEV": 5550,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D4"
    }
 },
@@ -27319,7 +27319,7 @@ var volcano =[
       "LON": -69.82,
       "ELEV": 5650,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -27342,7 +27342,7 @@ var volcano =[
       "LON": -69.77,
       "ELEV": 5980,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -27365,7 +27365,7 @@ var volcano =[
       "LON": -69.48,
       "ELEV": 5340,
       "TYPE_": "Lava dome",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -27388,7 +27388,7 @@ var volcano =[
       "LON": -69.03,
       "ELEV": 5300,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -27411,7 +27411,7 @@ var volcano =[
       "LON": -68.92,
       "ELEV": 5750,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -27434,7 +27434,7 @@ var volcano =[
       "LON": -68.53,
       "ELEV": 5520,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -27457,7 +27457,7 @@ var volcano =[
       "LON": -68.8,
       "ELEV": 5400,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -27480,7 +27480,7 @@ var volcano =[
       "LON": -69.15,
       "ELEV": 6348,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -27503,7 +27503,7 @@ var volcano =[
       "LON": -69.05,
       "ELEV": 6052,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -27526,7 +27526,7 @@ var volcano =[
       "LON": -69.17,
       "ELEV": 6071,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -27548,8 +27548,8 @@ var volcano =[
       "LAT": -18.5,
       "LON": -68.07,
       "ELEV": 3876,
-      "TYPE_": "Maar",
-      "STATUS": "Holocene?",
+      "TYPE_": "Maars",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -27572,7 +27572,7 @@ var volcano =[
       "LON": -68.75,
       "ELEV": 4215,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -27595,7 +27595,7 @@ var volcano =[
       "LON": -69.05,
       "ELEV": 5597,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -27618,7 +27618,7 @@ var volcano =[
       "LON": -68.53,
       "ELEV": 5430,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -27641,7 +27641,7 @@ var volcano =[
       "LON": -68.83,
       "ELEV": 5050,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -27664,7 +27664,7 @@ var volcano =[
       "LON": -68.97,
       "ELEV": 4500,
       "TYPE_": "Hydrother",
-      "STATUS": "Pleistoce",
+      "STATUS": "Unknown",
       "TIME_FRAME": "Q"
    }
 },
@@ -27687,7 +27687,7 @@ var volcano =[
       "LON": -68.65,
       "ELEV": 4037,
       "TYPE_": "Unknown",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -27710,7 +27710,7 @@ var volcano =[
       "LON": -66.48,
       "ELEV": 5438,
       "TYPE_": "Lava dome",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -27733,7 +27733,7 @@ var volcano =[
       "LON": -68.55,
       "ELEV": 5163,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -27756,7 +27756,7 @@ var volcano =[
       "LON": -68.2,
       "ELEV": 5543,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -27779,7 +27779,7 @@ var volcano =[
       "LON": -68.48,
       "ELEV": 5407,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -27802,7 +27802,7 @@ var volcano =[
       "LON": -68.47,
       "ELEV": 6176,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -27825,7 +27825,7 @@ var volcano =[
       "LON": -67.75,
       "ELEV": 4980,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -27848,7 +27848,7 @@ var volcano =[
       "LON": -68.18,
       "ELEV": 5868,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -27871,7 +27871,7 @@ var volcano =[
       "LON": -67.5,
       "ELEV": 4050,
       "TYPE_": "Cone",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -27894,7 +27894,7 @@ var volcano =[
       "LON": -66.88,
       "ELEV": 4000,
       "TYPE_": "Lava dome",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -27917,7 +27917,7 @@ var volcano =[
       "LON": -66.5,
       "ELEV": 5100,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -27940,7 +27940,7 @@ var volcano =[
       "LON": -67.47,
       "ELEV": 4250,
       "TYPE_": "Scoria co",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -27963,7 +27963,7 @@ var volcano =[
       "LON": -68.23,
       "ELEV": 5486,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -27986,7 +27986,7 @@ var volcano =[
       "LON": -68.4,
       "ELEV": 6145,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -28009,7 +28009,7 @@ var volcano =[
       "LON": -67.9,
       "ELEV": 5125,
       "TYPE_": "Lava dome",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -28032,7 +28032,7 @@ var volcano =[
       "LON": -68.15,
       "ELEV": 5100,
       "TYPE_": "Lava dome",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -28055,7 +28055,7 @@ var volcano =[
       "LON": -68.1,
       "ELEV": 5435,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -28078,7 +28078,7 @@ var volcano =[
       "LON": -67.42,
       "ELEV": 5730,
       "TYPE_": "Fissure v",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -28101,7 +28101,7 @@ var volcano =[
       "LON": -67.22,
       "ELEV": 6008,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -28124,7 +28124,7 @@ var volcano =[
       "LON": -68.03,
       "ELEV": 4280,
       "TYPE_": "Hydrother",
-      "STATUS": "Pleistoce",
+      "STATUS": "Unknown",
       "TIME_FRAME": "Q"
    }
 },
@@ -28147,7 +28147,7 @@ var volcano =[
       "LON": -67.9,
       "ELEV": 5808,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -28170,7 +28170,7 @@ var volcano =[
       "LON": -67.87,
       "ELEV": 5890,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -28193,7 +28193,7 @@ var volcano =[
       "LON": -67.88,
       "ELEV": 5971,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -28216,7 +28216,7 @@ var volcano =[
       "LON": -67.88,
       "ELEV": 5916,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -28239,7 +28239,7 @@ var volcano =[
       "LON": -67.58,
       "ELEV": 5598,
       "TYPE_": "Lava dome",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -28262,7 +28262,7 @@ var volcano =[
       "LON": -67.75,
       "ELEV": 5703,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -28285,7 +28285,7 @@ var volcano =[
       "LON": -67.65,
       "ELEV": 5631,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -28308,7 +28308,7 @@ var volcano =[
       "LON": -67.62,
       "ELEV": 6046,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -28330,8 +28330,8 @@ var volcano =[
       "LAT": -23.35,
       "LON": -67.67,
       "ELEV": 4555,
-      "TYPE_": "Maar",
-      "STATUS": "Holocene",
+      "TYPE_": "Maars",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -28354,7 +28354,7 @@ var volcano =[
       "LON": -67.73,
       "ELEV": 5592,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -28377,7 +28377,7 @@ var volcano =[
       "LON": -67.7,
       "ELEV": 5778,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -28400,7 +28400,7 @@ var volcano =[
       "LON": -67.53,
       "ELEV": 5852,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -28423,7 +28423,7 @@ var volcano =[
       "LON": -67.62,
       "ELEV": 5623,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -28445,8 +28445,8 @@ var volcano =[
       "LAT": -23.83,
       "LON": -67.95,
       "ELEV": 3550,
-      "TYPE_": "Maar",
-      "STATUS": "Holocene",
+      "TYPE_": "Maars",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -28469,7 +28469,7 @@ var volcano =[
       "LON": -68.05,
       "ELEV": 6233,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -28492,7 +28492,7 @@ var volcano =[
       "LON": -68.25,
       "ELEV": 3500,
       "TYPE_": "Pyroclast",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -28515,7 +28515,7 @@ var volcano =[
       "LON": -67.77,
       "ELEV": 6082,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -28538,7 +28538,7 @@ var volcano =[
       "LON": -68.25,
       "ELEV": 6051,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -28561,7 +28561,7 @@ var volcano =[
       "LON": -68.6,
       "ELEV": 4109,
       "TYPE_": "Pyroclast",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -28584,7 +28584,7 @@ var volcano =[
       "LON": -68.53,
       "ELEV": 6739,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -28607,7 +28607,7 @@ var volcano =[
       "LON": -66.48,
       "ELEV": 5550,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -28630,7 +28630,7 @@ var volcano =[
       "LON": -68.37,
       "ELEV": 5447,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -28653,7 +28653,7 @@ var volcano =[
       "LON": -68.5,
       "ELEV": 5697,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -28676,7 +28676,7 @@ var volcano =[
       "LON": -68.52,
       "ELEV": 5463,
       "TYPE_": "Complex v",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -28699,7 +28699,7 @@ var volcano =[
       "LON": -68.58,
       "ELEV": 5401,
       "TYPE_": "Complex v",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -28722,7 +28722,7 @@ var volcano =[
       "LON": -68,
       "ELEV": 6100,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -28745,7 +28745,7 @@ var volcano =[
       "LON": -67.5,
       "ELEV": 4000,
       "TYPE_": "Scoria co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -28768,7 +28768,7 @@ var volcano =[
       "LON": -68.58,
       "ELEV": 6127,
       "TYPE_": "Volcanic",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -28791,7 +28791,7 @@ var volcano =[
       "LON": -68.35,
       "ELEV": 6532,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -28814,7 +28814,7 @@ var volcano =[
       "LON": -68.15,
       "ELEV": 5740,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -28837,7 +28837,7 @@ var volcano =[
       "LON": -67.72,
       "ELEV": 4400,
       "TYPE_": "Caldera",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -28860,7 +28860,7 @@ var volcano =[
       "LON": -68.37,
       "ELEV": 5890,
       "TYPE_": "Complex v",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -28883,7 +28883,7 @@ var volcano =[
       "LON": -68.53,
       "ELEV": 6887,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -28906,7 +28906,7 @@ var volcano =[
       "LON": -68.55,
       "ELEV": 6660,
       "TYPE_": "Complex v",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -28929,7 +28929,7 @@ var volcano =[
       "LON": -69.13,
       "ELEV": 6052,
       "TYPE_": "Stratovol",
-      "STATUS": "Uncertain",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -28952,7 +28952,7 @@ var volcano =[
       "LON": -80.12,
       "ELEV": 183,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -28975,7 +28975,7 @@ var volcano =[
       "LON": -78.85,
       "ELEV": 922,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -28998,7 +28998,7 @@ var volcano =[
       "LON": -69.8,
       "ELEV": 6000,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -29021,7 +29021,7 @@ var volcano =[
       "LON": -69.897,
       "ELEV": 5856,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -29044,7 +29044,7 @@ var volcano =[
       "LON": -69.833,
       "ELEV": 5264,
       "TYPE_": "Caldera",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -29067,7 +29067,7 @@ var volcano =[
       "LON": -70.295,
       "ELEV": 4860,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -29090,7 +29090,7 @@ var volcano =[
       "LON": -70.352,
       "ELEV": 4280,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -29113,7 +29113,7 @@ var volcano =[
       "LON": -70.57,
       "ELEV": 4107,
       "TYPE_": "Caldera",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -29136,7 +29136,7 @@ var volcano =[
       "LON": -70.8,
       "ELEV": 2048,
       "TYPE_": "Lava dome",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -29159,7 +29159,7 @@ var volcano =[
       "LON": -70.496,
       "ELEV": 3508,
       "TYPE_": "Caldera",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -29182,7 +29182,7 @@ var volcano =[
       "LON": -70.75,
       "ELEV": 3953,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -29205,7 +29205,7 @@ var volcano =[
       "LON": -70.761,
       "ELEV": 3788,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -29228,7 +29228,7 @@ var volcano =[
       "LON": -70.808,
       "ELEV": 2000,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -29251,7 +29251,7 @@ var volcano =[
       "LON": -70.58,
       "ELEV": 3092,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -29274,7 +29274,7 @@ var volcano =[
       "LON": -70.849,
       "ELEV": 3621,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -29297,7 +29297,7 @@ var volcano =[
       "LON": -71.161,
       "ELEV": 3242,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -29320,7 +29320,7 @@ var volcano =[
       "LON": -71.009,
       "ELEV": 2268,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -29343,7 +29343,7 @@ var volcano =[
       "LON": -70.92,
       "ELEV": 1550,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -29366,7 +29366,7 @@ var volcano =[
       "LON": -69.2,
       "ELEV": 3691,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -29389,7 +29389,7 @@ var volcano =[
       "LON": -70.42,
       "ELEV": 4709,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -29412,7 +29412,7 @@ var volcano =[
       "LON": -71.377,
       "ELEV": 3212,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -29435,7 +29435,7 @@ var volcano =[
       "LON": -70.03,
       "ELEV": 3978,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -29458,7 +29458,7 @@ var volcano =[
       "LON": -69.62,
       "ELEV": 970,
       "TYPE_": "Pyroclast",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -29481,7 +29481,7 @@ var volcano =[
       "LON": -71.349,
       "ELEV": 2979,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -29504,7 +29504,7 @@ var volcano =[
       "LON": -71.17,
       "ELEV": 2965,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -29527,7 +29527,7 @@ var volcano =[
       "LON": -71.45,
       "ELEV": 3164,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -29550,7 +29550,7 @@ var volcano =[
       "LON": -71.645,
       "ELEV": 2806,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -29573,7 +29573,7 @@ var volcano =[
       "LON": -71.58,
       "ELEV": 2865,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -29596,7 +29596,7 @@ var volcano =[
       "LON": -71.08,
       "ELEV": 2143,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -29619,7 +29619,7 @@ var volcano =[
       "LON": -71.729,
       "ELEV": 3125,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -29642,7 +29642,7 @@ var volcano =[
       "LON": -71.52,
       "ELEV": 2282,
       "TYPE_": "Caldera",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -29665,7 +29665,7 @@ var volcano =[
       "LON": -71.83,
       "ELEV": 995,
       "TYPE_": "Cinder co",
-      "STATUS": "Tephrochr",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -29688,7 +29688,7 @@ var volcano =[
       "LON": -71.7,
       "ELEV": 1496,
       "TYPE_": "Cinder co",
-      "STATUS": "Tephrochr",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -29711,7 +29711,7 @@ var volcano =[
       "LON": -71.82,
       "ELEV": 810,
       "TYPE_": "Cinder co",
-      "STATUS": "Tephrochr",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -29734,7 +29734,7 @@ var volcano =[
       "LON": -71.93,
       "ELEV": 2847,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -29757,7 +29757,7 @@ var volcano =[
       "LON": -71.7,
       "ELEV": 2360,
       "TYPE_": "Caldera",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -29780,7 +29780,7 @@ var volcano =[
       "LON": -71.5,
       "ELEV": 3747,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -29803,7 +29803,7 @@ var volcano =[
       "LON": -71.55,
       "ELEV": 1300,
       "TYPE_": "Pyroclast",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -29826,7 +29826,7 @@ var volcano =[
       "LON": -72.027,
       "ELEV": 2422,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -29849,7 +29849,7 @@ var volcano =[
       "LON": -72.07,
       "ELEV": 1114,
       "TYPE_": "Pyroclast",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -29872,7 +29872,7 @@ var volcano =[
       "LON": -72.2,
       "ELEV": 1798,
       "TYPE_": "Fissure v",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -29895,7 +29895,7 @@ var volcano =[
       "LON": -72.117,
       "ELEV": 2236,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -29918,7 +29918,7 @@ var volcano =[
       "LON": -72.038,
       "ELEV": 1840,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -29941,7 +29941,7 @@ var volcano =[
       "LON": -71.95,
       "ELEV": 2112,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -29964,7 +29964,7 @@ var volcano =[
       "LON": -72.153,
       "ELEV": 1990,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -29987,7 +29987,7 @@ var volcano =[
       "LON": -72.264,
       "ELEV": 2493,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -30010,7 +30010,7 @@ var volcano =[
       "LON": -72.493,
       "ELEV": 2652,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -30033,7 +30033,7 @@ var volcano =[
       "LON": -72.614,
       "ELEV": 2003,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -30056,7 +30056,7 @@ var volcano =[
       "LON": -72.27,
       "ELEV": 506,
       "TYPE_": "Pyroclast",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -30079,7 +30079,7 @@ var volcano =[
       "LON": -72.396,
       "ELEV": 2187,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -30102,7 +30102,7 @@ var volcano =[
       "LON": -72.431,
       "ELEV": 1572,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -30125,7 +30125,7 @@ var volcano =[
       "LON": -71.65,
       "ELEV": 0,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -30148,7 +30148,7 @@ var volcano =[
       "LON": -72.578,
       "ELEV": 1318,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -30171,7 +30171,7 @@ var volcano =[
       "LON": -72.43,
       "ELEV": 2404,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -30194,7 +30194,7 @@ var volcano =[
       "LON": -72.646,
       "ELEV": 962,
       "TYPE_": "Caldera",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -30217,7 +30217,7 @@ var volcano =[
       "LON": -72.8,
       "ELEV": 2300,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -30240,7 +30240,7 @@ var volcano =[
       "LON": -72.83,
       "ELEV": 2050,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -30263,7 +30263,7 @@ var volcano =[
       "LON": -72.5,
       "ELEV": 0,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -30286,7 +30286,7 @@ var volcano =[
       "LON": -72.88,
       "ELEV": 2400,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -30309,7 +30309,7 @@ var volcano =[
       "LON": -72.53,
       "ELEV": 255,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -30332,7 +30332,7 @@ var volcano =[
       "LON": -73.08,
       "ELEV": 1660,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -30355,7 +30355,7 @@ var volcano =[
       "LON": -73.2,
       "ELEV": 3078,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -30378,7 +30378,7 @@ var volcano =[
       "LON": -72.97,
       "ELEV": 1905,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -30401,7 +30401,7 @@ var volcano =[
       "LON": -73.55,
       "ELEV": 3380,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -30424,7 +30424,7 @@ var volcano =[
       "LON": -73.28,
       "ELEV": 1300,
       "TYPE_": "Subglacia",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -30447,7 +30447,7 @@ var volcano =[
       "LON": -73.83,
       "ELEV": 0,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -30470,7 +30470,7 @@ var volcano =[
       "LON": -73.7,
       "ELEV": 0,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -30493,7 +30493,7 @@ var volcano =[
       "LON": -73.4,
       "ELEV": 1758,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -30516,7 +30516,7 @@ var volcano =[
       "LON": -70,
       "ELEV": 250,
       "TYPE_": "Cinder co",
-      "STATUS": "Anthropol",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -30539,7 +30539,7 @@ var volcano =[
       "LON": -70.27,
       "ELEV": 150,
       "TYPE_": "Lava dome",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -30562,7 +30562,7 @@ var volcano =[
       "LON": -63.23,
       "ELEV": 887,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D5"
    }
 },
@@ -30585,7 +30585,7 @@ var volcano =[
       "LON": -62.95,
       "ELEV": 601,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -30608,7 +30608,7 @@ var volcano =[
       "LON": -62.8,
       "ELEV": 1156,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -30631,7 +30631,7 @@ var volcano =[
       "LON": -62.58,
       "ELEV": 985,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -30654,7 +30654,7 @@ var volcano =[
       "LON": -62.18,
       "ELEV": 915,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -30677,7 +30677,7 @@ var volcano =[
       "LON": -61.67,
       "ELEV": 1467,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -30700,7 +30700,7 @@ var volcano =[
       "LON": -61.45,
       "ELEV": 861,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -30723,7 +30723,7 @@ var volcano =[
       "LON": -61.42,
       "ELEV": 1430,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -30746,7 +30746,7 @@ var volcano =[
       "LON": -61.33,
       "ELEV": 1387,
       "TYPE_": "Lava dome",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -30769,7 +30769,7 @@ var volcano =[
       "LON": -61.37,
       "ELEV": 960,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D5"
    }
 },
@@ -30792,7 +30792,7 @@ var volcano =[
       "LON": -61.17,
       "ELEV": 1397,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -30815,7 +30815,7 @@ var volcano =[
       "LON": -61.05,
       "ELEV": 777,
       "TYPE_": "Caldera",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D4"
    }
 },
@@ -30838,7 +30838,7 @@ var volcano =[
       "LON": -61.18,
       "ELEV": 1220,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -30861,7 +30861,7 @@ var volcano =[
       "LON": -61.63,
       "ELEV": -160,
       "TYPE_": "Submarine",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -30884,7 +30884,7 @@ var volcano =[
       "LON": -61.67,
       "ELEV": 840,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -30907,7 +30907,7 @@ var volcano =[
       "LON": -23.78,
       "ELEV": 1448,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -30930,7 +30930,7 @@ var volcano =[
       "LON": -23.25,
       "ELEV": 540,
       "TYPE_": "Pyroclast",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -30953,7 +30953,7 @@ var volcano =[
       "LON": -22.23,
       "ELEV": 988,
       "TYPE_": "Fissure v",
-      "STATUS": "Anthropol",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -30976,7 +30976,7 @@ var volcano =[
       "LON": -23.33,
       "ELEV": 80,
       "TYPE_": "Submarine",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -30999,7 +30999,7 @@ var volcano =[
       "LON": -22.5,
       "ELEV": 230,
       "TYPE_": "Crater ro",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -31022,7 +31022,7 @@ var volcano =[
       "LON": -22.1,
       "ELEV": 379,
       "TYPE_": "Crater ro",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -31045,7 +31045,7 @@ var volcano =[
       "LON": -21.83,
       "ELEV": 626,
       "TYPE_": "Crater ro",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -31068,7 +31068,7 @@ var volcano =[
       "LON": -21.33,
       "ELEV": 803,
       "TYPE_": "Crater ro",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -31091,7 +31091,7 @@ var volcano =[
       "LON": -20.87,
       "ELEV": 214,
       "TYPE_": "Crater ro",
-      "STATUS": "Tephrochr",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -31114,7 +31114,7 @@ var volcano =[
       "LON": -20.58,
       "ELEV": 1390,
       "TYPE_": "Subglacia",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -31137,7 +31137,7 @@ var volcano =[
       "LON": -19.98,
       "ELEV": 1360,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -31160,7 +31160,7 @@ var volcano =[
       "LON": -18.92,
       "ELEV": 1782,
       "TYPE_": "Subglacia",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -31183,7 +31183,7 @@ var volcano =[
       "LON": -19.32,
       "ELEV": 1488,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -31206,7 +31206,7 @@ var volcano =[
       "LON": -20.28,
       "ELEV": 279,
       "TYPE_": "Submarine",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -31229,7 +31229,7 @@ var volcano =[
       "LON": -19.62,
       "ELEV": 1666,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -31252,7 +31252,7 @@ var volcano =[
       "LON": -19.05,
       "ELEV": 1512,
       "TYPE_": "Subglacia",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -31275,7 +31275,7 @@ var volcano =[
       "LON": -19.57,
       "ELEV": 1463,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -31298,7 +31298,7 @@ var volcano =[
       "LON": -19.17,
       "ELEV": 1259,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -31321,7 +31321,7 @@ var volcano =[
       "LON": -19.67,
       "ELEV": 1235,
       "TYPE_": "Fissure v",
-      "STATUS": "Tephrochr",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D6"
    }
 },
@@ -31344,7 +31344,7 @@ var volcano =[
       "LON": -19.7,
       "ELEV": 1491,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -31367,7 +31367,7 @@ var volcano =[
       "LON": -17.33,
       "ELEV": 1725,
       "TYPE_": "Caldera",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -31390,7 +31390,7 @@ var volcano =[
       "LON": -17.8,
       "ELEV": 1570,
       "TYPE_": "Subglacia",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -31413,7 +31413,7 @@ var volcano =[
       "LON": -17.53,
       "ELEV": 2000,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -31436,7 +31436,7 @@ var volcano =[
       "LON": -17.92,
       "ELEV": 1535,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -31459,7 +31459,7 @@ var volcano =[
       "LON": -16.72,
       "ELEV": 1920,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -31482,7 +31482,7 @@ var volcano =[
       "LON": -16.75,
       "ELEV": 1516,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -31505,7 +31505,7 @@ var volcano =[
       "LON": -16.65,
       "ELEV": 939,
       "TYPE_": "Stratovol",
-      "STATUS": "Tephrochr",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -31528,7 +31528,7 @@ var volcano =[
       "LON": -16.78,
       "ELEV": 650,
       "TYPE_": "Caldera",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -31551,7 +31551,7 @@ var volcano =[
       "LON": -16.83,
       "ELEV": 564,
       "TYPE_": "Shield vo",
-      "STATUS": "Tephrochr",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -31574,7 +31574,7 @@ var volcano =[
       "LON": -17.1,
       "ELEV": 0,
       "TYPE_": "Submarine",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -31597,7 +31597,7 @@ var volcano =[
       "LON": -16.65,
       "ELEV": 2119,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D4"
    }
 },
@@ -31620,7 +31620,7 @@ var volcano =[
       "LON": -16.65,
       "ELEV": 1760,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -31643,7 +31643,7 @@ var volcano =[
       "LON": -18.5,
       "ELEV": 0,
       "TYPE_": "Submarine",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D4"
    }
 },
@@ -31666,7 +31666,7 @@ var volcano =[
       "LON": -8.17,
       "ELEV": 2277,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -31689,7 +31689,7 @@ var volcano =[
       "LON": -31.17,
       "ELEV": 915,
       "TYPE_": "Stratovol",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -31712,7 +31712,7 @@ var volcano =[
       "LON": -28.73,
       "ELEV": 1043,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -31735,7 +31735,7 @@ var volcano =[
       "LON": -28.4,
       "ELEV": 2351,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D4"
    }
 },
@@ -31758,7 +31758,7 @@ var volcano =[
       "LON": -28.08,
       "ELEV": 1053,
       "TYPE_": "Fissure v",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -31781,7 +31781,7 @@ var volcano =[
       "LON": -27.97,
       "ELEV": 402,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -31804,7 +31804,7 @@ var volcano =[
       "LON": -27.32,
       "ELEV": 1023,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -31827,7 +31827,7 @@ var volcano =[
       "LON": -26.63,
       "ELEV": -14,
       "TYPE_": "Submarine",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D4"
    }
 },
@@ -31850,7 +31850,7 @@ var volcano =[
       "LON": -25.78,
       "ELEV": 856,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -31873,7 +31873,7 @@ var volcano =[
       "LON": -25.47,
       "ELEV": 947,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D5"
    }
 },
@@ -31896,7 +31896,7 @@ var volcano =[
       "LON": -25.32,
       "ELEV": 805,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D5"
    }
 },
@@ -31919,7 +31919,7 @@ var volcano =[
       "LON": -25.88,
       "ELEV": -197,
       "TYPE_": "Submarine",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -31942,7 +31942,7 @@ var volcano =[
       "LON": -17.83,
       "ELEV": 2426,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -31965,7 +31965,7 @@ var volcano =[
       "LON": -18.03,
       "ELEV": 1500,
       "TYPE_": "Shield vo",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D4"
    }
 },
@@ -31988,7 +31988,7 @@ var volcano =[
       "LON": -16.641,
       "ELEV": 3715,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -32011,7 +32011,7 @@ var volcano =[
       "LON": -15.58,
       "ELEV": 1950,
       "TYPE_": "Fissure v",
-      "STATUS": "Radiocarb",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -32034,7 +32034,7 @@ var volcano =[
       "LON": -14.02,
       "ELEV": 529,
       "TYPE_": "Fissure v",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -32057,7 +32057,7 @@ var volcano =[
       "LON": -13.63,
       "ELEV": 670,
       "TYPE_": "Fissure v",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -32080,7 +32080,7 @@ var volcano =[
       "LON": -24.35,
       "ELEV": 2829,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -32103,7 +32103,7 @@ var volcano =[
       "LON": -24.72,
       "ELEV": 900,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -32126,7 +32126,7 @@ var volcano =[
       "LON": -25.17,
       "ELEV": 1979,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -32149,7 +32149,7 @@ var volcano =[
       "LON": -24.97,
       "ELEV": 697,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -32172,7 +32172,7 @@ var volcano =[
       "LON": -14.37,
       "ELEV": 858,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -32195,7 +32195,7 @@ var volcano =[
       "LON": -29.331,
       "ELEV": 600,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -32218,7 +32218,7 @@ var volcano =[
       "LON": -12.28,
       "ELEV": 2060,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -32241,7 +32241,7 @@ var volcano =[
       "LON": 3.35,
       "ELEV": 780,
       "TYPE_": "Shield vo",
-      "STATUS": "Magnetism",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -32264,7 +32264,7 @@ var volcano =[
       "LON": 5.5,
       "ELEV": 0,
       "TYPE_": "Submarine",
-      "STATUS": "Uncertain",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -32287,7 +32287,7 @@ var volcano =[
       "LON": 163.25,
       "ELEV": 1239,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -32310,7 +32310,7 @@ var volcano =[
       "LON": 162.45,
       "ELEV": 1340,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -32333,7 +32333,7 @@ var volcano =[
       "LON": 164.83,
       "ELEV": 1167,
       "TYPE_": "Stratovol",
-      "STATUS": "Uncertain",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -32356,7 +32356,7 @@ var volcano =[
       "LON": 165.5,
       "ELEV": 3040,
       "TYPE_": "Stratovol",
-      "STATUS": "K-Ar",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -32379,7 +32379,7 @@ var volcano =[
       "LON": 164.7,
       "ELEV": 2732,
       "TYPE_": "Stratovol",
-      "STATUS": "Tephrochr",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D4"
    }
 },
@@ -32402,7 +32402,7 @@ var volcano =[
       "LON": 167.17,
       "ELEV": 3794,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -32425,7 +32425,7 @@ var volcano =[
       "LON": 163.6,
       "ELEV": 3000,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -32448,7 +32448,7 @@ var volcano =[
       "LON": -136,
       "ELEV": 3478,
       "TYPE_": "Shield vo",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -32471,7 +32471,7 @@ var volcano =[
       "LON": -132.33,
       "ELEV": 2978,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -32494,7 +32494,7 @@ var volcano =[
       "LON": -126.88,
       "ELEV": 3292,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -32517,7 +32517,7 @@ var volcano =[
       "LON": -126.67,
       "ELEV": 3110,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -32540,7 +32540,7 @@ var volcano =[
       "LON": -115.83,
       "ELEV": 3595,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene?",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -32563,7 +32563,7 @@ var volcano =[
       "LON": -112.08,
       "ELEV": 3460,
       "TYPE_": "Shield vo",
-      "STATUS": "Ice Core",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -32586,7 +32586,7 @@ var volcano =[
       "LON": -99.42,
       "ELEV": 749,
       "TYPE_": "Stratovol",
-      "STATUS": "Uncertain",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -32609,7 +32609,7 @@ var volcano =[
       "LON": -90.58,
       "ELEV": 1640,
       "TYPE_": "Shield vo",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -32632,7 +32632,7 @@ var volcano =[
       "LON": -60.65,
       "ELEV": 576,
       "TYPE_": "Caldera",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -32655,7 +32655,7 @@ var volcano =[
       "LON": -57.93,
       "ELEV": 180,
       "TYPE_": "Stratovol",
-      "STATUS": "Lichenome",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -32678,7 +32678,7 @@ var volcano =[
       "LON": -56.75,
       "ELEV": 240,
       "TYPE_": "Stratovol",
-      "STATUS": "Uncertain",
+      "STATUS": "Unknown",
       "TIME_FRAME": "?"
    }
 },
@@ -32701,7 +32701,7 @@ var volcano =[
       "LON": -55.77,
       "ELEV": 353,
       "TYPE_": "Cinder co",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -32724,7 +32724,7 @@ var volcano =[
       "LON": -60.05,
       "ELEV": 368,
       "TYPE_": "Pyroclast",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -32747,7 +32747,7 @@ var volcano =[
       "LON": -27.37,
       "ELEV": 1075,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -32770,7 +32770,7 @@ var volcano =[
       "LON": -26.58,
       "ELEV": 1100,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 },
@@ -32793,7 +32793,7 @@ var volcano =[
       "LON": -26.45,
       "ELEV": 990,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -32816,7 +32816,7 @@ var volcano =[
       "LON": -26.72,
       "ELEV": 550,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -32839,7 +32839,7 @@ var volcano =[
       "LON": -27.15,
       "ELEV": 1005,
       "TYPE_": "Stratovol",
-      "STATUS": "Holocene",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -32862,7 +32862,7 @@ var volcano =[
       "LON": -28.13,
       "ELEV": 190,
       "TYPE_": "Stratovol",
-      "STATUS": "Fumarolic",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -32885,7 +32885,7 @@ var volcano =[
       "LON": -27.57,
       "ELEV": 551,
       "TYPE_": "Stratovol",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D3"
    }
 },
@@ -32908,7 +32908,7 @@ var volcano =[
       "LON": -28.08,
       "ELEV": -27,
       "TYPE_": "Submarine",
-      "STATUS": "Historica",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D2"
    }
 }
