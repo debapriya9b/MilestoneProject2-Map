@@ -1,11 +1,14 @@
 
+//-------------------------------------------------Modal
+
+
 //Modal will open with page load
 
 $(document).ready(function(){
         $("#myModal").modal('show');
     });
 
-
+//------------------------------------------------Creating map/Tile Layer/Popup
 
 //Creating map options
 var mapOptions = {
@@ -37,26 +40,10 @@ function volcanoSearch(feature, layer) {
 
 };
 
-var volcanoPoints = L.geoJson(volcano, {
-    pointToLayer: function (feature, latlng) {
-        return L.circleMarker(latlng, geojsonMarkerOptions);
-        },
-    onEachFeature: volcanoSearch
-})
+//-------------------------------------------Creating interactive buttons:Toggler button to show on/off worldwide volcanoes
 
-// create an empty popup element
-var popup = L.popup();
+var volcanoPoints = null;
 
-// A function that will populate the popup element using methods from the popup object
-function onMapClick(e) {
-    popup
-        .setLatLng(e.latlng)
-        .setContent("You clicked the map at " + e.latlng.toString())
-        .openOn(map);
-}
-
-// on click, run function to populate popup and open it on the map
-map.on('click', onMapClick);
 
 // Create event listener for the add Volcanoes Worldwide Button
 document.getElementById("addButton").addEventListener("click", addVolcanoWorldwide);
@@ -65,7 +52,17 @@ document.getElementById("addButton").addEventListener("click", addVolcanoWorldwi
 function addVolcanoWorldwide() {
     volcanoPoints.addTo(map);
 };
-
+function addVolcanoWorldwide() {
+    if(map.hasLayer(volcanoPoints)){
+    removeVolcanoWorldwide();
+    };
+    volcanoPoints = L.geoJson(volcano, {
+        pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, geojsonMarkerOptions);
+        },
+    onEachFeature: volcanoSearch
+    }).addTo(map);
+};
 
 
 // Create event listener for the remove Volcanoes Worldwide Button
@@ -87,16 +84,102 @@ function toggleVolcanoes(){
     }
 };
 
+//----------------------------------------------------------Filtering to show Active Volcanoes
+
+// Event Listener for a click on the Active button
+document.getElementById("filterActiveVol").addEventListener("click", filterActiveVol);
+
+
+// Function to update volcanoPoints to filtered subset of data showing Active volcanoes
+function filterActiveVol(){
+    if(map.hasLayer(volcanoPoints)){
+    removeVolcanoWorldwide();
+    };
+var volcanoPoints = L.geoJson(volcano, {
+    pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, geojsonMarkerOptions);
+        },
+    onEachFeature: volcanoSearch,
+    filter: function (feature, layer) {
+            return feature.properties.STATUS == "Active";
+    }
+}).addTo(map);
+}
+
+//----------------------------------------------------------Filtering to show Dormant Volcanoes
+
+// Event Listener for a click on the Dormant button
+document.getElementById("filterDormantVol").addEventListener("click", filterDormantVol);
+
+
+// Function to update volcanoPoints to filtered subset of data showing Dormant volcanoes
+function filterDormantVol(){
+    if(map.hasLayer(volcanoPoints)){
+    removeVolcanoWorldwide();
+    };
+var volcanoPoints = L.geoJson(volcano, {
+    pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, geojsonMarkerOptions);
+        },
+    onEachFeature: volcanoSearch,
+    filter: function (feature, layer) {
+            return feature.properties.STATUS == "Dormant";
+    }
+}).addTo(map);
+}
+
+//----------------------------------------------------------Filtering to show Extinct Volcanoes
+
+// Event Listener for a click on the Extinct button
+document.getElementById("filterExtinctVol").addEventListener("click", filterExtinctVol);
+
+
+// Function to update volcanoPoints to filtered subset of data showing Extinct volcanoes
+function filterExtinctVol(){
+    if(map.hasLayer(volcanoPoints)){
+    removeVolcanoWorldwide();
+    };
+var volcanoPoints = L.geoJson(volcano, {
+    pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, geojsonMarkerOptions);
+        },
+    onEachFeature: volcanoSearch,
+    filter: function (feature, layer) {
+            return feature.properties.STATUS == "Extinct";
+    }
+}).addTo(map);
+}
 
 
 
-
-
-
-
-
+//----------------------------------------------------------------Map popup
 
 /*
+
+// create an empty popup element
+var popup = L.popup();
+
+// A function that will populate the popup element using methods from the popup object
+function onMapClick(e) {
+    popup
+        .setLatLng(e.latlng)
+        .setContent("You clicked the map at " + e.latlng.toString())
+        .openOn(map);
+}
+
+// on click, run function to populate popup and open it on the map
+map.on('click', onMapClick);*/
+
+
+
+
+
+
+//----------------------------------------------------------------Map search
+
+
+
+
 
 //Search control
 
@@ -104,7 +187,7 @@ var searchCtrl = L.control.fuseSearch()
 searchCtrl.addTo(map);
 
 //  Loading GeoJSON layer and index the features, choosing the properties I want to index
-searchCtrl.indexFeatures(volcano, ['properties/LOCATION', 'properties/TYPE_']);*/
+searchCtrl.indexFeatures(volcano, ['properties/LOCATION']);
 
 
 
