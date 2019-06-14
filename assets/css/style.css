@@ -14,6 +14,20 @@ body {
 .page-header {
     color: #ffffff;
 }
+.header-details {
+  text-align: center;
+}
+
+.volcano-fact-link {
+  color: #17a2b8;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
 
 .modal-body-details{
   font-size: 25px;
@@ -28,7 +42,9 @@ body {
   font-size: medium;
   
 }
-
+.modal-body ul{
+  list-style-image: url('/favicon-16x16.png');
+}
 
 .footer-details {
   background-color: #000000;

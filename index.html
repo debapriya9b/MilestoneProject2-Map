@@ -6,7 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
+<!------Favicon---->
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+
+<!------Bootstrap---->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" type="text/css" />
+<!------Font-awesome---->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" />
 
     <!------Leaflet CSS---->
@@ -60,19 +65,17 @@
             <div class="modal-content">
 
                 <!-- Modal Header -->
-                <div class="modal-header">
+                <div class="modal-header text-danger">
                     <h1 class="modal-title">Volcanoes of the World</h1>
                     <button type="button" class="close" data-dismiss="modal">&times;</button>
                 </div>
 
                 <!-- Modal body -->
                 <div class="modal-body modal-body-details">
-                     <p>Volcano is an opening (usually in a mountain) in the Earth’s surface from which gas, hot magma and ash can escape.</p>
-                     <p>This datalayer is point coverage containing basic geographic and geologic information for worldwide volcanoes 
-                     thought to have been active in the last 10,000 years (Holocene). The data is a collection of information by Smithsonian 
-                     Institution volcanologists summarizing 1,509 volcanoes and this version of the data set was published as part of the USGS 
-                     Global GIS : global coverage database.</p>
-                     <p>So are you ready to delve into the depths of the earth and uncover these seriously hot volcano facts?</p>
+                    <p>Volcano is an opening (usually in a mountain) in the Earth’s surface from which gas, hot magma and ash can escape.</p>
+                    <p>This datalayer is point coverage containing basic geographic and geologic information for worldwide volcanoes thought to have been active in the last 10,000 years (Holocene). The data is a collection of information by Smithsonian Institution
+                        volcanologists summarizing 1,509 volcanoes and this version of the data set was published as part of the USGS Global GIS : global coverage database.</p>
+                    <p>So are you ready to delve into the depths of the earth and uncover these seriously hot volcano facts?</p>
                 </div>
 
                 <!-- Modal footer -->
@@ -89,7 +92,7 @@
     <header class="container-fluid">
         <nav class="container-fluid navbar navbar-expand-lg navbar-dark bg-primary">
             <div>
-                <h1 class="page-header">Fun Facts of Volcanoes for kids</h1>
+                <h1 class="page-header">Volcanoes of the World</h1>
             </div>
 
 
@@ -100,7 +103,7 @@
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-10">
                     <br>
-                    <div id="map" style="width: 100%; height: 600px; border-style: solid"></div>
+                    <div id="map" style="width: 100%; height: 750px; border-style: solid"></div>
                     <div id="searchContainer">
 
                     </div>
@@ -108,17 +111,67 @@
                 </div>
                 <div class="col-sm-12 col-smd-12 col-lg-2">
                     <br>
-                    <div id="controls" style="margin: 5px;">
+                    <h3 class="text-danger">Did you know?</h3>
+                    <p>There are about 1,510 volcanoes that have erupted in the last 10,000 years. Let's hit the button to see the volcanoes all over the world.</p>
+
+                    <div id="controls">
                         <button class="btn btn-info show-hide-button" id="toggleButton">Show/Hide Volcanoes</button>
+                        <p>Zoom in and click on each Volcano to know their Name and Type.</p>
+                        <p>Volcanoes are classified as active, dormant or extinct depending on the amount of volcanic activity happening. “Active” means there’s regular activity, “dormant” means there’s been recent activity but that it’s currently quiet
+                            and “extinct”, meaning it’s been so long since the last eruption that it’s unlikely to ever erupt again. Let's check out!!</p>
+                        <button class="btn btn-info btn-sm" id="filterActiveVol">Active</button>
+                        <button class="btn btn-info btn-sm" id="filterDormantVol">Dormant</button>
+                        <button class="btn btn-info btn-sm" id="filterExtinctVol">Extinct</button>
+
                         <button class="invisible" id="addButton">Show Volcanoes Worldwide</button>
                         <button class="invisible" id="removeButton">Hide Volcanoes Worldwide</button>
-                        <button id="filterActiveVol">Active Volcanoes</button>
-                        <button id="filterDormantVol">Dormant Volcanoes</button>
-                        <button id="filterExtinctVol">Extinct Volcanoes</button>
                     </div>
-                    <h3> Volcano facts!</h3>
 
 
+
+                </div>
+
+                <div class="col-sm-12 col-smd-12 col-lg-12">
+                    <br> Check out some more fascinating facts about volcanoes
+                    <!-- Button trigger modal -->
+                    <a class="text-info pointer" data-toggle="modal" data-target="#exampleModalCenter">
+  <em>here</em>
+</a>
+
+                    <!-- Modal -->
+                    <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h3 class="modal-title text-danger" id="exampleModalLongTitle">Volcano Fun Facts</h3>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+                                </div>
+                                <div class="modal-body">
+                                    <ul>
+                                        <li>The word “volcano” comes from the Roman name “Vulcan” – the Roman god of fire.</li><br>
+                                        <li>Volcanoes are often found at meeting points of what are called “tectonic plates”. These plates are pieces of the Earth’s surface that fit together just like a jigsaw puzzle.</li><br>
+                                        <li>Volcanoes aren’t only found on the boundaries of tectonic plates, though. They can also occur over “mantle plumes” – super hot areas of rock inside the Earth.</li><br>
+                                        <li>350 million, or one in 20 people in the world live within “danger range” of an active volcano</li><br>
+                                        <li>When you imagine a volcano, you might picture it as a large, slope-sided mountain, but volcanoes can actually be a variety of shapes. Shield (flat), composite (tall and thin), cinder cones (circular or oval cones),
+                                            and lava domes (where dome-shaped deposits of hardened lava have built up around the vent, as the lava is too thick to flow very far).</li><br>
+                                        <li>Magma is the name given to hot liquid rock inside a volcano. Once it leaves the volcano, it’s known as lava.</li><br>
+                                        <li>Volcanoes don’t just occur on land, they can be found on the ocean floor and under ice caps, too!</li><br>
+                                        <li>Lava can reach 1,250°C and has the potential to burn everything in its path! If you used a glass thermometer to take the temperature it would melt</li><br>
+                                        <li>The “Ring of Fire”, a 40,000 km Horseshoe shaped area of the Pacific Ocean, is home to 90% of all volcanoes on the Earth.Can you locate that in the map?</li>
+                                        <li>In 1883 Krakatau in Southeast Asia erupted, releasing 200 megatrons of energy, the equivalent of 15,000 nuclear bombs! This generated the loudest sound reported in history.</li>
+                                        <li>The soil near volcanoes is said to be rich and fertile which is why some people actually set up home on the slopes!</li><br>
+                                        <li>And it’s not just humans that settle on the slopes – maleo birds use the heat from volcanoes to help hatch their eggs! They bury the eggs in the soil or sand near to volcanoes. When the chicks hatch they claw their
+                                            way up to the surface.</li>
+                                    </ul>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
 
