@@ -191,12 +191,6 @@ map.on('click', onMapClick);*/
         });
 
 
-
-
-
-
-
-
 /*
 
 //Search control
