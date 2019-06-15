@@ -1,4 +1,7 @@
 
+/* global L */
+
+
 //-------------------------------------------------Modal
 
 
@@ -22,7 +25,7 @@ var mapOptions = {
 var map = new L.map('map', mapOptions);
 
 // Add Tile Layer and add to map
-L.tileLayer('https://api.maptiler.com/maps/streets/{z}/{x}/{y}.png?key=8vFNrApGjV6jRicu4ins',).addTo(map);
+L.tileLayer('https://api.maptiler.com/maps/streets/{z}/{x}/{y}.png?key=8vFNrApGjV6jRicu4ins').addTo(map);
 
 //Adding geoJson data and adding the marker and popup
 
@@ -52,6 +55,7 @@ document.getElementById("addButton").addEventListener("click", addVolcanoWorldwi
 function addVolcanoWorldwide() {
     volcanoPoints.addTo(map);
 };
+
 function addVolcanoWorldwide() {
     if(map.hasLayer(volcanoPoints)){
     removeVolcanoWorldwide();
@@ -62,7 +66,7 @@ function addVolcanoWorldwide() {
         },
     onEachFeature: volcanoSearch
     }).addTo(map);
-};
+   };
 
 
 // Create event listener for the remove Volcanoes Worldwide Button
@@ -177,9 +181,23 @@ map.on('click', onMapClick);*/
 
 //----------------------------------------------------------------Map search
 
+        // flyTo the latitude/longitude + zoom level based on the user selection
+        $("#countries").on("change", function () {
+            var countryData = $(this).val().split(","),
+                MapLat = countryData[0],
+                MapLng = countryData[1],
+                MapZoom = parseInt(countryData[2]);
+            map.flyTo([MapLat, MapLng], MapZoom);
+        });
 
 
 
+
+
+
+
+
+/*
 
 //Search control
 
@@ -187,7 +205,7 @@ var searchCtrl = L.control.fuseSearch()
 searchCtrl.addTo(map);
 
 //  Loading GeoJSON layer and index the features, choosing the properties I want to index
-searchCtrl.indexFeatures(volcano, ['properties/LOCATION']);
+searchCtrl.indexFeatures(volcano, ['properties/LOCATION']);*/
 
 
 

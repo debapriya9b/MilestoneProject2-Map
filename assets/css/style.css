@@ -18,6 +18,20 @@ body {
   text-align: center;
 }
 
+#countries {
+    grid-area: countries;
+    padding-left: 10px;
+    font-size: 1.5vmax;
+    font-weight: bold;
+    color: var(--white);
+    background-color: #3A5274;
+    border-radius: 5px;
+    border: 1px solid var(--black);
+    outline: none;
+}
+
+
+
 .volcano-fact-link {
   color: #17a2b8;
   font-weight: bold;
@@ -43,7 +57,7 @@ body {
   
 }
 .modal-body ul{
-  list-style-image: url('/favicon-16x16.png');
+  list-style-image: url('..images/volcanoIcon.png');
 }
 
 .footer-details {
@@ -57,5 +71,7 @@ body {
 }
 
 
-
+.end-modal-details {
+  padding: 25px;
+}
 
