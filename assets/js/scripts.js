@@ -99,7 +99,7 @@ function filterActiveVol(){
     if(map.hasLayer(volcanoPoints)){
     removeVolcanoWorldwide();
     };
-var volcanoPoints = L.geoJson(volcano, {
+ volcanoPoints = L.geoJson(volcano, {
     pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, geojsonMarkerOptions);
         },
@@ -121,7 +121,7 @@ function filterDormantVol(){
     if(map.hasLayer(volcanoPoints)){
     removeVolcanoWorldwide();
     };
-var volcanoPoints = L.geoJson(volcano, {
+   volcanoPoints = L.geoJson(volcano, {
     pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, geojsonMarkerOptions);
         },
@@ -143,7 +143,7 @@ function filterExtinctVol(){
     if(map.hasLayer(volcanoPoints)){
     removeVolcanoWorldwide();
     };
-var volcanoPoints = L.geoJson(volcano, {
+  volcanoPoints = L.geoJson(volcano, {
     pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, geojsonMarkerOptions);
         },
@@ -190,16 +190,6 @@ map.on('click', onMapClick);*/
             map.flyTo([MapLat, MapLng], MapZoom);
         });
 
-
-/*
-
-//Search control
-
-var searchCtrl = L.control.fuseSearch()
-searchCtrl.addTo(map);
-
-//  Loading GeoJSON layer and index the features, choosing the properties I want to index
-searchCtrl.indexFeatures(volcano, ['properties/LOCATION']);*/
 
 
 

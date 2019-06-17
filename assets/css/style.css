@@ -58,7 +58,7 @@ body {
   
 }
 .modal-body ul{
-  list-style-image: url('..images/volcanoIcon.png');
+  list-style-image: url('images/volcanoIcon.png');
 }
 
 .footer-details {
