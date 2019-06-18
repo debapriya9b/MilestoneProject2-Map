@@ -60,10 +60,6 @@ body {
   
 }
 
-.modal-body ul {
-  list-style-image: url('assets/images/favicon-16x16.png');
-}
-
 .footer-details {
   background-color: #000000;
   height: 3em;
