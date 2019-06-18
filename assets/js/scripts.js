@@ -33,9 +33,36 @@ L.tileLayer('https://api.maptiler.com/maps/streets/{z}/{x}/{y}.png?key=8vFNrApGj
 var geojsonMarkerOptions = {
     radius: 3,
     fillColor: "#FF0000",
-    color: "#FF0000",
+    color: "#000",
     weight: 1,
     opacity: 0.2,
+    fillOpacity: 0.5
+};
+
+var geojsonMarkerOptionsActive = {
+    radius: 4,
+    fillColor: "#FF0000",
+    color: "#000",
+    weight: 1,
+    opacity: 1,
+    fillOpacity: 0.5
+};
+
+var geojsonMarkerOptionsDormant = {
+    radius: 4,
+    fillColor: "#00CC00",
+    color: "#000",
+    weight: 1,
+    opacity: 1,
+    fillOpacity: 0.5
+};
+
+var geojsonMarkerOptionsExtinct = {
+    radius: 4,
+    fillColor: "#3C0033",
+    color: "#000",
+    weight: 1,
+    opacity: 1,
     fillOpacity: 0.5
 };
 
@@ -102,7 +129,7 @@ function filterActiveVol(){
     };
  volcanoPoints = L.geoJson(volcano, {
     pointToLayer: function (feature, latlng) {
-        return L.circleMarker(latlng, geojsonMarkerOptions);
+        return L.circleMarker(latlng, geojsonMarkerOptionsActive);
         },
     onEachFeature: volcanoSearch,
     filter: function (feature, layer) {
@@ -124,7 +151,7 @@ function filterDormantVol(){
     };
    volcanoPoints = L.geoJson(volcano, {
     pointToLayer: function (feature, latlng) {
-        return L.circleMarker(latlng, geojsonMarkerOptions);
+        return L.circleMarker(latlng, geojsonMarkerOptionsDormant);
         },
     onEachFeature: volcanoSearch,
     filter: function (feature, layer) {
@@ -146,7 +173,7 @@ function filterExtinctVol(){
     };
   volcanoPoints = L.geoJson(volcano, {
     pointToLayer: function (feature, latlng) {
-        return L.circleMarker(latlng, geojsonMarkerOptions);
+        return L.circleMarker(latlng, geojsonMarkerOptionsExtinct);
         },
     onEachFeature: volcanoSearch,
     filter: function (feature, layer) {

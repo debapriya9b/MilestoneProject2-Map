@@ -60,8 +60,8 @@ body {
   
 }
 
-.modal-body ul{
-  list-style-image: url('images/volcanoIcon.png');
+.modal-body ul {
+  list-style-image: url('assets/images/favicon-16x16.png');
 }
 
 .footer-details {
