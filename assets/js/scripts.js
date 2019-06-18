@@ -13,6 +13,7 @@ $(document).ready(function(){
 
 //------------------------------------------------Creating map/Tile Layer/Popup
 
+
 //Creating map options
 var mapOptions = {
     center: [40.4168, -3.7038],
@@ -31,11 +32,11 @@ L.tileLayer('https://api.maptiler.com/maps/streets/{z}/{x}/{y}.png?key=8vFNrApGj
 
 var geojsonMarkerOptions = {
     radius: 3,
-    fillColor: "#F08080",
-    color: "#000",
+    fillColor: "#FF0000",
+    color: "#FF0000",
     weight: 1,
     opacity: 0.2,
-    fillOpacity: 0.8
+    fillOpacity: 0.5
 };
 
 function volcanoSearch(feature, layer) {
