@@ -5975,7 +5975,7 @@ var volcano =[
       "LON": 147.12,
       "ELEV": 1280,
       "TYPE_": "Complex v",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -5998,7 +5998,7 @@ var volcano =[
       "LON": 147.875,
       "ELEV": 1548,
       "TYPE_": "Complex v",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -6021,7 +6021,7 @@ var volcano =[
       "LON": 148.121,
       "ELEV": 140,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -6044,7 +6044,7 @@ var volcano =[
       "LON": 148.094,
       "ELEV": 992,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "?"
    }
 },
@@ -6067,7 +6067,7 @@ var volcano =[
       "LON": 148.42,
       "ELEV": 1330,
       "TYPE_": "Complex v",
-      "STATUS": "Unknown",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -6090,7 +6090,7 @@ var volcano =[
       "LON": 149.125,
       "ELEV": 307,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Extinct",
       "TIME_FRAME": "Q"
    }
 },
@@ -6113,7 +6113,7 @@ var volcano =[
       "LON": 149.35,
       "ELEV": 179,
       "TYPE_": "Complex v",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -6136,7 +6136,7 @@ var volcano =[
       "LON": 149.5,
       "ELEV": 368,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -6159,7 +6159,7 @@ var volcano =[
       "LON": 150.108,
       "ELEV": 400,
       "TYPE_": "Caldera",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D3"
    }
 },
@@ -6182,7 +6182,7 @@ var volcano =[
       "LON": 150.03,
       "ELEV": 1155,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -6205,7 +6205,7 @@ var volcano =[
       "LON": 150.088,
       "ELEV": 565,
       "TYPE_": "Volcanic",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "?"
    }
 },
@@ -6228,7 +6228,7 @@ var volcano =[
       "LON": 150.03,
       "ELEV": 564,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -6251,7 +6251,7 @@ var volcano =[
       "LON": 150.5,
       "ELEV": 805,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "?"
    }
 },
@@ -6274,7 +6274,7 @@ var volcano =[
       "LON": 150.52,
       "ELEV": 742,
       "TYPE_": "Caldera",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D2"
    }
 },
@@ -6297,7 +6297,7 @@ var volcano =[
       "LON": 150.9,
       "ELEV": 15,
       "TYPE_": "Hydrother",
-      "STATUS": "Unknown",
+      "STATUS": "Extinct",
       "TIME_FRAME": "?"
    }
 },
@@ -6320,7 +6320,7 @@ var volcano =[
       "LON": 151.1,
       "ELEV": 1148,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D6"
    }
 },
@@ -6343,7 +6343,7 @@ var volcano =[
       "LON": 151.23,
       "ELEV": 2248,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D3"
    }
 },
@@ -6366,7 +6366,7 @@ var volcano =[
       "LON": 151.33,
       "ELEV": 2334,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -6389,7 +6389,7 @@ var volcano =[
       "LON": 151.158,
       "ELEV": 858,
       "TYPE_": "Caldera",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D2"
    }
 },
@@ -6412,7 +6412,7 @@ var volcano =[
       "LON": 152.203,
       "ELEV": 688,
       "TYPE_": "Pyroclast",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -6435,7 +6435,7 @@ var volcano =[
       "LON": 143.15,
       "ELEV": 3568,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "?"
    }
 },
@@ -6481,7 +6481,7 @@ var volcano =[
       "LON": 145.858,
       "ELEV": 3384,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "?"
    }
 },
@@ -6504,7 +6504,7 @@ var volcano =[
       "LON": 146.708,
       "ELEV": 0,
       "TYPE_": "Explosion",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -6527,7 +6527,7 @@ var volcano =[
       "LON": 147.57,
       "ELEV": 850,
       "TYPE_": "Pyroclast",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -6550,7 +6550,7 @@ var volcano =[
       "LON": 148.15,
       "ELEV": 1680,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D2"
    }
 },
@@ -6596,7 +6596,7 @@ var volcano =[
       "LON": 148.13,
       "ELEV": 808,
       "TYPE_": "Hydrother",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "?"
    }
 },
@@ -6619,7 +6619,7 @@ var volcano =[
       "LON": 148.33,
       "ELEV": 1342,
       "TYPE_": "Volcanic",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -6642,7 +6642,7 @@ var volcano =[
       "LON": 149.07,
       "ELEV": 1925,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D2"
    }
 },
@@ -6665,7 +6665,7 @@ var volcano =[
       "LON": 149.13,
       "ELEV": 370,
       "TYPE_": "Unknown",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -6688,7 +6688,7 @@ var volcano =[
       "LON": 149.075,
       "ELEV": 640,
       "TYPE_": "Pyroclast",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D2"
    }
 },
@@ -6711,7 +6711,7 @@ var volcano =[
       "LON": 150.35,
       "ELEV": 220,
       "TYPE_": "Volcanic",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -6757,7 +6757,7 @@ var volcano =[
       "LON": 150.88,
       "ELEV": 500,
       "TYPE_": "Volcanic",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D6"
    }
 },
@@ -6780,7 +6780,7 @@ var volcano =[
       "LON": 152.642,
       "ELEV": 700,
       "TYPE_": "Volcanic",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "?"
    }
 },
@@ -6803,7 +6803,7 @@ var volcano =[
       "LON": 153.65,
       "ELEV": 450,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D7"
    }
 },
@@ -6826,7 +6826,7 @@ var volcano =[
       "LON": 154.93,
       "ELEV": 2200,
       "TYPE_": "Lava cone",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -6849,7 +6849,7 @@ var volcano =[
       "LON": 154.98,
       "ELEV": 2715,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -6895,7 +6895,7 @@ var volcano =[
       "LON": 155.195,
       "ELEV": 1750,
       "TYPE_": "Lava cone",
-      "STATUS": "Unknown",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -6918,7 +6918,7 @@ var volcano =[
       "LON": 155.608,
       "ELEV": 2210,
       "TYPE_": "Volcanic",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -6941,7 +6941,7 @@ var volcano =[
       "LON": 155.62,
       "ELEV": 1887,
       "TYPE_": "Pyroclast",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D7"
    }
 },
@@ -6964,7 +6964,7 @@ var volcano =[
       "LON": 156.6,
       "ELEV": 760,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "Q"
    }
 },
@@ -6987,7 +6987,7 @@ var volcano =[
       "LON": 156.52,
       "ELEV": 335,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "?"
    }
 },
@@ -7010,7 +7010,7 @@ var volcano =[
       "LON": 157.03,
       "ELEV": -700,
       "TYPE_": "Submarine",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -7033,7 +7033,7 @@ var volcano =[
       "LON": 157.17,
       "ELEV": 0,
       "TYPE_": "Submarine",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -7056,7 +7056,7 @@ var volcano =[
       "LON": 157.95,
       "ELEV": -20,
       "TYPE_": "Submarine",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -7079,7 +7079,7 @@ var volcano =[
       "LON": 159.73,
       "ELEV": 1000,
       "TYPE_": "Volcanic",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "?"
    }
 },
@@ -7102,7 +7102,7 @@ var volcano =[
       "LON": 159.82,
       "ELEV": 510,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D3"
    }
 },
@@ -7125,7 +7125,7 @@ var volcano =[
       "LON": 165.8,
       "ELEV": 851,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -7148,7 +7148,7 @@ var volcano =[
       "LON": 167.67,
       "ELEV": 411,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -7194,7 +7194,7 @@ var volcano =[
       "LON": 167.5,
       "ELEV": 797,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -7217,7 +7217,7 @@ var volcano =[
       "LON": 168.05,
       "ELEV": 1028,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -7240,7 +7240,7 @@ var volcano =[
       "LON": 167.83,
       "ELEV": 1496,
       "TYPE_": "Shield vo",
-      "STATUS": "Unknown",
+      "STATUS": "Active",
       "TIME_FRAME": "D3"
    }
 },
@@ -7263,7 +7263,7 @@ var volcano =[
       "LON": 168.12,
       "ELEV": 1334,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -7286,7 +7286,7 @@ var volcano =[
       "LON": 168.346,
       "ELEV": 1413,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -7309,7 +7309,7 @@ var volcano =[
       "LON": 168.37,
       "ELEV": -34,
       "TYPE_": "Caldera",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -7378,7 +7378,7 @@ var volcano =[
       "LON": 168.536,
       "ELEV": -2,
       "TYPE_": "Caldera",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -7424,7 +7424,7 @@ var volcano =[
       "LON": 169.23,
       "ELEV": 837,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D3"
    }
 },
@@ -7447,7 +7447,7 @@ var volcano =[
       "LON": 169.425,
       "ELEV": 361,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -7470,7 +7470,7 @@ var volcano =[
       "LON": 169.83,
       "ELEV": 852,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Extinct",
       "TIME_FRAME": "?"
    }
 },
@@ -7493,7 +7493,7 @@ var volcano =[
       "LON": 171.32,
       "ELEV": 177,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D2"
    }
 },
@@ -7516,7 +7516,7 @@ var volcano =[
       "LON": 172.05,
       "ELEV": 297,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D2"
    }
 },
@@ -7585,7 +7585,7 @@ var volcano =[
       "LON": 93.875,
       "ELEV": 305,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -7608,7 +7608,7 @@ var volcano =[
       "LON": 95.33,
       "ELEV": 584,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Extinct",
       "TIME_FRAME": "U"
    }
 },
@@ -7631,7 +7631,7 @@ var volcano =[
       "LON": 95.6,
       "ELEV": 1726,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -7654,7 +7654,7 @@ var volcano =[
       "LON": 96.33,
       "ELEV": 2780,
       "TYPE_": "Complex v",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D2"
    }
 },
@@ -7746,7 +7746,7 @@ var volcano =[
       "LON": 98.47,
       "ELEV": 2212,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D3"
    }
 },
@@ -7769,7 +7769,7 @@ var volcano =[
       "LON": 98.392,
       "ELEV": 2460,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Active",
       "TIME_FRAME": "U"
    }
 },
@@ -7792,7 +7792,7 @@ var volcano =[
       "LON": 98.83,
       "ELEV": 2157,
       "TYPE_": "Caldera",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -7815,7 +7815,7 @@ var volcano =[
       "LON": 98.93,
       "ELEV": 1100,
       "TYPE_": "Fumarole",
-      "STATUS": "Unknown",
+      "STATUS": "Active",
       "TIME_FRAME": "?"
    }
 },
@@ -7884,7 +7884,7 @@ var volcano =[
       "LON": 99.982,
       "ELEV": 2912,
       "TYPE_": "Complex v",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -7907,7 +7907,7 @@ var volcano =[
       "LON": 100.471,
       "ELEV": 2891,
       "TYPE_": "Complex v",
-      "STATUS": "Unknown",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -7930,7 +7930,7 @@ var volcano =[
       "LON": 100.317,
       "ELEV": 2438,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D2"
    }
 },
@@ -7953,7 +7953,7 @@ var volcano =[
       "LON": 100.679,
       "ELEV": 2896,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -7976,7 +7976,7 @@ var volcano =[
       "LON": 101.27,
       "ELEV": 3805,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -8022,7 +8022,7 @@ var volcano =[
       "LON": 101.73,
       "ELEV": 2508,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D2"
    }
 },
@@ -8045,7 +8045,7 @@ var volcano =[
       "LON": 101.63,
       "ELEV": 2151,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Extinct",
       "TIME_FRAME": "U"
    }
 },
@@ -8091,7 +8091,7 @@ var volcano =[
       "LON": 102.18,
       "ELEV": 1958,
       "TYPE_": "Compound",
-      "STATUS": "Unknown",
+      "STATUS": "Extinct",
       "TIME_FRAME": "U"
    }
 },
@@ -8137,7 +8137,7 @@ var volcano =[
       "LON": 102.62,
       "ELEV": 1952,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D2"
    }
 },
@@ -8160,7 +8160,7 @@ var volcano =[
       "LON": 103.13,
       "ELEV": 3173,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -8183,7 +8183,7 @@ var volcano =[
       "LON": 103.3,
       "ELEV": 2817,
       "TYPE_": "Unknown",
-      "STATUS": "Unknown",
+      "STATUS": "Active",
       "TIME_FRAME": "?"
    }
 },
@@ -8206,7 +8206,7 @@ var volcano =[
       "LON": 103.62,
       "ELEV": 2055,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Active",
       "TIME_FRAME": "U"
    }
 },
@@ -8252,7 +8252,7 @@ var volcano =[
       "LON": 103.92,
       "ELEV": 1881,
       "TYPE_": "Caldera",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "?"
    }
 },
@@ -8275,7 +8275,7 @@ var volcano =[
       "LON": 104.32,
       "ELEV": 1719,
       "TYPE_": "Caldera",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -8298,7 +8298,7 @@ var volcano =[
       "LON": 104.27,
       "ELEV": 1000,
       "TYPE_": "Maars",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D2"
    }
 },
@@ -8321,7 +8321,7 @@ var volcano =[
       "LON": 104.6,
       "ELEV": 1040,
       "TYPE_": "Caldera",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -8344,7 +8344,7 @@ var volcano =[
       "LON": 105.625,
       "ELEV": 1281,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -8367,7 +8367,7 @@ var volcano =[
       "LON": 105.423,
       "ELEV": 813,
       "TYPE_": "Caldera",
-      "STATUS": "Unknown",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -8390,7 +8390,7 @@ var volcano =[
       "LON": 105.97,
       "ELEV": 1778,
       "TYPE_": "Caldera",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -8413,7 +8413,7 @@ var volcano =[
       "LON": 106.042,
       "ELEV": 1778,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Extinct",
       "TIME_FRAME": "U"
    }
 },
@@ -8459,7 +8459,7 @@ var volcano =[
       "LON": 106.68,
       "ELEV": 1699,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -8482,7 +8482,7 @@ var volcano =[
       "LON": 106.73,
       "ELEV": 2211,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D2"
    }
 },
@@ -8505,7 +8505,7 @@ var volcano =[
       "LON": 106.98,
       "ELEV": 2958,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D2"
    }
 },
@@ -8528,7 +8528,7 @@ var volcano =[
       "LON": 107.37,
       "ELEV": 2434,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Extinct",
       "TIME_FRAME": "U"
    }
 },
@@ -8551,7 +8551,7 @@ var volcano =[
       "LON": 107.63,
       "ELEV": 2182,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Active",
       "TIME_FRAME": "U"
    }
 },
@@ -8574,7 +8574,7 @@ var volcano =[
       "LON": 107.6,
       "ELEV": 2084,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -8597,7 +8597,7 @@ var volcano =[
       "LON": 107.73,
       "ELEV": 2665,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D2"
    }
 },
@@ -8666,7 +8666,7 @@ var volcano =[
       "LON": 107.83,
       "ELEV": 2249,
       "TYPE_": "Complex v",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D3"
    }
 },
@@ -8689,7 +8689,7 @@ var volcano =[
       "LON": 107.95,
       "ELEV": 1684,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -8712,7 +8712,7 @@ var volcano =[
       "LON": 108.05,
       "ELEV": 2168,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -8781,7 +8781,7 @@ var volcano =[
       "LON": 108.4,
       "ELEV": 3078,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D2"
    }
 },
@@ -8804,7 +8804,7 @@ var volcano =[
       "LON": 109.208,
       "ELEV": 3432,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -8827,7 +8827,7 @@ var volcano =[
       "LON": 109.92,
       "ELEV": 2565,
       "TYPE_": "Complex v",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -8850,7 +8850,7 @@ var volcano =[
       "LON": 109.992,
       "ELEV": 3151,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -8873,7 +8873,7 @@ var volcano =[
       "LON": 110.058,
       "ELEV": 3371,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D4"
    }
 },
@@ -8896,7 +8896,7 @@ var volcano =[
       "LON": 110.33,
       "ELEV": 2050,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Extinct",
       "TIME_FRAME": "U"
    }
 },
@@ -8919,7 +8919,7 @@ var volcano =[
       "LON": 110.4,
       "ELEV": 1894,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -8942,7 +8942,7 @@ var volcano =[
       "LON": 110.43,
       "ELEV": 3145,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D4"
    }
 },
@@ -8965,7 +8965,7 @@ var volcano =[
       "LON": 110.442,
       "ELEV": 2911,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -8988,7 +8988,7 @@ var volcano =[
       "LON": 111.192,
       "ELEV": 3265,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -9034,7 +9034,7 @@ var volcano =[
       "LON": 112.308,
       "ELEV": 1731,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -9057,7 +9057,7 @@ var volcano =[
       "LON": 112.45,
       "ELEV": 2651,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Extinct",
       "TIME_FRAME": "U"
    }
 },
@@ -9080,7 +9080,7 @@ var volcano =[
       "LON": 112.58,
       "ELEV": 3339,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D2"
    }
 },
@@ -9103,7 +9103,7 @@ var volcano =[
       "LON": 112.63,
       "ELEV": 1653,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -9126,7 +9126,7 @@ var volcano =[
       "LON": 112.68,
       "ELEV": 680,
       "TYPE_": "Maars",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -9149,7 +9149,7 @@ var volcano =[
       "LON": 112.92,
       "ELEV": 3676,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -9172,7 +9172,7 @@ var volcano =[
       "LON": 112.95,
       "ELEV": 2329,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -9195,7 +9195,7 @@ var volcano =[
       "LON": 113.342,
       "ELEV": 1651,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D3"
    }
 },
@@ -9218,7 +9218,7 @@ var volcano =[
       "LON": 113.58,
       "ELEV": 539,
       "TYPE_": "Complex v",
-      "STATUS": "Unknown",
+      "STATUS": "Extinct",
       "TIME_FRAME": "?"
    }
 },
@@ -9264,7 +9264,7 @@ var volcano =[
       "LON": 114.042,
       "ELEV": 3332,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -9287,7 +9287,7 @@ var volcano =[
       "LON": 114.242,
       "ELEV": 2386,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -9310,7 +9310,7 @@ var volcano =[
       "LON": 114.37,
       "ELEV": 1247,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "?"
    }
 },
@@ -9333,7 +9333,7 @@ var volcano =[
       "LON": 115.13,
       "ELEV": 2276,
       "TYPE_": "Caldera",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -9356,7 +9356,7 @@ var volcano =[
       "LON": 115.375,
       "ELEV": 1717,
       "TYPE_": "Caldera",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -9379,7 +9379,7 @@ var volcano =[
       "LON": 115.508,
       "ELEV": 3142,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -9402,7 +9402,7 @@ var volcano =[
       "LON": 116.47,
       "ELEV": 3726,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -9425,7 +9425,7 @@ var volcano =[
       "LON": 118,
       "ELEV": 2850,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -9448,7 +9448,7 @@ var volcano =[
       "LON": 119.058,
       "ELEV": 1949,
       "TYPE_": "Complex v",
-      "STATUS": "Unknown",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -9494,7 +9494,7 @@ var volcano =[
       "LON": 120.025,
       "ELEV": 903,
       "TYPE_": "Caldera",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -9517,7 +9517,7 @@ var volcano =[
       "LON": 120.48,
       "ELEV": 1675,
       "TYPE_": "Unknown",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -9540,7 +9540,7 @@ var volcano =[
       "LON": 120.52,
       "ELEV": 2100,
       "TYPE_": "Lava dome",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -9563,7 +9563,7 @@ var volcano =[
       "LON": 120.95,
       "ELEV": 2245,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -9586,7 +9586,7 @@ var volcano =[
       "LON": 120.98,
       "ELEV": 1559,
       "TYPE_": "Complex v",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D2"
    }
 },
@@ -9609,7 +9609,7 @@ var volcano =[
       "LON": 121.18,
       "ELEV": 2124,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -9632,7 +9632,7 @@ var volcano =[
       "LON": 121.63,
       "ELEV": 637,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -9655,7 +9655,7 @@ var volcano =[
       "LON": 121.77,
       "ELEV": 1500,
       "TYPE_": "Caldera",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -9678,7 +9678,7 @@ var volcano =[
       "LON": 121.78,
       "ELEV": 750,
       "TYPE_": "Fumarole",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "?"
    }
 },
@@ -9701,7 +9701,7 @@ var volcano =[
       "LON": 121.83,
       "ELEV": 1640,
       "TYPE_": "Complex v",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -9724,7 +9724,7 @@ var volcano =[
       "LON": 121.708,
       "ELEV": 875,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -9747,7 +9747,7 @@ var volcano =[
       "LON": 122.45,
       "ELEV": 1703,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D2"
    }
 },
@@ -9770,7 +9770,7 @@ var volcano =[
       "LON": 122.671,
       "ELEV": 1100,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -9793,7 +9793,7 @@ var volcano =[
       "LON": 122.775,
       "ELEV": 1703,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -9862,7 +9862,7 @@ var volcano =[
       "LON": 123.258,
       "ELEV": 1659,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -9885,7 +9885,7 @@ var volcano =[
       "LON": 123.505,
       "ELEV": 1423,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Active",
       "TIME_FRAME": "D2"
    }
 },
@@ -9954,7 +9954,7 @@ var volcano =[
       "LON": 123.579,
       "ELEV": 748,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D3"
    }
 },
@@ -9977,7 +9977,7 @@ var volcano =[
       "LON": 124.148,
       "ELEV": 862,
       "TYPE_": "Complex v",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -10023,7 +10023,7 @@ var volcano =[
       "LON": 124.22,
       "ELEV": -2850,
       "TYPE_": "Submarine",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "?"
    }
 },
@@ -10069,7 +10069,7 @@ var volcano =[
       "LON": 126.65,
       "ELEV": 282,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D5"
    }
 },
@@ -10092,7 +10092,7 @@ var volcano =[
       "LON": 128.675,
       "ELEV": 868,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D3"
    }
 },
@@ -10115,7 +10115,7 @@ var volcano =[
       "LON": 129.125,
       "ELEV": 655,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D2"
    }
 },
@@ -10161,7 +10161,7 @@ var volcano =[
       "LON": 130,
       "ELEV": 641,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D2"
    }
 },
@@ -10184,7 +10184,7 @@ var volcano =[
       "LON": 130.292,
       "ELEV": 282,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -10207,7 +10207,7 @@ var volcano =[
       "LON": 129.871,
       "ELEV": 640,
       "TYPE_": "Caldera",
-      "STATUS": "Unknown",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -10230,7 +10230,7 @@ var volcano =[
       "LON": 121.608,
       "ELEV": 507,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -10253,7 +10253,7 @@ var volcano =[
       "LON": 124.42,
       "ELEV": 1795,
       "TYPE_": "Complex v",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D3"
    }
 },
@@ -10276,7 +10276,7 @@ var volcano =[
       "LON": 124.725,
       "ELEV": 1784,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -10299,7 +10299,7 @@ var volcano =[
       "LON": 124.73,
       "ELEV": 1549,
       "TYPE_": "Caldera",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -10322,7 +10322,7 @@ var volcano =[
       "LON": 124.83,
       "ELEV": 1202,
       "TYPE_": "Caldera",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "?"
    }
 },
@@ -10345,7 +10345,7 @@ var volcano =[
       "LON": 124.792,
       "ELEV": 1580,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -10368,7 +10368,7 @@ var volcano =[
       "LON": 124.858,
       "ELEV": 1324,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -10391,7 +10391,7 @@ var volcano =[
       "LON": 125.03,
       "ELEV": 1995,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -10414,7 +10414,7 @@ var volcano =[
       "LON": 125.2,
       "ELEV": 1149,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D3"
    }
 },
@@ -10460,7 +10460,7 @@ var volcano =[
       "LON": 125.48,
       "ELEV": 1784,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -10483,7 +10483,7 @@ var volcano =[
       "LON": 125.491,
       "ELEV": -5,
       "TYPE_": "Submarine",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D2"
    }
 },
@@ -10506,7 +10506,7 @@ var volcano =[
       "LON": 125.5,
       "ELEV": 1320,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -10529,7 +10529,7 @@ var volcano =[
       "LON": 127.87,
       "ELEV": 1087,
       "TYPE_": "Complex v",
-      "STATUS": "Unknown",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -10552,7 +10552,7 @@ var volcano =[
       "LON": 127.63,
       "ELEV": 1325,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Active",
       "TIME_FRAME": "D2"
    }
 },
@@ -10575,7 +10575,7 @@ var volcano =[
       "LON": 127.52,
       "ELEV": 1635,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -10621,7 +10621,7 @@ var volcano =[
       "LON": 127.32,
       "ELEV": 1130,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -10644,7 +10644,7 @@ var volcano =[
       "LON": 127.325,
       "ELEV": 1715,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -10667,7 +10667,7 @@ var volcano =[
       "LON": 127.4,
       "ELEV": 690,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Active",
       "TIME_FRAME": "?"
    }
 },
@@ -10690,7 +10690,7 @@ var volcano =[
       "LON": 127.4,
       "ELEV": 1357,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D1"
    }
 },
@@ -10713,7 +10713,7 @@ var volcano =[
       "LON": 117.88,
       "ELEV": 531,
       "TYPE_": "Cone",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "?"
    }
 },
@@ -10736,7 +10736,7 @@ var volcano =[
       "LON": 121.07,
       "ELEV": 440,
       "TYPE_": "Pyroclast",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D3"
    }
 },
@@ -10759,7 +10759,7 @@ var volcano =[
       "LON": 125.375,
       "ELEV": 852,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Extinct",
       "TIME_FRAME": "U"
    }
 },
@@ -10782,7 +10782,7 @@ var volcano =[
       "LON": 125.108,
       "ELEV": 2293,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -10805,7 +10805,7 @@ var volcano =[
       "LON": 125.273,
       "ELEV": 2954,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -10851,7 +10851,7 @@ var volcano =[
       "LON": 124.32,
       "ELEV": 1940,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -10874,7 +10874,7 @@ var volcano =[
       "LON": 124.47,
       "ELEV": 2158,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -10897,7 +10897,7 @@ var volcano =[
       "LON": 124.5,
       "ELEV": 2815,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D2"
    }
 },
@@ -10920,7 +10920,7 @@ var volcano =[
       "LON": 124.8,
       "ELEV": 2824,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -10943,7 +10943,7 @@ var volcano =[
       "LON": 125.068,
       "ELEV": 646,
       "TYPE_": "Tuff cone",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D3"
    }
 },
@@ -10966,7 +10966,7 @@ var volcano =[
       "LON": 123.63,
       "ELEV": 2435,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -10989,7 +10989,7 @@ var volcano =[
       "LON": 124.92,
       "ELEV": 2300,
       "TYPE_": "Compound",
-      "STATUS": "Unknown",
+      "STATUS": "Active",
       "TIME_FRAME": "U"
    }
 },
@@ -11012,7 +11012,7 @@ var volcano =[
       "LON": 124.673,
       "ELEV": 1332,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D2"
    }
 },
@@ -11035,7 +11035,7 @@ var volcano =[
       "LON": 125.52,
       "ELEV": 524,
       "TYPE_": "Compound",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -11058,7 +11058,7 @@ var volcano =[
       "LON": 123.175,
       "ELEV": 1904,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -11081,7 +11081,7 @@ var volcano =[
       "LON": 123.132,
       "ELEV": 2435,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -11104,7 +11104,7 @@ var volcano =[
       "LON": 123.22,
       "ELEV": 1879,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -11127,7 +11127,7 @@ var volcano =[
       "LON": 123.23,
       "ELEV": 1535,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -11150,7 +11150,7 @@ var volcano =[
       "LON": 125.22,
       "ELEV": 945,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -11173,7 +11173,7 @@ var volcano =[
       "LON": 124.853,
       "ELEV": 800,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -11196,7 +11196,7 @@ var volcano =[
       "LON": 124.534,
       "ELEV": 1187,
       "TYPE_": "Compound",
-      "STATUS": "Unknown",
+      "STATUS": "Active",
       "TIME_FRAME": "D2"
    }
 },
@@ -11219,7 +11219,7 @@ var volcano =[
       "LON": 124.05,
       "ELEV": 1565,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -11242,7 +11242,7 @@ var volcano =[
       "LON": 123.958,
       "ELEV": 1102,
       "TYPE_": "Compound",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -11265,7 +11265,7 @@ var volcano =[
       "LON": 123.685,
       "ELEV": 2462,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Active",
       "TIME_FRAME": "D1"
    }
 },
@@ -11288,7 +11288,7 @@ var volcano =[
       "LON": 123.6,
       "ELEV": 1328,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -11311,7 +11311,7 @@ var volcano =[
       "LON": 123.597,
       "ELEV": 1548,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Extinct",
       "TIME_FRAME": "U1"
    }
 },
@@ -11334,7 +11334,7 @@ var volcano =[
       "LON": 123.457,
       "ELEV": 1196,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "D5"
    }
 },
@@ -11357,7 +11357,7 @@ var volcano =[
       "LON": 123.37,
       "ELEV": 1966,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -11380,7 +11380,7 @@ var volcano =[
       "LON": 122.792,
       "ELEV": 1544,
       "TYPE_": "Compound",
-      "STATUS": "Unknown",
+      "STATUS": "Extinct",
       "TIME_FRAME": "U"
    }
 },
@@ -11403,7 +11403,7 @@ var volcano =[
       "LON": 122.018,
       "ELEV": 1157,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Extinct",
       "TIME_FRAME": "U"
    }
 },
@@ -11449,7 +11449,7 @@ var volcano =[
       "LON": 120.893,
       "ELEV": 501,
       "TYPE_": "Stratovol",
-      "STATUS": "Unknown",
+      "STATUS": "Extinct",
       "TIME_FRAME": "Q"
    }
 },
@@ -11472,7 +11472,7 @@ var volcano =[
       "LON": 121.48,
       "ELEV": 2177,
       "TYPE_": "Complex v",
-      "STATUS": "Unknown",
+      "STATUS": "Dormant",
       "TIME_FRAME": "U"
    }
 },
@@ -21270,7 +21270,7 @@ var volcano =[
       "LON": -131.28,
       "ELEV": 1820,
       "TYPE_": "Subglacia",
-      "STATUS": "Dormant",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -23133,7 +23133,7 @@ var volcano =[
       "LON": -155.27,
       "ELEV": -980,
       "TYPE_": "Submarine",
-      "STATUS": "Active",
+      "STATUS": "Unknown",
       "TIME_FRAME": "U"
    }
 },
@@ -23156,7 +23156,7 @@ var volcano =[
       "LON": -155.292,
       "ELEV": 1222,
       "TYPE_": "Shield vo",
-      "STATUS": "Active",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -23202,7 +23202,7 @@ var volcano =[
       "LON": -155.47,
       "ELEV": 4206,
       "TYPE_": "Shield vo",
-      "STATUS": "Dormant",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D7"
    }
 },
@@ -24444,7 +24444,7 @@ var volcano =[
       "LON": -90.88,
       "ELEV": 3763,
       "TYPE_": "Stratovol",
-      "STATUS": "Active",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -31942,7 +31942,7 @@ var volcano =[
       "LON": -17.83,
       "ELEV": 2426,
       "TYPE_": "Stratovol",
-      "STATUS": "Active",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },
@@ -32402,7 +32402,7 @@ var volcano =[
       "LON": 167.17,
       "ELEV": 3794,
       "TYPE_": "Stratovol",
-      "STATUS": "Active",
+      "STATUS": "Unknown",
       "TIME_FRAME": "D1"
    }
 },

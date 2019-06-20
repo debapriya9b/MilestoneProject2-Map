@@ -1,4 +1,3 @@
-
 /* global L */
 
 
@@ -7,9 +6,9 @@
 
 //Modal will open with page load
 
-$(document).ready(function(){
-        $("#myModal").modal('show');
-    });
+$(document).ready(function() {
+    $("#myModal").modal('show');
+});
 
 //------------------------------------------------Creating map/Tile Layer/Popup
 
@@ -21,10 +20,10 @@ var mapOptions = {
     minZoom: 2,
     maxZoom: 18,
     maxBounds: [
-                [-75, -190],
-                [90, 190]
-            ],
-            maxBoundsViscosity: 0.5,
+        [-75, -190],
+        [90, 190]
+    ],
+    maxBoundsViscosity: 0.5,
 }
 
 // Creating a map object
@@ -72,7 +71,7 @@ var geojsonMarkerOptionsExtinct = {
 };
 
 function volcanoSearch(feature, layer) {
-    layer.bindPopup("<p>Name: " + feature.properties.NAME_ + "</p><p>Type: " + feature.properties.TYPE_ + "</p><p>Location: "+ feature.properties.LOCATION +"</p>");    //LOCATION.layer = layer;
+    layer.bindPopup("<p>Name: " + feature.properties.NAME_ + "</p><p>Type: " + feature.properties.TYPE_ + "</p><p>Location: " + feature.properties.LOCATION + "</p>"); //LOCATION.layer = layer;
 
 };
 
@@ -90,16 +89,16 @@ function addVolcanoWorldwide() {
 };
 
 function addVolcanoWorldwide() {
-    if(map.hasLayer(volcanoPoints)){
-    removeVolcanoWorldwide();
+    if (map.hasLayer(volcanoPoints)) {
+        removeVolcanoWorldwide();
     };
     volcanoPoints = L.geoJson(volcano, {
-        pointToLayer: function (feature, latlng) {
-        return L.circleMarker(latlng, geojsonMarkerOptions);
+        pointToLayer: function(feature, latlng) {
+            return L.circleMarker(latlng, geojsonMarkerOptions);
         },
-    onEachFeature: volcanoSearch
+        onEachFeature: volcanoSearch
     }).addTo(map);
-   };
+};
 
 
 // Create event listener for the remove Volcanoes Worldwide Button
@@ -113,10 +112,11 @@ function removeVolcanoWorldwide() {
 document.getElementById("toggleButton").addEventListener("click", toggleVolcanoes);
 
 // Toggle Volcanoes
-function toggleVolcanoes(){
-    if(map.hasLayer(volcanoPoints)){
+function toggleVolcanoes() {
+    if (map.hasLayer(volcanoPoints)) {
         removeVolcanoWorldwide();
-    } else {
+    }
+    else {
         addVolcanoWorldwide();
     }
 };
@@ -128,19 +128,19 @@ document.getElementById("filterActiveVol").addEventListener("click", filterActiv
 
 
 // Function to update volcanoPoints to filtered subset of data showing Active volcanoes
-function filterActiveVol(){
-    if(map.hasLayer(volcanoPoints)){
-    removeVolcanoWorldwide();
+function filterActiveVol() {
+    if (map.hasLayer(volcanoPoints)) {
+        removeVolcanoWorldwide();
     };
- volcanoPoints = L.geoJson(volcano, {
-    pointToLayer: function (feature, latlng) {
-        return L.circleMarker(latlng, geojsonMarkerOptionsActive);
+    volcanoPoints = L.geoJson(volcano, {
+        pointToLayer: function(feature, latlng) {
+            return L.circleMarker(latlng, geojsonMarkerOptionsActive);
         },
-    onEachFeature: volcanoSearch,
-    filter: function (feature, layer) {
+        onEachFeature: volcanoSearch,
+        filter: function(feature, layer) {
             return feature.properties.STATUS == "Active";
-    }
-}).addTo(map);
+        }
+    }).addTo(map);
 }
 
 //----------------------------------------------------------Filtering to show Dormant Volcanoes
@@ -150,19 +150,19 @@ document.getElementById("filterDormantVol").addEventListener("click", filterDorm
 
 
 // Function to update volcanoPoints to filtered subset of data showing Dormant volcanoes
-function filterDormantVol(){
-    if(map.hasLayer(volcanoPoints)){
-    removeVolcanoWorldwide();
+function filterDormantVol() {
+    if (map.hasLayer(volcanoPoints)) {
+        removeVolcanoWorldwide();
     };
-   volcanoPoints = L.geoJson(volcano, {
-    pointToLayer: function (feature, latlng) {
-        return L.circleMarker(latlng, geojsonMarkerOptionsDormant);
+    volcanoPoints = L.geoJson(volcano, {
+        pointToLayer: function(feature, latlng) {
+            return L.circleMarker(latlng, geojsonMarkerOptionsDormant);
         },
-    onEachFeature: volcanoSearch,
-    filter: function (feature, layer) {
+        onEachFeature: volcanoSearch,
+        filter: function(feature, layer) {
             return feature.properties.STATUS == "Dormant";
-    }
-}).addTo(map);
+        }
+    }).addTo(map);
 }
 
 //----------------------------------------------------------Filtering to show Extinct Volcanoes
@@ -172,19 +172,19 @@ document.getElementById("filterExtinctVol").addEventListener("click", filterExti
 
 
 // Function to update volcanoPoints to filtered subset of data showing Extinct volcanoes
-function filterExtinctVol(){
-    if(map.hasLayer(volcanoPoints)){
-    removeVolcanoWorldwide();
+function filterExtinctVol() {
+    if (map.hasLayer(volcanoPoints)) {
+        removeVolcanoWorldwide();
     };
-  volcanoPoints = L.geoJson(volcano, {
-    pointToLayer: function (feature, latlng) {
-        return L.circleMarker(latlng, geojsonMarkerOptionsExtinct);
+    volcanoPoints = L.geoJson(volcano, {
+        pointToLayer: function(feature, latlng) {
+            return L.circleMarker(latlng, geojsonMarkerOptionsExtinct);
         },
-    onEachFeature: volcanoSearch,
-    filter: function (feature, layer) {
+        onEachFeature: volcanoSearch,
+        filter: function(feature, layer) {
             return feature.properties.STATUS == "Extinct";
-    }
-}).addTo(map);
+        }
+    }).addTo(map);
 }
 
 
@@ -214,16 +214,46 @@ map.on('click', onMapClick);*/
 
 //----------------------------------------------------------------Map search
 
-        // flyTo the latitude/longitude + zoom level based on the user selection
-        $("#countries").on("change", function () {
-            var countryData = $(this).val().split(","),
-                MapLat = countryData[0],
-                MapLng = countryData[1],
-                MapZoom = parseInt(countryData[2]);
-            map.flyTo([MapLat, MapLng], MapZoom);
-        });
+// flyTo the latitude/longitude + zoom level based on the user selection
+$("#countries").on("change", function() {
+    var countryData = $(this).val().split(","),
+        MapLat = countryData[0],
+        MapLng = countryData[1],
+        MapZoom = parseInt(countryData[2]);
+    map.flyTo([MapLat, MapLng], MapZoom);
+});
 
 
+//-----------Adding marker cluster
+/*
+var markers = L.markerClusterGroup({ chunkedLoading: true });
+
+L.markerClusterGroup({ chunkedLoading: true });
+for (var i = 0; i < volcanoPoints.length; i++) {
+    var a = volcanoPoints[i];
+    var title = a[2];
+    var marker = L.marker(L.latLng(a[0], a[1]), {
+        title: title
+    });
+    marker.bindPopup(title);
+    markers.addLayer(marker);
+}
+map.addLayer(markers);
+*/
+
+var markers = L.markerClusterGroup();
+markers.addLayer(L.marker(getRandomLatLng(map)));
+map.addLayer(markers);
 
 
+//magnified glass
 
+
+var magnifyingGlass = L.magnifyingGlass({
+    zoomOffset: 3,
+    layers: [
+      L.tileLayer('https://api.maptiler.com/maps/streets/{z}/{x}/{y}.png?key=8vFNrApGjV6jRicu4ins')
+    ]
+  });
+
+  map.addLayer(magnifyingGlass);
