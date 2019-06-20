@@ -77,12 +77,33 @@ body {
 }
 
 
+@media only screen and (max-width: 767px) {
+  #countries {
+    grid-area: countries;
+    font-size: 1.5vmax;
+    font-weight: bold;
+    color: #000000;
+    background-color: #ffffff;
+    border: 1px solid #17a2b8;
+    outline: none;
+    text-align: right;
+    border-radius: 20px;
+  }
+
+}
 
 
+@media only screen and (max-width: 767px) {
+  .modal-body-details {
+    font-size: 15px;
+  }
+}
 
-
-
-
+@media only screen and (max-width: 767px) {
+  .modal-title {
+    font-size: 25px;
+  }
+}
 
 
 
@@ -98,4 +119,3 @@ body {
 @media only screen and (max-width: 767px) and (orientation: portrait) {
     /* portrait phones 
 }*/
-
