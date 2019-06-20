@@ -29,6 +29,8 @@ var mapOptions = {
 // Creating a map object
 var map = new L.map('map', mapOptions);
 
+L.control.navbar().addTo(map);
+
 // Add Tile Layer and add to map
 L.tileLayer('https://api.maptiler.com/maps/streets/{z}/{x}/{y}.png?key=8vFNrApGjV6jRicu4ins').addTo(map);
 
@@ -74,6 +76,27 @@ function volcanoSearch(feature, layer) {
     layer.bindPopup("<p>Name: " + feature.properties.NAME_ + "</p><p>Type: " + feature.properties.TYPE_ + "</p><p>Location: " + feature.properties.LOCATION + "</p>"); //LOCATION.layer = layer;
 
 };
+
+/*
+//Marker Cluster
+
+var markerClusters = L.markerClusterGroup();
+
+for (var i = 0; i < volcano.length; ++i) {
+    var popup = volcano[i].name +
+        '<br/>' + volcano[i].properties.NAME_ +
+        '<br/><b>Type:</b> ' + volcano[i].properties.TYPE_ +
+        '<br/><b>Location:</b> ' + volcano[i].properties.LOCATION;
+
+
+    var m = L.marker([volcano[i].lat, volcano[i].lng], { icon: geojsonMarkerOptions })
+        .bindPopup(popup);
+
+    markerClusters.addLayer(m);
+}
+
+map.addLayer(markerClusters);
+*/
 
 //-------------------------------------------Creating interactive buttons:Toggler button to show on/off worldwide volcanoes
 
@@ -207,11 +230,6 @@ function onMapClick(e) {
 // on click, run function to populate popup and open it on the map
 map.on('click', onMapClick);*/
 
-
-
-
-
-
 //----------------------------------------------------------------Map search
 
 // flyTo the latitude/longitude + zoom level based on the user selection
@@ -223,37 +241,3 @@ $("#countries").on("change", function() {
     map.flyTo([MapLat, MapLng], MapZoom);
 });
 
-
-//-----------Adding marker cluster
-/*
-var markers = L.markerClusterGroup({ chunkedLoading: true });
-
-L.markerClusterGroup({ chunkedLoading: true });
-for (var i = 0; i < volcanoPoints.length; i++) {
-    var a = volcanoPoints[i];
-    var title = a[2];
-    var marker = L.marker(L.latLng(a[0], a[1]), {
-        title: title
-    });
-    marker.bindPopup(title);
-    markers.addLayer(marker);
-}
-map.addLayer(markers);
-*/
-
-var markers = L.markerClusterGroup();
-markers.addLayer(L.marker(getRandomLatLng(map)));
-map.addLayer(markers);
-
-
-//magnified glass
-
-
-var magnifyingGlass = L.magnifyingGlass({
-    zoomOffset: 3,
-    layers: [
-      L.tileLayer('https://api.maptiler.com/maps/streets/{z}/{x}/{y}.png?key=8vFNrApGjV6jRicu4ins')
-    ]
-  });
-
-  map.addLayer(magnifyingGlass);

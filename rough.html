@@ -7,19 +7,17 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
     <!------Favicon---->
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon-32x32.png">
     <!------Bootstrap---->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" type="text/css" />
     <!------Font-awesome---->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" />
-
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
     <!------Leaflet CSS---->
-
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin="" />
-
+   
+   
     <!------Loading Leaflet API---->
-
     <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js" integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og==" crossorigin=""></script>
 
     <!-------Bootswatch Theme---->
@@ -31,21 +29,14 @@
     <!-------jQuery CDN---->
     <script src="https://code.jquery.com/jquery-3.4.1.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
 
-    <!-------CDN fuse.js for Search control ---->
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.4.5/fuse.min.js"></script>
+    <!-------Marker Cluster CSS-->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.4.1/MarkerCluster.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.4.1/MarkerCluster.Default.css" />
 
-    <!-------Leaflet Search plugin ---->
-    <link rel="stylesheet" href="assets/dist/leaflet-search.min.css" type="text/css" />
-    <link rel="stylesheet" href="assets/dist/leaflet.fusesearch.css" type="text/css" />
-    <link rel="stylesheet" href="assets/leaflet-search.src.css" type="text/css" />
-    <script type="text/javascript" src="assets/dist/leaflet-search.src.js"></script>
-    <script type="text/javascript" src="assets/dist/leaflet.fusesearch.js"></script>
-
-
-    <!-------Mapbox GL JS plugin for Clustering markers---->
+    <!-------Mapbox GL JS plugin for Clustering markers
     <link rel="stylesheet" type="text/css" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.css" />
     <link rel="stylesheet" type="text/css" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.Default.css" />
-    <script type='text/javascript' src='http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/leaflet.markercluster.js'></script>
+    <script type='text/javascript' src='http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/leaflet.markercluster.js'></script>---->
 
 
 
@@ -354,7 +345,7 @@
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-10">
                     <br>
-                    <div id="map" style="width: 100%; height: 750px; border-style: solid"></div>
+                    <div id="map" style="width: 100%; height: 700px; border-style: solid"></div>
 
                 </div>
                 <div class="col-sm-12 col-smd-12 col-lg-2">
@@ -362,30 +353,32 @@
 
                     <div>
                         <h3 class="text-danger">Did you know?</h3>
-                        <p>There are about 1,510 volcanoes that have erupted in the last 10,000 years. Let's hit the button to see the volcanoes all over the world.</p>
+                        <p class="paragraph">There are about 1,510 volcanoes that have erupted in the last 10,000 years. Let's hit the button to see the volcanoes all over the world.</p>
                     </div>
                     <div id="controls">
-                        <button class="btn btn-info show-hide-button" id="toggleButton">Show/Hide Volcanoes</button>
+                        <button class="btn btn-info show-hide-button btn-sm" id="toggleButton">Show/Hide Volcanoes</button>
                         <p>Zoom in and click on each Volcano to know their Name and Type.</p>
                         <p>Volcanoes are classified as active, dormant or extinct depending on the amount of volcanic activity happening.</p>
                         <button class="btn btn-info btn-sm" id="filterActiveVol">Active</button>
                         <button class="btn btn-info btn-sm" id="filterDormantVol">Dormant</button>
                         <button class="btn btn-info btn-sm" id="filterExtinctVol">Extinct</button>
-                        <p> “Active” means there’s regular activity, “dormant” means there’s been recent activity but that it’s currently quiet
-                            and “extinct”, meaning it’s been so long since the last eruption that it’s unlikely to ever erupt again.Clicking on the respective 
-                            buttons check where are they??</p>
-
+                        <div><br>
+                            <p class="paragraph"> “Active” means there’s regular activity, “dormant” means there’s been recent activity but that it’s currently quiet and “extinct”, meaning it’s been so long since the last eruption that it’s unlikely to ever erupt again. Clicking
+                                on the respective buttons check where are they??</p>
+                        </div>
+                        <div class="btn-group btn-sm">
                         <button class="invisible" id="addButton">Show Volcanoes Worldwide</button>
                         <button class="invisible" id="removeButton">Hide Volcanoes Worldwide</button>
+                        </div>
                     </div>
                 </div>
 
                 <div class="col-sm-12 col-smd-12 col-lg-12">
-                    <br> Check out some more fascinating facts about volcanoes
+                <p>Check out some more fascinating facts about volcanoes
                     <!-- Button trigger modal -->
                     <a class="text-info pointer" data-toggle="modal" data-target="#exampleModalCenter">
   <em>here</em>
-</a>
+</a></p>
 
                     <!-- Modal -->
                     <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
@@ -442,8 +435,12 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 
     <script type="text/javascript" src="data/harvard-glb-volc-geojson.js"></script>
-    <script type="text/javascript" src="assets/js/scripts.js"></script>
+    
 
+    <script src="https://rawgit.com/mejackreed/Leaflet-IIIF/master/leaflet-iiif.js"></script>
+    <script src="https://cdn.rawgit.com/bbecquet/Leaflet.MagnifyingGlass/leaflet-0.7.2/leaflet.magnifyingglass.js"></script>
+    
+    <script type="text/javascript" src="assets/js/scripts.js"></script>
 </body>
 
 </html>

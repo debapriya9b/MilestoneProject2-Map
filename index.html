@@ -15,8 +15,8 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
     <!------Leaflet CSS---->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin="" />
-   
-   
+
+
     <!------Loading Leaflet API---->
     <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js" integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og==" crossorigin=""></script>
 
@@ -25,20 +25,14 @@
 
     <!-------Custom CSS---->
     <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
+    <link rel="stylesheet" href="assets/css/Leaflet.NavBar.css" type="text/css" />
 
     <!-------jQuery CDN---->
     <script src="https://code.jquery.com/jquery-3.4.1.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
-
-    <!-------Marker Cluster CSS-->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.4.1/MarkerCluster.css" />
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.4.1/MarkerCluster.Default.css" />
-
-    <!-------Mapbox GL JS plugin for Clustering markers
+    <!-------Marker Cluster---->
+    <link rel="stylesheet" type="text/css" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
     <link rel="stylesheet" type="text/css" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.css" />
     <link rel="stylesheet" type="text/css" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.Default.css" />
-    <script type='text/javascript' src='http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/leaflet.markercluster.js'></script>---->
-
-
 
 
 
@@ -367,16 +361,16 @@
                                 on the respective buttons check where are they??</p>
                         </div>
                         <div class="btn-group btn-sm">
-                        <button class="invisible" id="addButton">Show Volcanoes Worldwide</button>
-                        <button class="invisible" id="removeButton">Hide Volcanoes Worldwide</button>
+                            <button class="invisible" id="addButton">Show Volcanoes Worldwide</button>
+                            <button class="invisible" id="removeButton">Hide Volcanoes Worldwide</button>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-sm-12 col-smd-12 col-lg-12">
-                <p>Check out some more fascinating facts about volcanoes
-                    <!-- Button trigger modal -->
-                    <a class="text-info pointer" data-toggle="modal" data-target="#exampleModalCenter">
+                    <p>Check out some more fascinating facts about volcanoes
+                        <!-- Button trigger modal -->
+                        <a class="text-info pointer" data-toggle="modal" data-target="#exampleModalCenter">
   <em>here</em>
 </a></p>
 
@@ -431,17 +425,14 @@
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-
     <script type="text/javascript" src="data/harvard-glb-volc-geojson.js"></script>
-    <script type="text/javascript" src="assets/js/scripts.js"></script>
 
-    <script src="https://rawgit.com/mejackreed/Leaflet-IIIF/master/leaflet-iiif.js"></script>
-    <script src="https://cdn.rawgit.com/bbecquet/Leaflet.MagnifyingGlass/leaflet-0.7.2/leaflet.magnifyingglass.js"></script>
-    
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.4.1/leaflet.markercluster-src.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.4.1/leaflet.markercluster.js"></script>
+    <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js'></script>
+    <script type='text/javascript' src='http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js'></script>
+    <script type='text/javascript' src='http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/leaflet.markercluster.js'></script>
+    <script type="text/javascript" src="assets/js/Leaflet.NavBar.js"></script>
+    <script type="text/javascript" src="assets/js/scripts.js"></script>
 
 </body>
 

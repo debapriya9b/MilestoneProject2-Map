@@ -12,23 +12,24 @@ body {
 }
 
 .page-header {
-    color: #ffffff;
+  color: #ffffff;
 }
+
 .header-details {
   text-align: center;
 }
 
 #countries {
-    grid-area: countries;
-    font-size: 1.5vmax;
-    font-weight: bold;
-    color: #000000;
-    background-color: #ffffff;
-    border-radius: 5px;
-    border: 1px solid #17a2b8;
-    outline: none;
-    text-align: right;
-    border-radius: 12px;
+  grid-area: countries;
+  font-size: 1.5vmax;
+  font-weight: bold;
+  color: #000000;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid #17a2b8;
+  outline: none;
+  text-align: right;
+  border-radius: 12px;
 }
 
 .paragraph {
@@ -46,7 +47,7 @@ body {
 }
 
 
-.modal-body-details{
+.modal-body-details {
   font-size: 25px;
 }
 
@@ -57,7 +58,7 @@ body {
   color: #ffffff;
   font-weight: normal;
   font-size: medium;
-  
+
 }
 
 .footer-details {
@@ -65,7 +66,7 @@ body {
   height: 3em;
   font-size: smaller;
   text-align: center;
-  color:#ffffff;
+  color: #ffffff;
   font-weight: 100;
   padding-top: 10px;
 }
@@ -74,4 +75,27 @@ body {
 .end-modal-details {
   padding: 25px;
 }
+
+
+
+
+
+
+
+
+
+
+
+/*
+@media only screen and (min-width: 768px) {
+    /* tablets and desktop 
+}
+
+@media only screen and (max-width: 767px) {
+    /* phones 
+}
+
+@media only screen and (max-width: 767px) and (orientation: portrait) {
+    /* portrait phones 
+}*/
 
