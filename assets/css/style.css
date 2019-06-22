@@ -13,12 +13,7 @@ body {
 .page-header {
   color: #ffffff;
 }
-/*sticky navbar*/
-.sticky {
-  position: fixed;
-  top: 0;
-  
-}
+
 
 /*Navbar country search*/
 
@@ -36,6 +31,15 @@ body {
 }
 
 /*section*/
+
+.content{
+  margin-top: 90px;
+}
+
+.paragraph-heading{
+  margin-top: 10px;
+}
+
 .paragraph {
   margin-bottom: 0;
 }

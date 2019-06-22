@@ -10,6 +10,7 @@ $(document).ready(function() {
     $("#myModal").modal('show');
 });
 
+
 //------------------------------------------------Creating map/Tile Layer/Popup
 
 
@@ -231,3 +232,4 @@ $("#countries").on("change", function() {
         MapZoom = parseInt(countryData[2]);
     map.flyTo([MapLat, MapLng], MapZoom);
 });
+
