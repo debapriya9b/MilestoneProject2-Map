@@ -9,13 +9,18 @@ body {
   background: #ffffff;
 }
 
+/*header*/
 .page-header {
   color: #ffffff;
 }
-
-.header-details {
-  text-align: center;
+/*sticky navbar*/
+.sticky {
+  position: fixed;
+  top: 0;
+  
 }
+
+/*Navbar country search*/
 
 #countries {
   grid-area: countries;
@@ -30,34 +35,34 @@ body {
   border-radius: 12px;
 }
 
+/*section*/
 .paragraph {
   margin-bottom: 0;
 }
-
-.volcano-fact-link {
-  color: #17a2b8;
-  font-weight: bold;
-  font-size: 15px;
-}
-
-.pointer {
-  cursor: pointer;
-}
-
 
 .modal-body-details {
   font-size: 25px;
 }
 
-
+/*Interactive buttons for map*/
 
 .show-hide-button {
   margin: 5px;
   color: #ffffff;
   font-weight: normal;
   font-size: medium;
-
 }
+
+/*End modal activate pointer*/
+.pointer {
+  cursor: pointer;
+}
+
+/*End modal details*/
+.end-modal-details {
+  padding: 25px;
+}
+/*Footer*/
 
 .footer-details {
   background-color: #000000;
@@ -70,10 +75,7 @@ body {
 }
 
 
-.end-modal-details {
-  padding: 25px;
-}
-
+/*Media query for small screen*/
 
 @media only screen and (max-width: 767px) {
   .modal-body-details {

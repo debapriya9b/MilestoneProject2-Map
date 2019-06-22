@@ -79,22 +79,16 @@ function volcanoSearch(feature, layer) {
 
 /*
 //Marker Cluster
-
 var markerClusters = L.markerClusterGroup();
-
 for (var i = 0; i < volcano.length; ++i) {
     var popup = volcano[i].name +
         '<br/>' + volcano[i].properties.NAME_ +
         '<br/><b>Type:</b> ' + volcano[i].properties.TYPE_ +
         '<br/><b>Location:</b> ' + volcano[i].properties.LOCATION;
-
-
     var m = L.marker([volcano[i].lat, volcano[i].lng], { icon: geojsonMarkerOptions })
         .bindPopup(popup);
-
     markerClusters.addLayer(m);
 }
-
 map.addLayer(markerClusters);
 */
 
@@ -215,10 +209,8 @@ function filterExtinctVol() {
 //----------------------------------------------------------------Map popup
 
 /*
-
 // create an empty popup element
 var popup = L.popup();
-
 // A function that will populate the popup element using methods from the popup object
 function onMapClick(e) {
     popup
@@ -226,7 +218,6 @@ function onMapClick(e) {
         .setContent("You clicked the map at " + e.latlng.toString())
         .openOn(map);
 }
-
 // on click, run function to populate popup and open it on the map
 map.on('click', onMapClick);*/
 
@@ -240,4 +231,3 @@ $("#countries").on("change", function() {
         MapZoom = parseInt(countryData[2]);
     map.flyTo([MapLat, MapLng], MapZoom);
 });
-
