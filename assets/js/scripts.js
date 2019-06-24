@@ -60,7 +60,7 @@ var geojsonMarkerOptionsDormant = {
     fillColor: "#00CC00",
     color: "#000",
     weight: 1,
-    opacity: 1,
+    opacity: 0.5,
     fillOpacity: 0.5
 };
 
