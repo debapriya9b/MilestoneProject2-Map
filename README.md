@@ -19,7 +19,7 @@ This datalayer is point coverage containing basic geographic and geologic inform
 
 Currently the data from [Global GIS:volcanoes of the world;volcano basic data](https://earthworks.stanford.edu/catalog/harvard-glb-volc) is free, but it's not visually interactive to use.
 
-I wanted to make this project open-source and fully interactive, so I have decided to use [Leaflet](https://leafletjs.com/) instead of Google Maps due to the Google pricing implementation as of 16 July 2018. The majority of the Volcano data is taken from [Global GIS], but for the current status of the listed Volcanoes has been referred from [ Wikipedia ] (https://en.wikipedia.org/wiki/Lists_of_volcanoes)
+I wanted to make this project open-source and fully interactive, so I have decided to use [Leaflet](https://leafletjs.com/) instead of Google Maps due to the Google pricing implementation as of 16 July 2018. The majority of the Volcano data is taken from [Global GIS], but for the current status of the listed Volcanoes [ Wikipedia ] (https://en.wikipedia.org/wiki/Lists_of_volcanoes) has been referred.
 
 ## UX
 
