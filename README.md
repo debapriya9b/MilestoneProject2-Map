@@ -17,7 +17,7 @@ I decided to combine the use of a mapping API with data  from (https://earthwork
 
 This datalayer is point coverage containing basic geographic and geologic information for worldwide volcanoes thought to have been active in the last 10,000 years (Holocene). The data is a collection of information by Smithsonian Institution volcanologists summarizing 1,509 volcanoes and this version of the data set was published as part of the USGS Global GIS : global coverage database.The listings are not intended to be a comprehensive bibliography of references for a particular volcano or region, but represent those references that are cited as the sources of the volcano and eruption data in the CAVW ( Smithsonian's volcano database is the "Catalog of Active Volcanoes of the World").
 
-Currently it's free to search the [Global GIS:volcanoes of the world;volcano basic data](https://earthworks.stanford.edu/catalog/harvard-glb-volc), but it's not visually interactive to use.
+Currently the data from [Global GIS:volcanoes of the world;volcano basic data](https://earthworks.stanford.edu/catalog/harvard-glb-volc) is free, but it's not visually interactive to use.
 
 I wanted to make this project open-source and fully interactive, so I have decided to use [Leaflet](https://leafletjs.com/) instead of Google Maps due to the Google pricing implementation as of 16 July 2018. The majority of the Volcano data is taken from [Global GIS], but for the current status of the listed Volcanoes has been referred from [ Wikipedia ] (https://en.wikipedia.org/wiki/Lists_of_volcanoes)
 
