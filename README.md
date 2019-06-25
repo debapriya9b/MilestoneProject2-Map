@@ -35,3 +35,27 @@ I wanted to make this project open-source and fully interactive, so I have decid
 - Used Bootswatch template (https://bootswatch.com/sketchy/) : To make the site visually attractive specially for young explorers
 
 #### WIREFRAMES
+
+
+## FEATURES
+
+#### EXISTING FEATURES
+
+
+#### FEATURES TO BE IMPLEMENTED
+
+## TECHNOLOGIES USED
+
+Brief overview of the languages, frameworks, and other tools I've used on this project:
+
+- [HTML5](https://en.wikipedia.org/wiki/HTML5): Semantic markup language as the shell of the site.
+- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets): Cascading Style Sheets as the design of the site.
+- [Bootstrap](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework): Allows for a responsive layout across various platforms.
+- [Bootswatch](https://bootswatch.com/): Allows for a responsive layout across various platforms.
+- [JavaScript](https://www.javascript.com): Primary function of the site for all user interaction.
+- [jQuery](https://jquery.com/): Used to simplify some of the DOM minipulations.
+- [Leaflet](https://leafletjs.com/): An open-source JavaScript library for interactive maps.
+- [Leaflet Plugins](https://leafletjs.com/plugins.html): Plugins to allow better functionality of Leaflet.
+- [ConvertCSV.com](http://www.convertcsv.com/csv-to-geojson.htm): Used to convert data from GeoJSON to CSV and vice versa to modify data taken from Wikipedia.
+
+
