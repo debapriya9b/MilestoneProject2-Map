@@ -50,7 +50,7 @@ Brief overview of the languages, frameworks, and other tools I've used on this p
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5): Semantic markup language as the shell of the site.
 - [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets): Cascading Style Sheets as the design of the site.
-- [Bootstrap](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework): Allows for a responsive layout across various platforms.
+- [Bootstrap](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)): Allows for a responsive layout across various platforms.
 - [Bootswatch](https://bootswatch.com/): Allows for a responsive layout across various platforms.
 - [JavaScript](https://www.javascript.com): Primary function of the site for all user interaction.
 - [jQuery](https://jquery.com/): Used to simplify some of the DOM minipulations.
