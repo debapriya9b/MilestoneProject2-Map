@@ -58,4 +58,35 @@ Brief overview of the languages, frameworks, and other tools I've used on this p
 - [Leaflet Plugins](https://leafletjs.com/plugins.html): Plugins to allow better functionality of Leaflet.
 - [ConvertCSV.com](http://www.convertcsv.com/csv-to-geojson.htm): Used to convert data from GeoJSON to CSV and vice versa to modify data taken from Wikipedia.
 
+## TESTING
+
+#### TEST MATRIX
+
+I created a Excel sheet which outlines the various tests I made to ensure the site renders consistently across different platforms, and that each functionality behaves as intended. Jasmine testing was not essential for this particular project.
+
+
+
+## DEPLOYMENT
+
+This particular project does not require any local deployment.
+
+Deployment and source control was entirely done via GitHub. My repository can be found here:
+
+- **Repo: [https://github.com/TravelTimN/ci-milestone02-ifd](https://github.com/TravelTimN/ci-milestone02-ifd)**
+
+I've published the source code built from the *master branch* using **GitHub Pages**.
+
+The live site can be found here:
+
+- **GH Pages: [https://traveltimn.github.io/ci-milestone02-ifd](https://traveltimn.github.io/ci-milestone02-ifd)**
+
+There are no difference between the deployed version and the development version.
+
+## CREDITS
+
+
+
+
+
+
 
