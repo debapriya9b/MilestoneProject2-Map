@@ -77,7 +77,7 @@ I've published the source code built from the *master branch* using **GitHub Pag
 
 The live site can be found here:
 
-- **GH Pages: [https://debapriya9b.github.io/MilestoneProject2-Map/](https://debapriya9b.github.io/MilestoneProject2-Map/)**
+- **GH Pages:link should be given
 
 There are no difference between the deployed version and the development version.
 
