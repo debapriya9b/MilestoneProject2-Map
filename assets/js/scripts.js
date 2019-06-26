@@ -33,7 +33,9 @@ var map = new L.map('map', mapOptions);
 L.control.navbar().addTo(map);
 
 // Add Tile Layer and add to map
-L.tileLayer('https://api.maptiler.com/maps/streets/{z}/{x}/{y}.png?key=8vFNrApGjV6jRicu4ins').addTo(map);
+L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
+	attribution: 'Tiles &copy; Esri &mdash; National Geographic, Esri, DeLorme, NAVTEQ, UNEP-WCMC, USGS, NASA, ESA, METI, NRCAN, GEBCO, NOAA, iPC'
+}).addTo(map);
 
 //Adding geoJson data and adding the marker and popup
 
@@ -78,20 +80,6 @@ function volcanoSearch(feature, layer) {
 
 };
 
-/*
-//Marker Cluster
-var markerClusters = L.markerClusterGroup();
-for (var i = 0; i < volcano.length; ++i) {
-    var popup = volcano[i].name +
-        '<br/>' + volcano[i].properties.NAME_ +
-        '<br/><b>Type:</b> ' + volcano[i].properties.TYPE_ +
-        '<br/><b>Location:</b> ' + volcano[i].properties.LOCATION;
-    var m = L.marker([volcano[i].lat, volcano[i].lng], { icon: geojsonMarkerOptions })
-        .bindPopup(popup);
-    markerClusters.addLayer(m);
-}
-map.addLayer(markerClusters);
-*/
 
 //-------------------------------------------Creating interactive buttons:Toggler button to show on/off worldwide volcanoes
 
