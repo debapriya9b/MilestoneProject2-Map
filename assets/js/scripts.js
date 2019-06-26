@@ -189,27 +189,10 @@ function filterExtinctVol() {
         onEachFeature: volcanoSearch,
         filter: function(feature, layer) {
             return feature.properties.STATUS == "Extinct";
-        }
+        },
+        
     }).addTo(map);
 }
-
-
-
-//----------------------------------------------------------------Map popup
-
-/*
-// create an empty popup element
-var popup = L.popup();
-// A function that will populate the popup element using methods from the popup object
-function onMapClick(e) {
-    popup
-        .setLatLng(e.latlng)
-        .setContent("You clicked the map at " + e.latlng.toString())
-        .openOn(map);
-}
-// on click, run function to populate popup and open it on the map
-map.on('click', onMapClick);*/
-
 //----------------------------------------------------------------Map search
 
 // flyTo the latitude/longitude + zoom level based on the user selection
