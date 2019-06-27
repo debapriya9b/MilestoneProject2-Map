@@ -1,5 +1,5 @@
 
-
+#### **[Live Site](https://debapriya9b.github.io/MilestoneProject2-Map/)**
 
 # Volcanoes of the World-MAP
 
@@ -77,7 +77,7 @@ I've published the source code built from the *master branch* using **GitHub Pag
 
 The live site can be found here:
 
-- **GH Pages:link should be given
+- **GH Pages: [https://debapriya9b.github.io/MilestoneProject2-Map/](https://debapriya9b.github.io/MilestoneProject2-Map/)**
 
 There are no difference between the deployed version and the development version.
 
